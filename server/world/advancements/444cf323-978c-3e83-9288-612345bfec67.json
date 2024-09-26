@@ -1,0 +1,267 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-09-23 11:39:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-09-23 11:40:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "frozen_tundra": "2024-09-23 11:44:25 +0000",
+      "highland_fields": "2024-09-25 08:01:06 +0000",
+      "frozen_pine_taiga": "2024-09-23 11:40:14 +0000",
+      "outback": "2024-09-25 07:50:17 +0000",
+      "cold_boreal_taiga": "2024-09-23 11:46:19 +0000",
+      "saguaro_desert": "2024-09-23 11:50:25 +0000",
+      "grassland": "2024-09-23 11:50:19 +0000",
+      "hyacinth_deeps": "2024-09-23 11:42:09 +0000",
+      "icy_heights": "2024-09-23 11:45:34 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "frozen_tundra": "2024-09-23 11:44:25 +0000",
+      "highland_fields": "2024-09-25 08:01:06 +0000",
+      "frozen_pine_taiga": "2024-09-23 11:40:14 +0000",
+      "outback": "2024-09-25 07:50:17 +0000",
+      "cold_boreal_taiga": "2024-09-23 11:46:19 +0000",
+      "saguaro_desert": "2024-09-23 11:50:25 +0000",
+      "grassland": "2024-09-23 11:50:19 +0000",
+      "hyacinth_deeps": "2024-09-23 11:42:09 +0000",
+      "icy_heights": "2024-09-23 11:45:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2024-09-23 11:46:07 +0000",
+      "minecraft:deep_ocean": "2024-09-23 11:49:35 +0000",
+      "minecraft:frozen_river": "2024-09-23 11:45:55 +0000",
+      "minecraft:birch_forest": "2024-09-25 08:15:11 +0000",
+      "minecraft:wooded_badlands": "2024-09-25 07:50:28 +0000",
+      "minecraft:badlands": "2024-09-25 07:50:57 +0000",
+      "minecraft:lukewarm_ocean": "2024-09-23 11:49:47 +0000",
+      "minecraft:river": "2024-09-25 07:50:30 +0000",
+      "minecraft:snowy_plains": "2024-09-23 11:44:18 +0000",
+      "minecraft:snowy_taiga": "2024-09-23 11:46:02 +0000",
+      "minecraft:cold_ocean": "2024-09-23 11:42:34 +0000",
+      "minecraft:forest": "2024-09-25 08:15:12 +0000",
+      "minecraft:deep_cold_ocean": "2024-09-23 11:42:18 +0000",
+      "minecraft:frozen_ocean": "2024-09-23 11:41:33 +0000",
+      "minecraft:ocean": "2024-09-23 11:49:36 +0000",
+      "minecraft:snowy_beach": "2024-09-23 11:46:08 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-09-23 11:50:01 +0000",
+      "minecraft:meadow": "2024-09-25 07:52:16 +0000",
+      "minecraft:savanna": "2024-09-25 08:15:52 +0000",
+      "minecraft:plains": "2024-09-25 08:15:21 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2024-09-23 11:41:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_boat": {
+    "criteria": {
+      "in_water": "2024-09-23 11:41:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-09-23 11:41:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-09-23 11:41:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_boat": {
+    "criteria": {
+      "in_water": "2024-09-23 11:41:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2024-09-23 11:41:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_boat": {
+    "criteria": {
+      "in_water": "2024-09-23 11:41:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-09-23 11:41:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-09-23 11:41:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_boat": {
+    "criteria": {
+      "in_water": "2024-09-23 11:41:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2024-09-23 11:41:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2024-09-23 11:41:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-09-23 11:41:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_boat": {
+    "criteria": {
+      "in_water": "2024-09-23 11:41:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-09-23 11:41:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-09-23 11:41:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-09-23 11:41:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2024-09-23 11:41:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "has_the_recipe": "2024-09-23 11:41:34 +0000",
+      "in_water": "2024-09-23 11:41:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-09-23 11:41:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/mauve_boat": {
+    "criteria": {
+      "in_water": "2024-09-23 11:41:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-09-23 11:41:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2024-09-23 11:41:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-09-23 11:41:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_boat": {
+    "criteria": {
+      "in_water": "2024-09-23 11:41:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-09-23 11:41:34 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/find_meadow": {
+    "criteria": {
+      "meadow": "2024-09-25 07:52:16 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-09-25 07:57:03 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/root": {
+    "criteria": {
+      "seeds": "2024-09-25 07:57:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-09-25 07:57:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_sea_lantern": "2024-09-25 08:03:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-09-25 08:12:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2024-09-25 08:12:18 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

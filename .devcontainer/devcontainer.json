@@ -1,0 +1,20 @@
+{
+    "name": "Server Autorun",
+    "remoteUser": "codespace",
+    "containerUser": "codespace",
+    "forwardPorts": [], // [codespace-id]-[port].githubpreview.dev
+    "customizations": {
+        // Configure properties specific to VS Code.
+        "vscode": {
+            "extensions": [
+                "GitHub.vscode-pull-request-github"
+            ]
+        }
+    },
+
+
+    "postCreateCommand": "bash '/workspaces/Ourcraft/fixperms.sh'",
+
+    "postStartCommand": "bash '/workspaces/Ourcraft/autostart.sh'"
+    
+}

@@ -1,0 +1,46 @@
+{
+	use_permissions: false,
+	allow_home_command: true,
+	allow_back_command: true,
+	allow_spawn_command: true,
+	// This message is sent after a player is teleported home.
+
+
+
+
+
+
+	home_message: "Teleported you to your home!",
+	// This message is sent after a player is teleported to place of last death.
+
+
+
+
+
+
+	back_message: "Teleported you to your place of last death!",
+	// This message is sent after a player sets their spawn.
+
+
+
+
+
+
+	spawn_message: "Spawnpoint set!",
+	// How long should the players have to wait before being able to use /back after dying
+
+
+
+
+
+
+	back_command_wait_timer: 0,
+	// Players won't be able to use any commands while combat tagged. Requires 'Combat-timer' mod.
+
+
+
+
+
+
+	use_combat_timer: false
+}
