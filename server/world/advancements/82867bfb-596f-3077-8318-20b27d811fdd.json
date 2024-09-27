@@ -6576,5 +6576,11 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/birch_shrub": {
+    "criteria": {
+      "has_birch_sapling": "2024-09-27 13:43:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
