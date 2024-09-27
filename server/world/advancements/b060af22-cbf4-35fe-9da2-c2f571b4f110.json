@@ -6812,15 +6812,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/egg_sandwich": {
-    "criteria": {
-      "has_fried_egg": "2024-09-27 08:10:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/raw_copper": {
     "criteria": {
       "has_raw_copper_block": "2024-09-27 08:07:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2024-09-27 08:10:09 +0000"
     },
     "done": true
   },
