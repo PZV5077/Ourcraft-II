@@ -1169,3 +1169,9 @@ EdenBiomeSource (7f451a61)
 [00:12:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [00:12:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
 [00:12:04] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[00:13:45] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu]]
+[00:13:51] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu] (set value to 337)]
+[00:14:12] [Server thread/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[00:14:12] [Server thread/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[00:15:06] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu]]
+[00:17:17] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu]]
