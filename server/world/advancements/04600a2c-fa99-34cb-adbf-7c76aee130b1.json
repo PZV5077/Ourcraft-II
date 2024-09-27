@@ -6497,6 +6497,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-09-27 07:35:35 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
     "criteria": {
       "has_log": "2024-09-27 07:20:53 +0000"
