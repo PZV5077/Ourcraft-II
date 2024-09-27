@@ -1647,6 +1647,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2024-09-26 05:22:05 +0000",
+      "redstone_abyss": "2024-09-27 14:00:58 +0000",
       "pine_taiga": "2024-09-26 04:28:35 +0000",
       "prismachasm": "2024-09-26 04:20:47 +0000",
       "ancient_delta": "2024-09-26 05:00:17 +0000",
@@ -1655,6 +1656,7 @@
       "blackwood_taiga": "2024-09-26 04:55:18 +0000",
       "rocky_meadow": "2024-09-27 06:59:30 +0000",
       "highland_fields": "2024-09-26 03:42:22 +0000",
+      "maple_forest": "2024-09-27 13:54:29 +0000",
       "magnolia_highlands": "2024-09-26 05:22:55 +0000",
       "sparse_redwoods": "2024-09-26 04:55:21 +0000",
       "deciduous_forest": "2024-09-26 04:53:23 +0000",
@@ -1674,6 +1676,7 @@
       "blackwood_taiga": "2024-09-26 04:55:18 +0000",
       "rocky_meadow": "2024-09-27 06:59:30 +0000",
       "highland_fields": "2024-09-26 03:42:22 +0000",
+      "maple_forest": "2024-09-27 13:54:29 +0000",
       "magnolia_highlands": "2024-09-26 05:22:55 +0000",
       "sparse_redwoods": "2024-09-26 04:55:21 +0000",
       "deciduous_forest": "2024-09-26 04:53:23 +0000",
@@ -5579,6 +5582,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-09-27 13:57:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2024-09-27 13:45:52 +0000"
@@ -5597,9 +5606,27 @@
     },
     "done": true
   },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "redstone_abyss": "2024-09-27 14:00:58 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-09-27 13:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-09-27 14:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-09-27 14:01:14 +0000"
     },
     "done": true
   },
@@ -5615,6 +5642,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-09-27 14:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-09-27 14:01:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_brick_slab": "2024-09-27 13:57:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2024-09-27 14:01:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-09-27 13:45:52 +0000"
@@ -5624,6 +5675,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-09-27 13:50:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-09-27 13:57:00 +0000"
     },
     "done": true
   },
@@ -5645,9 +5702,21 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-09-27 13:57:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-09-27 13:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-09-27 14:00:57 +0000"
     },
     "done": true
   },
@@ -5657,9 +5726,51 @@
     },
     "done": true
   },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "supplementaries:blackboard_white": "2024-09-27 14:01:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2024-09-27 14:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-09-27 14:01:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-09-27 13:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-09-27 14:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-09-27 14:00:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-09-27 13:57:02 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/proximity_fuze": {
+    "criteria": {
+      "has_quartz": "2024-09-27 14:01:14 +0000"
     },
     "done": true
   },
