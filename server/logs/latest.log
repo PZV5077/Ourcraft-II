@@ -1314,3 +1314,7 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [05:23:06] [Server thread/INFO]: hwhw lost connection: Disconnected
 [05:23:06] [Server thread/INFO]: hwhw left the game
 [05:27:11] [Server thread/INFO]: jjjjjasper was slain by hhhh_w using [Star Platinum]
+[05:28:48] [Server thread/INFO]: jjjjjasper lost connection: Disconnected
+[05:28:48] [Server thread/INFO]: jjjjjasper left the game
+[05:30:50] [Server thread/INFO]: hhhh_w lost connection: Timed out
+[05:30:50] [Server thread/INFO]: hhhh_w left the game
