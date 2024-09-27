@@ -1520,3 +1520,5 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [12:27:41] [Server thread/WARN]: Boat (vehicle of CheessRevolution) moved too quickly! 1.2143175677811087,0.0,-13.039835750809317
 [12:27:41] [Server thread/WARN]: Boat (vehicle of CheessRevolution) moved too quickly! 1.235139376085499,0.0,-13.3887450492619
 [12:27:41] [Server thread/WARN]: Boat (vehicle of CheessRevolution) moved too quickly! 1.256236132070626,0.0,-13.742693898464807
+[12:33:24] [Server thread/WARN]: Littlebugs404_ moved too quickly! -7.5119554373977735,0.14168517272452164,6.761755441033159
+[12:41:53] [Server thread/INFO]: Littlebugs404_ has made the advancement [Sneak 100]

@@ -20,6 +20,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-09-26 06:48:03 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-09-27 12:30:53 +0000",
       "minecraft:taiga": "2024-09-27 11:56:49 +0000",
       "minecraft:deep_ocean": "2024-09-25 10:30:35 +0000",
       "minecraft:frozen_river": "2024-09-26 10:49:53 +0000",
@@ -34,9 +35,11 @@
       "minecraft:grove": "2024-09-27 11:56:00 +0000",
       "minecraft:cold_ocean": "2024-09-25 10:36:24 +0000",
       "minecraft:forest": "2024-09-25 09:57:22 +0000",
+      "minecraft:lush_caves": "2024-09-27 12:34:14 +0000",
       "minecraft:deep_cold_ocean": "2024-09-25 10:40:40 +0000",
       "minecraft:frozen_ocean": "2024-09-26 06:44:13 +0000",
       "minecraft:ocean": "2024-09-25 10:09:09 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-09-27 12:31:33 +0000",
       "minecraft:snowy_beach": "2024-09-26 06:45:04 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-09-25 10:26:38 +0000",
       "minecraft:flower_forest": "2024-09-25 09:56:31 +0000",
@@ -6829,15 +6832,81 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2024-09-27 11:43:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2024-09-27 11:43:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2024-09-27 11:43:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2024-09-27 11:44:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2024-09-27 11:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-09-27 11:50:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-09-27 11:50:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-09-27 11:50:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-09-27 11:51:28 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
     "criteria": {
-      "has_stone_types_limestone": "2024-09-27 11:58:14 +0000"
+      "has_feather": "2024-09-27 11:51:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2024-09-27 11:51:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-09-27 11:51:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-09-27 11:51:28 +0000"
     },
     "done": true
   },
@@ -6850,6 +6919,24 @@
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
     "criteria": {
       "has_sweet_berries": "2024-09-27 11:57:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2024-09-27 11:57:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2024-09-27 11:57:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-09-27 11:58:14 +0000"
     },
     "done": true
   },
@@ -6877,39 +6964,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/beef_patty_from_campfire_cooking": {
-    "criteria": {
-      "beef_patty": "2024-09-27 12:07:42 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-09-27 11:58:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2024-09-27 12:04:10 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
-    "criteria": {
-      "has_feather": "2024-09-27 11:51:28 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/cooked_mutton_chops_from_campfire_cooking": {
-    "criteria": {
-      "cooked_mutton_chops": "2024-09-27 12:07:48 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/feather_block": {
-    "criteria": {
-      "has_feather": "2024-09-27 11:51:28 +0000"
     },
     "done": true
   },
@@ -6919,40 +6976,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2024-09-27 11:50:19 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-09-27 11:58:14 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/cooked_mutton_chops": {
-    "criteria": {
-      "cooked_mutton_chops": "2024-09-27 12:07:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2024-09-27 11:51:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:sheep": "2024-09-27 12:04:16 +0000",
-      "minecraft:cow": "2024-09-27 12:04:10 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2024-09-27 12:11:17 +0000"
     },
     "done": true
   },
@@ -6962,33 +6988,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_carpet": {
-    "criteria": {
-      "has_light_gray_wool": "2024-09-27 11:50:19 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/baking/sea_salt": {
-    "criteria": {
-      "has_ingredient": "2024-09-27 12:11:17 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-09-27 11:58:14 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/cooked_mutton_chops_from_smoking": {
-    "criteria": {
-      "cooked_mutton_chops": "2024-09-27 12:07:48 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/bacon_and_eggs": {
-    "criteria": {
-      "has_bacon": "2024-09-27 11:44:23 +0000"
     },
     "done": true
   },
@@ -7010,51 +7012,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2024-09-27 11:51:28 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/milk_bottle": {
-    "criteria": {
-      "has_milk_bucket": "2024-09-27 12:11:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2024-09-27 12:11:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/beef_patty": {
-    "criteria": {
-      "beef_patty": "2024-09-27 12:07:42 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-09-27 11:58:14 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cooked_bacon_from_campfire_cooking": {
-    "criteria": {
-      "cooked_bacon": "2024-09-27 11:43:40 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-09-27 11:58:14 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/food/dough": {
-    "criteria": {
-      "has_water": "2024-09-27 12:11:17 +0000"
     },
     "done": true
   },
@@ -7076,21 +7042,34 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/freezing/ice": {
-    "criteria": {
-      "has_ingredient": "2024-09-27 12:11:17 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/food/cheese": {
-    "criteria": {
-      "has_milk": "2024-09-27 12:11:12 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-09-27 11:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-09-27 12:04:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2024-09-27 12:04:16 +0000",
+      "minecraft:cow": "2024-09-27 12:04:10 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/farmersdelight/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2024-09-27 12:07:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/beef_patty": {
+    "criteria": {
+      "beef_patty": "2024-09-27 12:07:42 +0000"
     },
     "done": true
   },
@@ -7100,33 +7079,39 @@
     },
     "done": true
   },
-  "supplementaries:recipes/sugar_cube": {
+  "farmersdelight:recipes/farmersdelight/cooked_mutton_chops_from_campfire_cooking": {
     "criteria": {
-      "has_sugar": "2024-09-27 12:15:29 +0000"
+      "cooked_mutton_chops": "2024-09-27 12:07:48 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/bacon_sandwich": {
+  "farmersdelight:recipes/farmersdelight/cooked_mutton_chops": {
     "criteria": {
-      "has_bacon": "2024-09-27 11:44:23 +0000"
+      "cooked_mutton_chops": "2024-09-27 12:07:48 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/sweet_berry_cookie": {
+  "farmersdelight:recipes/farmersdelight/cooked_mutton_chops_from_smoking": {
     "criteria": {
-      "has_sweet_berries": "2024-09-27 11:57:09 +0000"
+      "cooked_mutton_chops": "2024-09-27 12:07:48 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cooked_bacon_from_smoking": {
+  "farmersdelight:recipes/farmersdelight/milk_bottle": {
     "criteria": {
-      "cooked_bacon": "2024-09-27 11:43:40 +0000"
+      "has_milk_bucket": "2024-09-27 12:11:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_banner": {
+  "farmersdelight:recipes/farmersdelight/cooking/glow_berry_custard": {
     "criteria": {
-      "has_light_gray_wool": "2024-09-27 11:50:19 +0000"
+      "has_any_ingredient": "2024-09-27 12:11:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2024-09-27 12:11:12 +0000"
     },
     "done": true
   },
@@ -7136,15 +7121,57 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_ingredient": "2024-09-27 11:57:09 +0000"
+      "has_water_bucket": "2024-09-27 12:11:17 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cooked_bacon": {
+  "refurbished_furniture:recipes/baking/sea_salt": {
     "criteria": {
-      "cooked_bacon": "2024-09-27 11:43:40 +0000"
+      "has_ingredient": "2024-09-27 12:11:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2024-09-27 12:11:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2024-09-27 12:11:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2024-09-27 12:15:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2024-09-27 12:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-09-27 12:34:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-09-27 12:34:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2024-09-27 12:38:27 +0000"
     },
     "done": true
   },
