@@ -12,8 +12,10 @@
 
 
 
+
 	home_message: "Teleported you to your home!",
 	// This message is sent after a player is teleported to place of last death.
+
 
 
 
@@ -32,6 +34,7 @@
 
 
 
+
 	spawn_message: "Spawnpoint set!",
 	// How long should the players have to wait before being able to use /back after dying
 
@@ -42,8 +45,10 @@
 
 
 
+
 	back_command_wait_timer: 0,
 	// Players won't be able to use any commands while combat tagged. Requires 'Combat-timer' mod.
+
 
 
 
