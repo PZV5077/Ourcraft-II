@@ -1644,6 +1644,7 @@
       "pine_taiga": "2024-09-26 04:28:35 +0000",
       "prismachasm": "2024-09-26 04:20:47 +0000",
       "ancient_delta": "2024-09-26 05:00:17 +0000",
+      "willow_forest": "2024-09-27 07:03:29 +0000",
       "redstone_caves": "2024-09-26 04:17:03 +0000",
       "blackwood_taiga": "2024-09-26 04:55:18 +0000",
       "rocky_meadow": "2024-09-27 06:59:30 +0000",
@@ -1662,6 +1663,7 @@
     "criteria": {
       "shrubland": "2024-09-26 05:22:05 +0000",
       "pine_taiga": "2024-09-26 04:28:35 +0000",
+      "willow_forest": "2024-09-27 07:03:29 +0000",
       "blackwood_taiga": "2024-09-26 04:55:18 +0000",
       "rocky_meadow": "2024-09-27 06:59:30 +0000",
       "highland_fields": "2024-09-26 03:42:22 +0000",
@@ -4636,6 +4638,18 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-09-27 05:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-09-27 07:00:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-09-27 07:00:52 +0000"
     },
     "done": true
   },
