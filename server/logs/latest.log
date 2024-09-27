@@ -1193,3 +1193,7 @@ EdenBiomeSource (4df9943d)
 [06:59:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [06:59:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
 [06:59:20] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[07:00:09] [Server thread/INFO]: hhhh_w was slain by Diavolo
+[07:00:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[07:00:33] [Server thread/INFO]: hhhh_w was slain by Diavolo
+[07:00:46] [Server thread/INFO]: Named entity class_1590['Diavolo'/34481, l='ServerLevel[world]', x=13939.86, y=64.67, z=-3749.42] died: Diavolo was slain by hhhh_w using [Star Platinum]
