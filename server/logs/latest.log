@@ -1318,3 +1318,16 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [05:28:48] [Server thread/INFO]: jjjjjasper left the game
 [05:30:50] [Server thread/INFO]: hhhh_w lost connection: Timed out
 [05:30:50] [Server thread/INFO]: hhhh_w left the game
+[06:32:58] [Server thread/INFO]: hhhh_w[/127.0.0.1:60524] logged in with entity id 149721 at (14121.427368886107, -53.0, -3903.699999988079)
+[06:32:58] [Server thread/INFO]: hhhh_w joined the game
+[06:32:58] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[06:32:58] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[06:32:58] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[06:32:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[06:32:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[06:32:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[06:32:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[06:32:58] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[06:33:21] [Server thread/INFO]: hhhh_w tried to swim in lava
+[06:34:14] [Server thread/INFO]: hhhh_w lost connection: Disconnected
+[06:34:14] [Server thread/INFO]: hhhh_w left the game
