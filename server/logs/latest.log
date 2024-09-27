@@ -1512,3 +1512,18 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [07:57:50] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
 [07:59:10] [Server thread/INFO]: Littlebugs404_ was slain by Littlebugs404_
 [07:59:10] [Server thread/WARN]: Littlebugs404_ moved too quickly! 3.0668054807611043,-5.806437633406524,-24.29087029324188
+[08:03:40] [Server thread/INFO]: CheessRevolution lost connection: Disconnected
+[08:03:40] [Server thread/INFO]: CheessRevolution left the game
+[08:04:31] [Server thread/INFO]: CheessRevolution[/127.0.0.1:41378] logged in with entity id 378989 at (13998.541337699377, 70.0, -264.22028387538944)
+[08:04:31] [Server thread/INFO]: CheessRevolution joined the game
+[08:04:32] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[08:04:32] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[08:04:32] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[08:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[08:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[08:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[08:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[08:04:32] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[08:04:59] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[08:06:04] [Server thread/INFO]: jjjjjasper has made the advancement [A Seedy Place]
