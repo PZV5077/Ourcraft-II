@@ -7100,6 +7100,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2024-09-27 12:15:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/bacon_sandwich": {
     "criteria": {
       "has_bacon": "2024-09-27 11:44:23 +0000"
