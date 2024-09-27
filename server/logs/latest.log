@@ -1369,3 +1369,21 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [07:14:47] [Server thread/INFO]: hhhh_w lost connection: Disconnected
 [07:14:47] [Server thread/INFO]: hhhh_w left the game
 [07:14:47] [Server thread/WARN]: handleDisconnection() called twice
+[07:15:29] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[07:15:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@4945e062[id=<null>,name=hhhh_w,properties={},legacy=false] (/127.0.0.1:39550) lost connection: Timed out
+[07:15:29] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[07:15:38] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[07:16:50] [Server thread/INFO]: hhhh_w[/127.0.0.1:49638] logged in with entity id 213459 at (13791.916446324567, 62.07326432466506, -233.2125511778361)
+[07:16:50] [Server thread/INFO]: hhhh_w joined the game
+[07:16:50] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[07:16:50] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[07:16:50] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[07:16:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[07:16:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[07:16:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[07:16:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[07:16:50] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[07:18:40] [Server thread/INFO]: jjjjjasper was doomed to fall
