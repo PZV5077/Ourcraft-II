@@ -6274,6 +6274,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2024-09-27 05:18:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2024-09-27 05:18:40 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/misc/wrought_iron_cannon_end": {
     "criteria": {
       "has_gunpowder": "2024-09-27 05:14:18 +0000"
@@ -6283,6 +6295,18 @@
   "farmersdelight:recipes/farmersdelight/skillet": {
     "criteria": {
       "has_brick": "2024-09-27 05:18:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_organic_compost": {
+    "criteria": {
+      "place_organic_compost": "2024-09-27 05:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-09-27 05:18:40 +0000"
     },
     "done": true
   },
@@ -6304,6 +6328,12 @@
     },
     "done": true
   },
+  "meadow:recipes/frame": {
+    "criteria": {
+      "has_campfire": "2024-09-27 05:26:34 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/misc/wrought_iron_cannon_chamber": {
     "criteria": {
       "has_gunpowder": "2024-09-27 05:14:18 +0000"
@@ -6313,6 +6343,12 @@
   "createbigcannons:recipes/misc/powder_charge": {
     "criteria": {
       "has_gunpowder": "2024-09-27 05:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2024-09-27 05:18:40 +0000"
     },
     "done": true
   },
@@ -6358,9 +6394,27 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2024-09-27 05:27:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2024-09-27 05:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2024-09-27 05:18:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-09-27 05:18:40 +0000"
     },
     "done": true
   },
@@ -6388,6 +6442,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/stove": {
+    "criteria": {
+      "has_campfire": "2024-09-27 05:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-09-27 05:18:40 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/misc/pair_of_cannon_wheels": {
     "criteria": {
       "has_gunpowder": "2024-09-27 05:14:18 +0000"
@@ -6403,6 +6469,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-09-27 05:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2024-09-27 05:23:21 +0000"
     },
     "done": true
   },
