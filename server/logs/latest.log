@@ -1527,3 +1527,8 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [08:04:59] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
 [08:06:04] [Server thread/INFO]: jjjjjasper has made the advancement [A Seedy Place]
+[08:12:56] [Server thread/WARN]: CheessRevolution moved too quickly! -8.387955383113876,-0.5358406250445569,-5.660832880869464
+[08:13:01] [Server thread/WARN]: CheessRevolution moved too quickly! -6.388954838785139,-1.1767592750642422,-7.98785466685402
+[08:13:34] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu]]
+[08:13:37] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu] (set value to 357)]
+[08:13:38] [Server thread/INFO]: hhhh_w has made the advancement [In order to grow, we must defeat the mistakes of our past]
