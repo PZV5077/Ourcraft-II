@@ -1386,3 +1386,5 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [11:41:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [11:41:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
 [11:41:32] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[11:46:29] [Server thread/INFO]: Littlebugs404_ was shot by CheessRevolution
+[11:46:40] [Server thread/INFO]: CheessRevolution was shot by Littlebugs404_
