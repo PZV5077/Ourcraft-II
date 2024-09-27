@@ -1348,3 +1348,24 @@ EdenBiomeSource (4df9943d)
 [07:10:42] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
 [07:10:49] [Server thread/INFO]: Teleported hhhh_w to 14000.500000, 70.000000, -289.500000
+[07:12:22] [Server thread/INFO]: hhhh_w was shot by CheessRevolution
+[07:14:04] [Server thread/WARN]: Boat (vehicle of CheessRevolution) moved wrongly! 0.2949771005751245
+[07:14:04] [Server thread/WARN]: Boat (vehicle of CheessRevolution) moved wrongly! 0.2949771005751245
+[07:14:04] [Server thread/WARN]: Boat (vehicle of CheessRevolution) moved wrongly! 0.2949771005751245
+[07:14:16] [Server thread/WARN]: Boat (vehicle of hhhh_w) moved too quickly! 17.308455287695324,0.0,1.9162350592242205
+[07:14:16] [Server thread/WARN]: Boat (vehicle of hhhh_w) moved too quickly! 16.92274195468599,0.0,1.8193041050613203
+[07:14:16] [Server thread/WARN]: Boat (vehicle of hhhh_w) moved too quickly! 16.53560426777767,0.0,1.7314795220393933
+[07:14:16] [Server thread/WARN]: Boat (vehicle of hhhh_w) moved too quickly! 14.136797660386947,0.0,2.1061123869701532
+[07:14:16] [Server thread/WARN]: Boat (vehicle of hhhh_w) moved too quickly! 13.749237088319205,0.0,2.018804569740979
+[07:14:16] [Server thread/WARN]: Boat (vehicle of hhhh_w) moved too quickly! 13.361311841510542,0.0,1.9318868134350566
+[07:14:16] [Server thread/WARN]: Boat (vehicle of hhhh_w) moved too quickly! 12.973072841568865,0.0,1.8452526124845008
+[07:14:16] [Server thread/WARN]: Boat (vehicle of hhhh_w) moved too quickly! 12.584564409200539,0.0,1.758813632310563
+[07:14:16] [Server thread/WARN]: Boat (vehicle of hhhh_w) moved too quickly! 12.19582570660532,0.0,1.6724941399256466
+[07:14:16] [Server thread/WARN]: Boat (vehicle of hhhh_w) moved too quickly! 11.806890415142334,0.0,1.586233483965259
+[07:14:16] [Server thread/WARN]: Boat (vehicle of hhhh_w) moved too quickly! 11.417788080621904,0.0,1.4999808360894065
+[07:14:16] [Server thread/WARN]: Boat (vehicle of hhhh_w) moved too quickly! 11.0285436886752,0.0,1.4136979507340186
+[07:14:16] [Server thread/WARN]: Boat (vehicle of hhhh_w) moved too quickly! 10.63917975989716,0.0,1.3273504143429307
+[07:14:16] [Server thread/WARN]: Boat (vehicle of hhhh_w) moved too quickly! 10.249714927418609,0.0,1.2409147481378113
+[07:14:47] [Server thread/INFO]: hhhh_w lost connection: Disconnected
+[07:14:47] [Server thread/INFO]: hhhh_w left the game
+[07:14:47] [Server thread/WARN]: handleDisconnection() called twice
