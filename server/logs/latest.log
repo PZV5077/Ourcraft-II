@@ -1478,3 +1478,25 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [07:51:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [07:51:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
 [07:51:41] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[07:53:28] [Server thread/INFO]: hhhh_w was shot by CheessRevolution
+[07:53:50] [Server thread/INFO]: hhhh_w was shot by CheessRevolution
+[07:53:57] [Server thread/INFO]: hhhh_w was shot by CheessRevolution
+[07:54:12] [Server thread/INFO]: hhhh_w was shot by CheessRevolution
+[07:54:20] [Server thread/INFO]: hhhh_w was shot by CheessRevolution
+[07:54:37] [Server thread/INFO]: CheessRevolution was slain by hhhh_w using [Star Platinum]
+[07:55:24] [Server thread/INFO]: jjjjjasper has made the advancement [Best Friends Forever]
+[07:55:39] [Server thread/INFO]: hhhh_w lost connection: Timed out
+[07:55:39] [Server thread/INFO]: hhhh_w left the game
+[07:56:08] [Server thread/INFO]: hhhh_w[/127.0.0.1:46402] logged in with entity id 360858 at (14004.490281916627, 70.0, -264.614271482104)
+[07:56:08] [Server thread/INFO]: hhhh_w joined the game
+[07:56:08] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[07:56:08] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[07:56:08] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[07:56:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[07:56:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[07:56:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[07:56:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[07:56:08] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[07:56:35] [Server thread/INFO]: hhhh_w was shot by Littlebugs404_
+[07:57:17] [Server thread/INFO]: Littlebugs404_ lost connection: Disconnected
+[07:57:17] [Server thread/INFO]: Littlebugs404_ left the game
