@@ -1318,3 +1318,5 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [14:17:14] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu]]
 [14:17:20] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu] (set value to 337)]
 [14:17:23] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu] (set value to 605)]
+[14:18:49] [Server thread/INFO]: hhhh_w lost connection: Disconnected
+[14:18:49] [Server thread/INFO]: hhhh_w left the game

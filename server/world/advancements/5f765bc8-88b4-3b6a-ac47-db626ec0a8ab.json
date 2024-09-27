@@ -1378,6 +1378,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-09-26 03:52:06 +0000",
+      "minecraft:hoglin": "2024-09-27 14:15:51 +0000",
       "minecraft:magma_cube": "2024-09-27 14:13:52 +0000",
       "minecraft:spider": "2024-09-26 03:41:50 +0000",
       "minecraft:piglin_brute": "2024-09-27 14:13:20 +0000",
@@ -1664,6 +1665,7 @@
       "sparse_redwoods": "2024-09-26 04:55:21 +0000",
       "deciduous_forest": "2024-09-26 04:53:23 +0000",
       "boreal_forest": "2024-09-27 07:10:50 +0000",
+      "glistering_meadow": "2024-09-27 14:15:09 +0000",
       "temperate_grove": "2024-09-26 04:10:55 +0000",
       "grassland": "2024-09-26 04:47:53 +0000",
       "redwoods": "2024-09-26 04:54:13 +0000",
@@ -5597,12 +5599,24 @@
     },
     "done": true
   },
+  "bclib:recipes/decorations/tag_shulker_box": {
+    "criteria": {
+      "has_tag_c_chest": "2024-09-27 14:17:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-09-27 14:12:23 +0000",
       "minecraft:soul_sand_valley": "2024-09-27 14:11:23 +0000"
     },
     "done": false
+  },
+  "svm_jojo:storyline/kills/star_platinum/100": {
+    "criteria": {
+      "requirement": "2024-09-27 14:14:58 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
@@ -5624,7 +5638,8 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
-      "redstone_abyss": "2024-09-27 14:00:58 +0000"
+      "redstone_abyss": "2024-09-27 14:00:58 +0000",
+      "glistering_meadow": "2024-09-27 14:15:09 +0000"
     },
     "done": false
   },
