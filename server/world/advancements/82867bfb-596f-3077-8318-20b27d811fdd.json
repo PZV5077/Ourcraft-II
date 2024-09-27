@@ -83,6 +83,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-09-27 13:46:50 +0000",
       "minecraft:skeleton": "2024-09-25 10:12:53 +0000",
       "minecraft:spider": "2024-09-25 09:13:57 +0000",
       "minecraft:creeper": "2024-09-25 10:24:38 +0000",
@@ -6576,9 +6577,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2024-09-27 13:44:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2024-09-27 13:44:19 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/birch_shrub": {
     "criteria": {
       "has_birch_sapling": "2024-09-27 13:43:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2024-09-27 13:44:19 +0000"
     },
     "done": true
   },
