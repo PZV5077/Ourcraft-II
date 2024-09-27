@@ -6571,6 +6571,12 @@
     },
     "done": true
   },
+  "svm_jojo:storyline/stop_time": {
+    "criteria": {
+      "requirement": "2024-09-27 05:07:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-09-27 04:50:00 +0000"
@@ -6607,9 +6613,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-09-27 05:02:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-09-27 04:50:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-09-27 05:02:29 +0000"
     },
     "done": true
   },
