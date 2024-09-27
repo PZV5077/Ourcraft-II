@@ -1171,3 +1171,102 @@ EdenBiomeSource (69a4c544)
 [13:19:16] [Worker-Main-3/INFO]: Preparing spawn area: 68%
 [13:19:16] [Server thread/INFO]: Time elapsed: 6307 ms
 [13:19:16] [Server thread/INFO]: Done (9.111s)! For help, type "help"
+[13:23:29] [Server thread/INFO]: /advancement (grant|revoke)
+[13:23:29] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[13:23:29] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[13:23:29] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[13:23:29] [Server thread/INFO]: /clear [<targets>]
+[13:23:29] [Server thread/INFO]: /clone (<begin>|from)
+[13:23:29] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
+[13:23:29] [Server thread/INFO]: /data (merge|get|remove|modify)
+[13:23:29] [Server thread/INFO]: /datapack (enable|disable|list)
+[13:23:29] [Server thread/INFO]: /debug (start|stop|function)
+[13:23:29] [Server thread/INFO]: /defaultgamemode <gamemode>
+[13:23:29] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[13:23:29] [Server thread/INFO]: /effect (clear|give)
+[13:23:29] [Server thread/INFO]: /me <action>
+[13:23:29] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[13:23:29] [Server thread/INFO]: /experience (add|set|query)
+[13:23:29] [Server thread/INFO]: /xp -> experience
+[13:23:29] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[13:23:29] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
+[13:23:29] [Server thread/INFO]: /forceload (add|remove|query)
+[13:23:29] [Server thread/INFO]: /function <name>
+[13:23:29] [Server thread/INFO]: /gamemode <gamemode> [<target>]
+[13:23:29] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[13:23:29] [Server thread/INFO]: /give <targets> <item> [<count>]
+[13:23:29] [Server thread/INFO]: /help [<command>]
+[13:23:29] [Server thread/INFO]: /item (replace|modify)
+[13:23:29] [Server thread/INFO]: /kick <targets> [<reason>]
+[13:23:29] [Server thread/INFO]: /kill [<targets>]
+[13:23:29] [Server thread/INFO]: /list [uuids]
+[13:23:29] [Server thread/INFO]: /locate (structure|biome|poi)
+[13:23:29] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[13:23:29] [Server thread/INFO]: /msg <targets> <message>
+[13:23:29] [Server thread/INFO]: /tell -> msg
+[13:23:29] [Server thread/INFO]: /w -> msg
+[13:23:29] [Server thread/INFO]: /particle <name> [<pos>]
+[13:23:29] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
+[13:23:29] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[13:23:29] [Server thread/INFO]: /reload
+[13:23:29] [Server thread/INFO]: /recipe (give|take)
+[13:23:29] [Server thread/INFO]: /return <value>
+[13:23:29] [Server thread/INFO]: /ride <target> (mount|dismount)
+[13:23:29] [Server thread/INFO]: /say <message>
+[13:23:29] [Server thread/INFO]: /schedule (function|clear)
+[13:23:29] [Server thread/INFO]: /scoreboard (objectives|players)
+[13:23:29] [Server thread/INFO]: /seed
+[13:23:29] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[13:23:29] [Server thread/INFO]: /spawnpoint [<targets>]
+[13:23:29] [Server thread/INFO]: /setworldspawn [<pos>]
+[13:23:29] [Server thread/INFO]: /spectate [<target>]
+[13:23:29] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[13:23:29] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[13:23:29] [Server thread/INFO]: /summon <entity> [<pos>]
+[13:23:29] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[13:23:29] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[13:23:29] [Server thread/INFO]: /teammsg <message>
+[13:23:29] [Server thread/INFO]: /tm -> teammsg
+[13:23:29] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[13:23:29] [Server thread/INFO]: /tp -> teleport
+[13:23:29] [Server thread/INFO]: /tellraw <targets> <message>
+[13:23:29] [Server thread/INFO]: /time (set|add|query)
+[13:23:29] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[13:23:29] [Server thread/INFO]: /trigger <objective> [add|set]
+[13:23:29] [Server thread/INFO]: /weather (clear|rain|thunder)
+[13:23:29] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[13:23:29] [Server thread/INFO]: /jfr (start|stop)
+[13:23:29] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[13:23:29] [Server thread/INFO]: /banlist [ips|players]
+[13:23:29] [Server thread/INFO]: /ban <targets> [<reason>]
+[13:23:29] [Server thread/INFO]: /deop <targets>
+[13:23:29] [Server thread/INFO]: /op <targets>
+[13:23:29] [Server thread/INFO]: /pardon <targets>
+[13:23:29] [Server thread/INFO]: /pardon-ip <target>
+[13:23:29] [Server thread/INFO]: /perf (start|stop)
+[13:23:29] [Server thread/INFO]: /save-all [flush]
+[13:23:29] [Server thread/INFO]: /save-off
+[13:23:29] [Server thread/INFO]: /save-on
+[13:23:29] [Server thread/INFO]: /setidletimeout <minutes>
+[13:23:29] [Server thread/INFO]: /stop
+[13:23:29] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[13:23:29] [Server thread/INFO]: /ftblibrary (gamemode|rain|day|night|nbtedit|generate_loot_tables)
+[13:23:29] [Server thread/INFO]: /ftbultimine
+[13:23:29] [Server thread/INFO]: /bclib (place|print|dump_datapack|request_garbage_collection|debug_ore|sliceZ|sliceX)
+[13:23:29] [Server thread/INFO]: /create (rainbowDebug|overlay|trains|fixLighting|debuginfo|highlight|killTrain|passenger|coupling|config|ponder|clone|glue|util|u)
+[13:23:29] [Server thread/INFO]: /c (rainbowDebug|overlay|trains|fixLighting|debuginfo|highlight|killTrain|passenger|coupling|config|ponder|clone|glue|util|u)
+[13:23:29] [Server thread/INFO]: /register [<password>]
+[13:23:29] [Server thread/INFO]: /login [<password>]
+[13:23:29] [Server thread/INFO]: /l -> login
+[13:23:29] [Server thread/INFO]: /logout
+[13:23:29] [Server thread/INFO]: /auth (reload|setGlobalPassword|setSpawn|remove|register|update|uuid|list|addToForcedOffline)
+[13:23:29] [Server thread/INFO]: /account (unregister|changePassword)
+[13:23:29] [Server thread/INFO]: /home
+[13:23:29] [Server thread/INFO]: /back
+[13:23:29] [Server thread/INFO]: /spawn
+[13:23:29] [Server thread/INFO]: /porting_lib (config|quickexport)
+[13:23:29] [Server thread/INFO]: /supplementaries (globe|reload|configs|roll|cage|record|map)
+[13:23:29] [Server thread/INFO]: /tacz (attachment_lock|debug|dummy|overwrite|reload|hide_tooltip_part)
+[13:23:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[13:23:29] [Server thread/INFO]: <--[HERE]
+[13:23:36] [Server thread/INFO]: There are 0 of a max of 10 players online: 
