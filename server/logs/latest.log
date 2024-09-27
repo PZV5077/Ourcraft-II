@@ -1221,3 +1221,4 @@ Caused by: java.lang.IndexOutOfBoundsException: index: 3, length: 47 (expected: 
 [04:52:20] [Server thread/INFO]: jjjjjasper left the game
 [04:52:26] [Worker-Main-1/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
 [04:52:26] [Worker-Main-1/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[04:56:36] [Server thread/INFO]: Littlebugs404_ was blown up by Creeper
