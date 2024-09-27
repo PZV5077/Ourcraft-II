@@ -1432,3 +1432,8 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [11:53:48] [Server thread/WARN]: Boat (vehicle of CheessRevolution) moved too quickly! 10.447661418229472,1.4210854715202004E-14,-5.583249232132147
 [11:53:48] [Server thread/WARN]: Boat (vehicle of CheessRevolution) moved too quickly! 10.110343890401055,-2.842170943040401E-14,-5.445053825403846
 [11:53:48] [Server thread/WARN]: Boat (vehicle of CheessRevolution) moved too quickly! 9.768587852775454,-5.684341886080802E-14,-5.308718429436112
+[12:03:25] [pool-7-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=12869, y=91, z=-491}
+[12:04:10] [Server thread/INFO]: Littlebugs404_ has made the advancement [The Parrots and the Bats]
+[12:04:24] [Server thread/INFO]: CheessRevolution was slain by Zombie
+[12:07:14] [Server thread/INFO]: CheessRevolution was shot by Littlebugs404_
+[12:07:26] [Server thread/INFO]: Littlebugs404_ was shot by CheessRevolution
