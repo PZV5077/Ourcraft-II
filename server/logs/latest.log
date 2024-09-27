@@ -1362,3 +1362,27 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [11:33:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [11:33:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
 [11:33:47] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[11:40:27] [Server thread/INFO]: Littlebugs404_ lost connection: Disconnected
+[11:40:27] [Server thread/INFO]: Littlebugs404_ left the game
+[11:41:10] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:36794] logged in with entity id 11903 at (13996.615081297712, 70.0, -259.4724136594758)
+[11:41:11] [Server thread/INFO]: Littlebugs404_ joined the game
+[11:41:14] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[11:41:14] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[11:41:14] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[11:41:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[11:41:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[11:41:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[11:41:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[11:41:14] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[11:41:29] [Server thread/INFO]: Littlebugs404_ lost connection: Disconnected
+[11:41:29] [Server thread/INFO]: Littlebugs404_ left the game
+[11:41:31] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:36350] logged in with entity id 12472 at (13997.308094634813, 70.0, -260.0658742570439)
+[11:41:31] [Server thread/INFO]: Littlebugs404_ joined the game
+[11:41:32] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[11:41:32] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[11:41:32] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[11:41:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[11:41:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[11:41:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[11:41:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[11:41:32] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
