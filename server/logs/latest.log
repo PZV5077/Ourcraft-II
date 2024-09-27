@@ -1429,3 +1429,8 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [07:35:07] [Server thread/INFO]: Littlebugs404_ has reached the goal [Plant Food]
 [07:35:35] [Server thread/INFO]: jjjjjasper has made the advancement [Enchanter]
 [07:35:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[07:36:26] [Server thread/INFO]: hhhh_w tried to swim in lava
+[07:37:21] [Server thread/INFO]: jjjjjasper tried to swim in lava
+[07:39:56] [Server thread/WARN]: Boat (vehicle of Littlebugs404_) moved wrongly! 0.3302437208657665
+[07:39:56] [Server thread/WARN]: Boat (vehicle of Littlebugs404_) moved wrongly! 0.34842639728779545
+[07:39:56] [Server thread/WARN]: Boat (vehicle of Littlebugs404_) moved wrongly! 0.3667079380476963
