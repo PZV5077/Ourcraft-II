@@ -44,6 +44,7 @@
       "minecraft:deep_lukewarm_ocean": "2024-09-25 10:26:38 +0000",
       "minecraft:flower_forest": "2024-09-25 09:56:31 +0000",
       "minecraft:frozen_peaks": "2024-09-27 11:56:05 +0000",
+      "minecraft:deep_dark": "2024-09-27 12:40:36 +0000",
       "minecraft:meadow": "2024-09-25 08:36:52 +0000",
       "minecraft:plains": "2024-09-25 09:41:54 +0000"
     },
@@ -7172,6 +7173,12 @@
   "refurbished_furniture:recipes/frying/glow_berry_jam": {
     "criteria": {
       "has_ingredient": "2024-09-27 12:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-09-27 12:41:53 +0000"
     },
     "done": true
   },

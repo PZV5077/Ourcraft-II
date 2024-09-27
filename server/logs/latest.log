@@ -1522,3 +1522,15 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [12:27:41] [Server thread/WARN]: Boat (vehicle of CheessRevolution) moved too quickly! 1.256236132070626,0.0,-13.742693898464807
 [12:33:24] [Server thread/WARN]: Littlebugs404_ moved too quickly! -7.5119554373977735,0.14168517272452164,6.761755441033159
 [12:41:53] [Server thread/INFO]: Littlebugs404_ has made the advancement [Sneak 100]
+[12:46:19] [Server thread/INFO]: Littlebugs404_ lost connection: Disconnected
+[13:16:41] [Server thread/INFO]: Littlebugs404_ left the game
+[12:47:19] [Server Watchdog/ERROR]: A single server tick took 60.00 seconds (should be max 0.05)
+[13:16:41] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
+[12:47:18] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[13:16:41] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[13:16:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1822147ms or 36442 ticks behind
+[13:16:41] [Server thread/INFO]: CheessRevolution lost connection: Timed out
+[13:16:41] [Server thread/INFO]: CheessRevolution left the game
+[13:16:41] [Server Watchdog/ERROR]: This crash report has been saved to: /workspaces/Ourcraft-II/server/./crash-reports/crash-2024-09-27_13.16.41-server.txt
