@@ -1331,3 +1331,16 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [06:33:21] [Server thread/INFO]: hhhh_w tried to swim in lava
 [06:34:14] [Server thread/INFO]: hhhh_w lost connection: Disconnected
 [06:34:14] [Server thread/INFO]: hhhh_w left the game
+[06:35:12] [Server thread/INFO]: hhhh_w[/127.0.0.1:59424] logged in with entity id 159404 at (13387.699999988079, 116.0, -4537.468507942704)
+[06:36:12] [Server Watchdog/ERROR]: A single server tick took 60.00 seconds (should be max 0.05)
+[06:35:42] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[06:41:10] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
+[06:41:11] [Server thread/INFO]: hhhh_w joined the game
+[06:41:11] [Server thread/INFO]: hhhh_w lost connection: Timed out
+[06:41:11] [Server thread/INFO]: hhhh_w left the game
+[06:41:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 358812ms or 7176 ticks behind
+[06:41:11] [Server thread/WARN]: handleDisconnection() called twice
+[06:41:11] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[06:41:11] [Server Watchdog/ERROR]: This crash report has been saved to: /workspaces/Ourcraft-II/server/./crash-reports/crash-2024-09-27_06.41.11-server.txt
