@@ -1272,3 +1272,44 @@ Caused by: java.lang.IndexOutOfBoundsException: index: 3, length: 47 (expected: 
 [05:11:52] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
 [05:12:38] [Server thread/INFO]: hhhh_w was blown up by Creeper
+[05:13:46] [Server thread/INFO]: hhhh_w lost connection: Disconnected
+[05:13:46] [Server thread/INFO]: hhhh_w left the game
+[05:14:36] [Server thread/INFO]: hwhw[/127.0.0.1:47682] logged in with entity id 83234 at (13519.5, 121.0, -4418.5)
+[05:14:36] [Server thread/INFO]: hwhw joined the game
+[05:14:37] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05:14:37] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05:14:37] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05:14:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05:14:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05:14:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05:14:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[05:14:37] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[05:15:01] [Server thread/INFO]: hwhw has made the advancement [Home of Heidi?]
+[05:15:06] [Server thread/INFO]: hwhw lost connection: Timed out
+[05:15:06] [Server thread/INFO]: hwhw left the game
+[05:15:10] [Server thread/INFO]: hwhw[/127.0.0.1:38972] logged in with entity id 83777 at (13519.5, 121.0, -4418.5)
+[05:15:10] [Server thread/INFO]: hwhw joined the game
+[05:15:11] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05:15:11] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05:15:11] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05:15:11] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05:15:11] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05:15:11] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05:15:11] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[05:15:11] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[05:17:33] [Server thread/INFO]: hhhh_w[/127.0.0.1:44442] logged in with entity id 86142 at (14088.728128761322, 66.0, -3818.9276760014345)
+[05:17:33] [Server thread/INFO]: hhhh_w joined the game
+[05:17:35] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05:17:35] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05:17:35] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05:17:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05:17:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05:17:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05:17:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[05:17:35] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[05:21:30] [Server thread/INFO]: jjjjjasper was slain by hwhw
+[05:22:44] [Server thread/INFO]: hwhw has made the advancement [ZA WARUDO!]
+[05:22:44] [Server thread/INFO]: hwhw has made the advancement [Stando Power!]
+[05:22:52] [Server thread/INFO]: hwhw was doomed to fall by jjjjjasper
+[05:23:06] [Server thread/INFO]: hwhw lost connection: Disconnected
+[05:23:06] [Server thread/INFO]: hwhw left the game
