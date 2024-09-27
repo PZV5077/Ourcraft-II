@@ -1434,3 +1434,5 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [07:39:56] [Server thread/WARN]: Boat (vehicle of Littlebugs404_) moved wrongly! 0.3302437208657665
 [07:39:56] [Server thread/WARN]: Boat (vehicle of Littlebugs404_) moved wrongly! 0.34842639728779545
 [07:39:56] [Server thread/WARN]: Boat (vehicle of Littlebugs404_) moved wrongly! 0.3667079380476963
+[07:45:31] [Server thread/INFO]: CheessRevolution lost connection: Disconnected
+[07:45:31] [Server thread/INFO]: CheessRevolution left the game
