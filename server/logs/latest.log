@@ -1296,3 +1296,11 @@ EdenBiomeSource (69a4c544)
 [13:42:21] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu]]
 [13:45:52] [Server thread/INFO]: hhhh_w has made the advancement [Diamonds!]
 [13:50:47] [Server thread/INFO]: hhhh_w has made the advancement [Ice Bucket Challenge]
+[13:52:37] [Worker-Main-22/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[13:52:37] [Worker-Main-22/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[13:52:40] [Server thread/INFO]: hhhh_w was slain by Dio Brando
+[13:53:05] [Server thread/INFO]: Named entity class_1590['Dio Brando'/78798, l='ServerLevel[world]', x=13425.58, y=68.00, z=-463.20] died: Dio Brando was slain by hhhh_w using [Star Platinum]
+[13:53:24] [Server thread/INFO]: hhhh_w fell from a high place
+[13:53:30] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu]]
+[13:55:01] [Server thread/INFO]: AwaKING burned to death
+[13:57:02] [Server thread/INFO]: hhhh_w has made the advancement [Who is Cutting Onions?]
