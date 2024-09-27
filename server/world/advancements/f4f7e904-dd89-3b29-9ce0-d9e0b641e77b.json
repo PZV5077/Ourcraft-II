@@ -6659,5 +6659,11 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2024-09-27 08:09:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
