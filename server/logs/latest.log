@@ -1436,3 +1436,35 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [07:39:56] [Server thread/WARN]: Boat (vehicle of Littlebugs404_) moved wrongly! 0.3667079380476963
 [07:45:31] [Server thread/INFO]: CheessRevolution lost connection: Disconnected
 [07:45:31] [Server thread/INFO]: CheessRevolution left the game
+[07:46:58] [Server thread/INFO]: CheessRevolution[/127.0.0.1:48356] logged in with entity id 324864 at (14002.529578068483, 70.7531999805212, -255.209858581408)
+[07:46:58] [Server thread/INFO]: CheessRevolution joined the game
+[07:47:00] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[07:47:00] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[07:47:00] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[07:47:00] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[07:47:00] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[07:47:00] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[07:47:00] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[07:47:00] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[07:48:20] [Server thread/INFO]: CheessRevolution has made the advancement [The Parrots and the Bats]
+[07:49:13] [Server thread/INFO]: Littlebugs404_ lost connection: Disconnected
+[07:49:13] [Server thread/INFO]: Littlebugs404_ left the game
+[07:49:15] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:54446] logged in with entity id 326698 at (14008.891815995767, 71.0, -241.57436916827388)
+[07:49:15] [Server thread/INFO]: Littlebugs404_ joined the game
+[07:49:16] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[07:49:16] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[07:49:16] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[07:49:16] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[07:49:16] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[07:49:16] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[07:49:16] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[07:49:16] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[07:49:33] [Server thread/INFO]: hhhh_w was shot by Littlebugs404_
+[07:49:37] [Server thread/INFO]: jjjjjasper was slain by Dio Brando
+[07:49:38] [Server thread/INFO]: Littlebugs404_ was shot by hhhh_w
+[07:49:54] [Server thread/INFO]: Littlebugs404_ was shot by CheessRevolution
+[07:49:59] [Server thread/INFO]: jjjjjasper was slain by Dio Brando
+[07:50:01] [Server thread/INFO]: CheessRevolution was shot by hhhh_w
+[07:50:21] [Server thread/INFO]: hhhh_w was shot by Littlebugs404_
+[07:50:27] [Server thread/INFO]: CheessRevolution lost connection: Disconnected
+[07:50:27] [Server thread/INFO]: CheessRevolution left the game

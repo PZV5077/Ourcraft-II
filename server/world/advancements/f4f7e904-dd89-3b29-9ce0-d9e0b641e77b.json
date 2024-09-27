@@ -6321,5 +6321,19 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-09-27 07:48:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2024-09-27 07:48:35 +0000",
+      "minecraft:sheep": "2024-09-27 07:48:20 +0000",
+      "minecraft:chicken": "2024-09-27 07:49:02 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
