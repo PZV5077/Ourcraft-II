@@ -1407,3 +1407,10 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [07:24:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
 [07:26:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
 [07:26:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[07:27:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[07:27:20] [Server thread/INFO]: Littlebugs404_ lost connection: Disconnected
+[07:27:20] [Server thread/INFO]: Littlebugs404_ left the game
+[07:27:59] [Server thread/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[07:27:59] [Server thread/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[07:30:42] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:42332] logged in with entity id 276728 at (13998.176667270613, 70.0, -262.77311247701846)
+[07:30:42] [Server thread/INFO]: Littlebugs404_ joined the game
