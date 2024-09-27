@@ -1500,3 +1500,15 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [07:56:35] [Server thread/INFO]: hhhh_w was shot by Littlebugs404_
 [07:57:17] [Server thread/INFO]: Littlebugs404_ lost connection: Disconnected
 [07:57:17] [Server thread/INFO]: Littlebugs404_ left the game
+[07:57:49] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:56298] logged in with entity id 366895 at (13999.549934612443, 70.0, -262.00232951202025)
+[07:57:49] [Server thread/INFO]: Littlebugs404_ joined the game
+[07:57:50] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[07:57:50] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[07:57:50] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[07:57:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[07:57:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[07:57:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[07:57:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[07:57:50] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[07:59:10] [Server thread/INFO]: Littlebugs404_ was slain by Littlebugs404_
+[07:59:10] [Server thread/WARN]: Littlebugs404_ moved too quickly! 3.0668054807611043,-5.806437633406524,-24.29087029324188
