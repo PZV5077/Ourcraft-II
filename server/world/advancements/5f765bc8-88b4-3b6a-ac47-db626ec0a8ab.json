@@ -4372,21 +4372,15 @@
     },
     "done": true
   },
-  "svm_jojo:storyline/kills/star_platinum/10": {
-    "criteria": {
-      "requirement": "2024-09-26 05:04:01 +0000"
-    },
-    "done": true
-  },
   "svm_jojo:storyline/stand_mastery_2": {
     "criteria": {
       "requirement": "2024-09-26 05:02:49 +0000"
     },
     "done": true
   },
-  "svm_jojo:storyline/kill_jotaro_with_star_platinum": {
+  "svm_jojo:storyline/kills/star_platinum/10": {
     "criteria": {
-      "requirement": "2024-09-26 05:27:00 +0000"
+      "requirement": "2024-09-26 05:04:01 +0000"
     },
     "done": true
   },
@@ -4399,6 +4393,12 @@
   "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
     "criteria": {
       "has_bread": "2024-09-26 05:05:46 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/kill_jotaro_with_star_platinum": {
+    "criteria": {
+      "requirement": "2024-09-26 05:27:00 +0000"
     },
     "done": true
   },

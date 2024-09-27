@@ -1157,3 +1157,15 @@ EdenBiomeSource (7f451a61)
 [00:04:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [00:04:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
 [00:04:39] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[00:08:08] [Server thread/INFO]: hhhh_w lost connection: Timed out
+[00:08:08] [Server thread/INFO]: hhhh_w left the game
+[00:12:03] [Server thread/INFO]: hhhh_w[/127.0.0.1:40848] logged in with entity id 15845 at (14111.97326271549, 75.0, -3901.185265703185)
+[00:12:03] [Server thread/INFO]: hhhh_w joined the game
+[00:12:04] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:12:04] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:12:04] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:12:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:12:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:12:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:12:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[00:12:04] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
