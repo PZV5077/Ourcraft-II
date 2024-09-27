@@ -1378,9 +1378,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-09-26 03:52:06 +0000",
+      "minecraft:magma_cube": "2024-09-27 14:13:52 +0000",
       "minecraft:spider": "2024-09-26 03:41:50 +0000",
+      "minecraft:piglin_brute": "2024-09-27 14:13:20 +0000",
       "minecraft:creeper": "2024-09-26 04:01:39 +0000",
       "minecraft:zombified_piglin": "2024-09-26 05:27:00 +0000",
+      "minecraft:piglin": "2024-09-27 14:13:21 +0000",
       "minecraft:enderman": "2024-09-27 00:17:08 +0000",
       "minecraft:zombie": "2024-09-26 03:51:17 +0000"
     },
@@ -5582,11 +5585,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-09-27 14:13:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2024-09-27 13:57:22 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-09-27 14:12:23 +0000",
+      "minecraft:soul_sand_valley": "2024-09-27 14:11:23 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
@@ -5612,9 +5628,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-09-27 14:13:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-09-27 13:45:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-09-27 14:13:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-09-27 14:11:29 +0000"
     },
     "done": true
   },
@@ -5639,6 +5673,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-09-27 13:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-09-27 14:13:06 +0000"
     },
     "done": true
   },
@@ -5678,6 +5718,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-09-27 14:13:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-09-27 14:13:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2024-09-27 13:57:00 +0000"
@@ -5711,6 +5763,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-09-27 13:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-09-27 14:13:06 +0000"
     },
     "done": true
   },
@@ -5768,9 +5826,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-09-27 14:13:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-09-27 14:11:29 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/misc/proximity_fuze": {
     "criteria": {
       "has_quartz": "2024-09-27 14:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-09-27 14:13:05 +0000"
     },
     "done": true
   },
@@ -5783,6 +5859,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-09-27 13:45:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-09-27 14:13:06 +0000"
     },
     "done": true
   },

@@ -1309,3 +1309,12 @@ EdenBiomeSource (69a4c544)
 [14:00:58] [Server thread/WARN]: AwaKING moved too quickly! 9.664575196607984,1.0,-2.668017675084002
 [14:00:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4018ms or 80 ticks behind
 [14:02:06] [Server thread/INFO]: hhhh_w was slain by Zombified Piglin
+[14:10:55] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[14:13:05] [Server thread/INFO]: hhhh_w has made the advancement [Those Were the Days]
+[14:16:45] [Server thread/INFO]: AwaKING lost connection: Disconnected
+[14:16:45] [Server thread/INFO]: AwaKING left the game
+[14:17:07] [Server thread/INFO]: hhhh_w tried to swim in lava to escape Magma Cube
+[14:17:14] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu]]
+[14:17:20] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu] (set value to 337)]
+[14:17:23] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu] (set value to 605)]
