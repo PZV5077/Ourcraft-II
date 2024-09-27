@@ -6674,5 +6674,17 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flax_block": {
+    "criteria": {
+      "has_flax": "2024-09-27 07:24:39 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/strings": {
+    "criteria": {
+      "has_flax": "2024-09-27 07:24:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

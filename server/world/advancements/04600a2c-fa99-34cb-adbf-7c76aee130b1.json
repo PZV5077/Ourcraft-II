@@ -2794,6 +2794,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "magnolia_log": "2024-09-27 07:20:53 +0000",
       "mauve_log": "2024-09-26 04:55:46 +0000",
       "maple_log": "2024-09-25 08:43:42 +0000"
     },
@@ -6478,9 +6479,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/magnolia_planks": {
+    "criteria": {
+      "has_logs": "2024-09-27 07:20:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-09-27 07:04:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_wood": {
+    "criteria": {
+      "has_log": "2024-09-27 07:20:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
+    "criteria": {
+      "has_log": "2024-09-27 07:20:53 +0000"
     },
     "done": true
   },
