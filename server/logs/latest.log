@@ -1292,3 +1292,7 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [10:30:35] [Server thread/INFO]: Locating element minecraft:village_plains took 829 ms
 [10:30:38] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 15792.500000, 85.357855, 896.500000]
 [10:30:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3180ms or 63 ticks behind
+[10:33:19] [Server thread/INFO]: [Parzival5077: Set the world spawn point to 15745, 114, 914 [0.0]]
+[10:35:25] [Server thread/INFO]: Villager class_1646['Villager'/13507, l='ServerLevel[world]', x=15789.43, y=115.00, z=926.51] died, message: 'Villager was slain by Zombie'
+[10:35:42] [Server thread/INFO]: Parzival5077 lost connection: Timed out
+[10:35:42] [Server thread/INFO]: Parzival5077 left the game

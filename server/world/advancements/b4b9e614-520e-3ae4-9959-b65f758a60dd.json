@@ -19,20 +19,25 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-09-29 10:32:01 +0000",
       "minecraft:old_growth_pine_taiga": "2024-09-29 10:27:23 +0000",
       "minecraft:taiga": "2024-09-29 10:27:11 +0000",
       "minecraft:deep_ocean": "2024-09-26 11:10:57 +0000",
       "minecraft:frozen_river": "2024-09-26 11:18:26 +0000",
+      "minecraft:cherry_grove": "2024-09-29 10:31:57 +0000",
       "minecraft:birch_forest": "2024-09-25 08:25:18 +0000",
       "minecraft:beach": "2024-09-26 10:48:50 +0000",
       "minecraft:river": "2024-09-25 08:31:12 +0000",
       "minecraft:lukewarm_ocean": "2024-09-26 11:09:35 +0000",
       "minecraft:snowy_plains": "2024-09-29 10:21:46 +0000",
+      "minecraft:stony_shore": "2024-09-29 10:28:18 +0000",
       "minecraft:dripstone_caves": "2024-09-26 11:05:08 +0000",
+      "minecraft:grove": "2024-09-29 10:33:55 +0000",
       "minecraft:cold_ocean": "2024-09-26 11:15:29 +0000",
       "minecraft:forest": "2024-09-25 08:31:00 +0000",
       "minecraft:frozen_ocean": "2024-09-26 11:17:19 +0000",
       "minecraft:ocean": "2024-09-26 10:48:52 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-09-29 10:28:00 +0000",
       "minecraft:snowy_beach": "2024-09-26 11:16:55 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-09-26 11:10:09 +0000",
       "minecraft:old_growth_birch_forest": "2024-09-26 06:51:46 +0000",
@@ -112,6 +117,7 @@
       "bamboo_forest": "2024-09-26 11:07:40 +0000",
       "temperate_grove": "2024-09-25 08:39:26 +0000",
       "cold_river": "2024-09-29 10:26:52 +0000",
+      "pine_slopes": "2024-09-29 10:34:05 +0000",
       "grassland": "2024-09-25 10:19:58 +0000",
       "prairie": "2024-09-26 11:08:48 +0000",
       "redwoods": "2024-09-26 10:53:45 +0000",
@@ -142,6 +148,7 @@
       "bamboo_forest": "2024-09-26 11:07:40 +0000",
       "temperate_grove": "2024-09-25 08:39:26 +0000",
       "cold_river": "2024-09-29 10:26:52 +0000",
+      "pine_slopes": "2024-09-29 10:34:05 +0000",
       "grassland": "2024-09-25 10:19:58 +0000",
       "prairie": "2024-09-26 11:08:48 +0000",
       "redwoods": "2024-09-26 10:53:45 +0000",
@@ -6266,6 +6273,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_shovel": "2024-09-26 11:06:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-09-29 10:28:21 +0000"
     },
     "done": true
   },
