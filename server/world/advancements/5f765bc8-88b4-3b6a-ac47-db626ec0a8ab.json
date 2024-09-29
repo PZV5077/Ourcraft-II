@@ -5905,6 +5905,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-09-29 13:38:11 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/larch_slab": {
     "criteria": {
       "has_larch_planks": "2024-09-29 13:32:15 +0000"
@@ -5914,6 +5920,18 @@
   "regions_unexplored:recipes/redstone/larch_trapdoor": {
     "criteria": {
       "has_larch_planks": "2024-09-29 13:32:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-09-29 13:38:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-09-29 13:38:11 +0000"
     },
     "done": true
   },
@@ -6025,6 +6043,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2024-09-29 13:38:11 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/larch_button": {
     "criteria": {
       "has_larch_planks": "2024-09-29 13:32:15 +0000"
@@ -6040,6 +6064,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2024-09-29 12:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-09-29 13:38:11 +0000"
     },
     "done": true
   },
