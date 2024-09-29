@@ -57,6 +57,7 @@
       "pine_taiga": "2024-09-25 10:12:19 +0000",
       "autumnal_maple_forest": "2024-09-26 06:45:17 +0000",
       "muddy_river": "2024-09-26 07:49:50 +0000",
+      "willow_forest": "2024-09-29 14:18:15 +0000",
       "frozen_tundra": "2024-09-26 07:36:42 +0000",
       "grassy_beach": "2024-09-25 10:13:40 +0000",
       "rocky_meadow": "2024-09-25 09:53:32 +0000",
@@ -79,6 +80,7 @@
       "pine_taiga": "2024-09-25 10:12:19 +0000",
       "autumnal_maple_forest": "2024-09-26 06:45:17 +0000",
       "muddy_river": "2024-09-26 07:49:50 +0000",
+      "willow_forest": "2024-09-29 14:18:15 +0000",
       "frozen_tundra": "2024-09-26 07:36:42 +0000",
       "grassy_beach": "2024-09-25 10:13:40 +0000",
       "rocky_meadow": "2024-09-25 09:53:32 +0000",
@@ -3348,6 +3350,7 @@
   "meadow:main/wool_collector": {
     "criteria": {
       "meadow:inky_wool": "2024-09-26 07:32:37 +0000",
+      "meadow:umbra_wool": "2024-09-29 14:18:30 +0000",
       "meadow:patched_wool": "2024-09-25 09:52:16 +0000"
     },
     "done": false
@@ -4038,7 +4041,8 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
-      "larch_log": "2024-09-25 10:42:48 +0000"
+      "larch_log": "2024-09-25 10:42:48 +0000",
+      "small_oak_log": "2024-09-29 14:18:11 +0000"
     },
     "done": false
   },

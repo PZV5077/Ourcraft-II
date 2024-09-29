@@ -1414,3 +1414,5 @@ EdenBiomeSource (2b075773)
 [14:11:40] [Server thread/INFO]: Parzival5077 tried to swim in lava
 [14:18:05] [pool-6-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos class_2338{x=14965, y=81, z=1285}
 [14:18:31] [Server thread/INFO]: hhhh_w tried to swim in lava
+[14:20:00] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
+[14:20:00] [Server thread/INFO]: Parzival5077 left the game
