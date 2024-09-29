@@ -25,6 +25,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-09-29 15:04:40 +0000",
       "minecraft:taiga": "2024-09-27 13:50:16 +0000",
       "minecraft:deep_ocean": "2024-09-27 13:48:42 +0000",
       "minecraft:birch_forest": "2024-09-26 03:54:59 +0000",
@@ -38,6 +39,7 @@
       "minecraft:forest": "2024-09-26 03:58:29 +0000",
       "minecraft:lush_caves": "2024-09-29 14:13:56 +0000",
       "minecraft:ocean": "2024-09-27 13:48:38 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-09-29 15:03:49 +0000",
       "minecraft:frozen_peaks": "2024-09-29 13:17:08 +0000",
       "minecraft:old_growth_birch_forest": "2024-09-26 05:23:38 +0000",
       "minecraft:deep_dark": "2024-09-29 13:16:46 +0000",
@@ -6250,6 +6252,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2024-09-29 15:02:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-09-29 14:32:46 +0000"
@@ -6304,6 +6312,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-09-29 15:00:31 +0000"
+    },
+    "done": true
+  },
   "edenring:recipes/misc/eden_book": {
     "criteria": {
       "has_guide_book": "2024-09-29 14:16:15 +0000"
@@ -6321,6 +6335,12 @@
       "minecraft:chicken": "2024-09-29 14:23:04 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-09-29 15:00:52 +0000"
+    },
+    "done": true
   },
   "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
@@ -6400,6 +6420,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-09-29 15:00:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-09-29 14:32:46 +0000"
@@ -6412,6 +6438,18 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "pasta_with_meatballs": "2024-09-29 15:00:52 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2024-09-29 15:00:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-09-29 14:32:46 +0000"
@@ -6421,6 +6459,12 @@
   "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-09-29 14:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-09-29 15:00:52 +0000"
     },
     "done": true
   },

@@ -1470,3 +1470,5 @@ EdenBiomeSource (2b075773)
 [14:58:37] [Server thread/WARN]: Boat (vehicle of Littlebugs404_) moved too quickly! 16.883376250212677,7.105427357601002E-15,-3.28182079874324
 [14:58:37] [Server thread/WARN]: Boat (vehicle of Littlebugs404_) moved too quickly! 16.490671873350948,7.105427357601002E-15,-3.2057751971331356
 [15:00:31] [Server thread/INFO]: hhhh_w has made the advancement [This Must be a Sign!]
+[15:05:55] [Worker-Main-99/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[15:05:55] [Worker-Main-99/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
