@@ -1316,3 +1316,10 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [11:52:06] [Server thread/INFO]: Parzival5077 drowned
 [11:52:17] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
 [11:52:17] [Server thread/INFO]: Parzival5077 left the game
+[12:45:29] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:54456] logged in with entity id 18758 at (15561.300000011921, 66.0, -295.3273879100338)
+[12:46:29] [Server Watchdog/ERROR]: A single server tick took 60.00 seconds (should be max 0.05)
+[12:47:47] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
+[12:45:59] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[12:47:47] [Server thread/INFO]: Littlebugs404_ joined the game
+[12:47:48] [Server Watchdog/ERROR]: This crash report has been saved to: /workspaces/Ourcraft-II/server/./crash-reports/crash-2024-09-29_12.47.48-server.txt
