@@ -116,6 +116,7 @@
       "magnolia_highlands": "2024-09-26 06:52:28 +0000",
       "sparse_redwoods": "2024-09-26 10:54:24 +0000",
       "deciduous_forest": "2024-09-25 10:20:09 +0000",
+      "boreal_forest": "2024-09-29 13:01:55 +0000",
       "blackstone_basin": "2024-09-29 12:55:29 +0000",
       "bamboo_forest": "2024-09-26 11:07:40 +0000",
       "temperate_grove": "2024-09-25 08:39:26 +0000",
@@ -148,6 +149,7 @@
       "magnolia_highlands": "2024-09-26 06:52:28 +0000",
       "sparse_redwoods": "2024-09-26 10:54:24 +0000",
       "deciduous_forest": "2024-09-25 10:20:09 +0000",
+      "boreal_forest": "2024-09-29 13:01:55 +0000",
       "bamboo_forest": "2024-09-26 11:07:40 +0000",
       "temperate_grove": "2024-09-25 08:39:26 +0000",
       "cold_river": "2024-09-29 10:26:52 +0000",
@@ -5519,7 +5521,8 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
-      "magnolia_log": "2024-09-26 06:54:09 +0000"
+      "magnolia_log": "2024-09-26 06:54:09 +0000",
+      "larch_log": "2024-09-29 13:02:58 +0000"
     },
     "done": false
   },
@@ -6285,6 +6288,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-09-29 13:01:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:warped_forest": "2024-09-29 12:56:17 +0000"
@@ -6299,6 +6308,66 @@
     },
     "done": false
   },
+  "regions_unexplored:recipes/building_blocks/larch_slab": {
+    "criteria": {
+      "has_larch_planks": "2024-09-29 13:03:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_wood": {
+    "criteria": {
+      "has_log": "2024-09-29 13:02:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_trapdoor": {
+    "criteria": {
+      "has_larch_planks": "2024-09-29 13:03:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_fence_gate": {
+    "criteria": {
+      "has_larch_planks": "2024-09-29 13:03:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_larch": {
+    "criteria": {
+      "has_planks": "2024-09-29 13:03:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_door": {
+    "criteria": {
+      "has_larch_planks": "2024-09-29 13:03:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_pressure_plate": {
+    "criteria": {
+      "has_larch_planks": "2024-09-29 13:03:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_fence": {
+    "criteria": {
+      "has_larch_planks": "2024-09-29 13:03:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_branch_from_larch_log": {
+    "criteria": {
+      "has_log": "2024-09-29 13:02:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_stairs": {
+    "criteria": {
+      "has_larch_planks": "2024-09-29 13:03:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2024-09-29 12:56:34 +0000"
@@ -6308,6 +6377,24 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-09-29 12:50:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_planks": {
+    "criteria": {
+      "has_logs": "2024-09-29 13:02:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_sign": {
+    "criteria": {
+      "has_larch_planks": "2024-09-29 13:03:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_button": {
+    "criteria": {
+      "has_larch_planks": "2024-09-29 13:03:04 +0000"
     },
     "done": true
   },
