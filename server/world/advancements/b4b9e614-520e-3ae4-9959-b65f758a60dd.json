@@ -6326,6 +6326,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-09-29 13:51:05 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "mycotoxic_undergrowth": "2024-09-29 12:55:58 +0000",
@@ -6688,6 +6694,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-09-29 13:51:05 +0000"
+    },
+    "done": true
+  },
   "beautify:candelabras": {
     "criteria": {
       "requirement": "2024-09-29 13:29:08 +0000"
@@ -6721,6 +6733,12 @@
   "edenring:recipes/misc/mycotic_lantern_blue": {
     "criteria": {
       "has_blue_dye": "2024-09-29 13:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-09-29 13:51:05 +0000"
     },
     "done": true
   },
