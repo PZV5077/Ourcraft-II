@@ -7195,6 +7195,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_dried_kelp": {
+    "criteria": {
+      "has_dried_kelp": "2024-09-29 13:42:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/skillet": {
     "criteria": {
       "has_brick": "2024-09-29 13:13:25 +0000"
@@ -7351,6 +7357,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2024-09-29 13:42:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2024-09-29 13:13:11 +0000"
@@ -7438,6 +7450,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2024-09-29 13:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2024-09-29 13:42:18 +0000"
     },
     "done": true
   },

@@ -6460,6 +6460,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_antique_ink": "2024-09-29 13:43:08 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/misc/log_cannon_chamber": {
     "criteria": {
       "has_gunpowder": "2024-09-29 13:05:32 +0000"
