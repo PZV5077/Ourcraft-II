@@ -1302,3 +1302,17 @@ io.netty.handler.timeout.ReadTimeoutException: null
 io.netty.handler.timeout.ReadTimeoutException: null
 [11:47:51] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[11:49:53] [Server thread/INFO]: Parzival5077[/127.0.0.1:44502] logged in with entity id 16980 at (15733.607456330357, 131.62049130644687, 974.4807305173013)
+[11:49:53] [Server thread/INFO]: Parzival5077 joined the game
+[11:49:55] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[11:49:55] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[11:49:55] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[11:49:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[11:49:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[11:49:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[11:49:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[11:49:55] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[11:50:15] [Server thread/INFO]: Parzival5077 fell from a high place
+[11:52:06] [Server thread/INFO]: Parzival5077 drowned
+[11:52:17] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
+[11:52:17] [Server thread/INFO]: Parzival5077 left the game
