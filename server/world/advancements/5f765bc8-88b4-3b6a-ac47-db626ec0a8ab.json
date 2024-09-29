@@ -6254,11 +6254,23 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-09-29 14:23:04 +0000"
+    },
+    "done": true
+  },
   "edenring:recipes/misc/eden_book": {
     "criteria": {
       "has_guide_book": "2024-09-29 14:16:15 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2024-09-29 14:23:04 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
     "criteria": {
@@ -6287,6 +6299,12 @@
   "farmersdelight:recipes/farmersdelight/fried_egg": {
     "criteria": {
       "fried_egg": "2024-09-29 13:57:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-09-29 14:20:52 +0000"
     },
     "done": true
   },
