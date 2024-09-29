@@ -38,6 +38,7 @@
       "minecraft:lush_caves": "2024-09-27 12:34:14 +0000",
       "minecraft:deep_cold_ocean": "2024-09-25 10:40:40 +0000",
       "minecraft:frozen_ocean": "2024-09-26 06:44:13 +0000",
+      "minecraft:deep_frozen_ocean": "2024-09-29 14:00:25 +0000",
       "minecraft:ocean": "2024-09-25 10:09:09 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-09-27 12:31:33 +0000",
       "minecraft:snowy_beach": "2024-09-26 06:45:04 +0000",
@@ -63,6 +64,7 @@
       "maple_forest": "2024-09-26 07:49:44 +0000",
       "sparse_redwoods": "2024-09-25 10:14:26 +0000",
       "boreal_forest": "2024-09-25 10:39:16 +0000",
+      "cold_boreal_taiga": "2024-09-29 14:02:34 +0000",
       "temperate_grove": "2024-09-25 08:43:21 +0000",
       "cold_river": "2024-09-26 07:52:48 +0000",
       "gravel_beach": "2024-09-26 06:44:43 +0000",
@@ -83,6 +85,7 @@
       "maple_forest": "2024-09-26 07:49:44 +0000",
       "sparse_redwoods": "2024-09-25 10:14:26 +0000",
       "boreal_forest": "2024-09-25 10:39:16 +0000",
+      "cold_boreal_taiga": "2024-09-29 14:02:34 +0000",
       "temperate_grove": "2024-09-25 08:43:21 +0000",
       "cold_river": "2024-09-26 07:52:48 +0000",
       "gravel_beach": "2024-09-26 06:44:43 +0000",
@@ -7524,6 +7527,12 @@
       "meadow:cheese_block": "2024-09-29 13:52:25 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-09-29 14:04:13 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
