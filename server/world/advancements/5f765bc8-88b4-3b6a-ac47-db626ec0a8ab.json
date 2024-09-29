@@ -1377,6 +1377,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-09-29 12:58:26 +0000",
       "minecraft:skeleton": "2024-09-26 03:52:06 +0000",
       "minecraft:hoglin": "2024-09-27 14:15:51 +0000",
       "minecraft:magma_cube": "2024-09-27 14:13:52 +0000",
@@ -1384,6 +1385,7 @@
       "minecraft:piglin_brute": "2024-09-27 14:13:20 +0000",
       "minecraft:creeper": "2024-09-26 04:01:39 +0000",
       "minecraft:zombified_piglin": "2024-09-26 05:27:00 +0000",
+      "minecraft:wither_skeleton": "2024-09-29 12:58:19 +0000",
       "minecraft:piglin": "2024-09-27 14:13:21 +0000",
       "minecraft:enderman": "2024-09-27 00:17:08 +0000",
       "minecraft:zombie": "2024-09-26 03:51:17 +0000"
@@ -1659,6 +1661,7 @@
       "redstone_caves": "2024-09-26 04:17:03 +0000",
       "blackwood_taiga": "2024-09-26 04:55:18 +0000",
       "rocky_meadow": "2024-09-27 06:59:30 +0000",
+      "mycotoxic_undergrowth": "2024-09-29 12:57:27 +0000",
       "highland_fields": "2024-09-26 03:42:22 +0000",
       "maple_forest": "2024-09-27 13:54:29 +0000",
       "magnolia_highlands": "2024-09-26 05:22:55 +0000",
@@ -5727,6 +5730,7 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
+      "mycotoxic_undergrowth": "2024-09-29 12:57:27 +0000",
       "redstone_abyss": "2024-09-27 14:00:58 +0000",
       "glistering_meadow": "2024-09-27 14:15:09 +0000"
     },
@@ -5795,7 +5799,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-09-27 14:12:23 +0000",
-      "minecraft:soul_sand_valley": "2024-09-27 14:11:23 +0000"
+      "minecraft:soul_sand_valley": "2024-09-27 14:11:23 +0000",
+      "minecraft:warped_forest": "2024-09-29 12:58:22 +0000"
     },
     "done": false
   },
@@ -5880,6 +5885,30 @@
   "bclib:recipes/decorations/tag_shulker_box": {
     "criteria": {
       "has_tag_c_chest": "2024-09-27 14:17:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-09-29 12:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-09-29 12:57:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-09-29 12:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-09-29 12:58:30 +0000"
     },
     "done": true
   },

@@ -110,11 +110,13 @@
       "grassy_beach": "2024-09-25 10:19:46 +0000",
       "scorching_caves": "2024-09-25 09:41:34 +0000",
       "rocky_meadow": "2024-09-25 10:20:22 +0000",
+      "mycotoxic_undergrowth": "2024-09-29 12:55:58 +0000",
       "highland_fields": "2024-09-25 08:20:19 +0000",
       "maple_forest": "2024-09-29 10:26:10 +0000",
       "magnolia_highlands": "2024-09-26 06:52:28 +0000",
       "sparse_redwoods": "2024-09-26 10:54:24 +0000",
       "deciduous_forest": "2024-09-25 10:20:09 +0000",
+      "blackstone_basin": "2024-09-29 12:55:29 +0000",
       "bamboo_forest": "2024-09-26 11:07:40 +0000",
       "temperate_grove": "2024-09-25 08:39:26 +0000",
       "cold_river": "2024-09-29 10:26:52 +0000",
@@ -6283,11 +6285,25 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:warped_forest": "2024-09-29 12:56:17 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
+      "mycotoxic_undergrowth": "2024-09-29 12:55:58 +0000",
+      "blackstone_basin": "2024-09-29 12:55:29 +0000",
       "redstone_abyss": "2024-09-29 12:50:53 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-09-29 12:56:34 +0000"
+    },
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
