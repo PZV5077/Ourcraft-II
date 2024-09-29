@@ -7183,6 +7183,48 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2024-09-29 12:53:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rice_bag": {
+    "criteria": {
+      "has_rice": "2024-09-29 12:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-09-29 13:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-09-29 13:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-09-29 13:02:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-09-29 13:09:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-09-29 13:09:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-09-29 13:13:11 +0000"
@@ -7195,18 +7237,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/black_dye_from_dried_kelp": {
-    "criteria": {
-      "has_dried_kelp": "2024-09-29 13:42:18 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/skillet": {
-    "criteria": {
-      "has_brick": "2024-09-29 13:13:25 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
     "criteria": {
       "has_glass": "2024-09-29 13:13:11 +0000"
@@ -7216,36 +7246,6 @@
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-09-29 13:13:11 +0000"
-    },
-    "done": true
-  },
-  "meadow:main/get_cheese": {
-    "criteria": {
-      "cheese_block": "2024-09-29 13:52:25 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2024-09-29 13:02:45 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_organic_compost": {
-    "criteria": {
-      "place_organic_compost": "2024-09-29 13:17:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_campfire": {
-    "criteria": {
-      "campfire": "2024-09-29 13:47:41 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/cooking/cooked_rice": {
-    "criteria": {
-      "has_rice": "2024-09-29 12:53:17 +0000"
     },
     "done": true
   },
@@ -7315,12 +7315,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/rice_bag": {
-    "criteria": {
-      "has_rice": "2024-09-29 12:53:17 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
     "criteria": {
       "has_glass": "2024-09-29 13:13:11 +0000"
@@ -7345,33 +7339,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/place_cooking_pot": {
-    "criteria": {
-      "cooking_pot": "2024-09-29 13:17:51 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
-    "criteria": {
-      "has_iron_knife": "2024-09-29 13:09:06 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/warped_storage_jar": {
     "criteria": {
       "has_glass": "2024-09-29 13:13:11 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_skillet": {
-    "criteria": {
-      "skillet": "2024-09-29 13:17:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/kelp_roll": {
-    "criteria": {
-      "has_dried_kelp": "2024-09-29 13:42:18 +0000"
     },
     "done": true
   },
@@ -7393,24 +7363,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/plant_rice": {
-    "criteria": {
-      "plant_rice": "2024-09-29 13:17:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
-    "criteria": {
-      "has_iron_knife": "2024-09-29 13:09:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bricks": {
-    "criteria": {
-      "has_brick": "2024-09-29 13:13:25 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
     "criteria": {
       "has_glass": "2024-09-29 13:13:11 +0000"
@@ -7426,12 +7378,6 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2024-09-29 13:13:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2024-09-29 13:21:42 +0000"
     },
     "done": true
   },
@@ -7453,33 +7399,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2024-09-29 13:13:25 +0000"
-    },
-    "done": true
-  },
-  "meadow:main/get_rennet": {
-    "criteria": {
-      "rennet": "2024-09-29 13:50:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2024-09-29 13:13:11 +0000"
-    },
-    "done": true
-  },
-  "meadow:main/cheese_collector": {
-    "criteria": {
-      "meadow:cheese_block": "2024-09-29 13:52:25 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/dried_kelp_block": {
-    "criteria": {
-      "has_dried_kelp": "2024-09-29 13:42:18 +0000"
     },
     "done": true
   },
@@ -7501,9 +7423,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
+  "create:recipes/building_blocks/tiled_glass_from_colorless_glass_stonecutting": {
     "criteria": {
-      "has_blaze_rod": "2024-09-29 13:02:45 +0000"
+      "has_colorless_glass": "2024-09-29 13:13:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/skillet": {
+    "criteria": {
+      "has_brick": "2024-09-29 13:13:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-09-29 13:13:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-09-29 13:13:25 +0000"
     },
     "done": true
   },
@@ -7513,17 +7453,77 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/tiled_glass_from_colorless_glass_stonecutting": {
+  "farmersdelight:main/place_organic_compost": {
     "criteria": {
-      "has_colorless_glass": "2024-09-29 13:13:11 +0000"
+      "place_organic_compost": "2024-09-29 13:17:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "farmersdelight:main/place_skillet": {
     "criteria": {
-      "has_blaze_rod": "2024-09-29 13:02:45 +0000"
+      "skillet": "2024-09-29 13:17:49 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2024-09-29 13:17:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2024-09-29 13:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-09-29 13:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_dried_kelp": {
+    "criteria": {
+      "has_dried_kelp": "2024-09-29 13:42:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2024-09-29 13:42:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2024-09-29 13:42:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2024-09-29 13:47:41 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/get_rennet": {
+    "criteria": {
+      "rennet": "2024-09-29 13:50:34 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/get_cheese": {
+    "criteria": {
+      "cheese_block": "2024-09-29 13:52:25 +0000"
+    },
+    "done": false
+  },
+  "meadow:main/cheese_collector": {
+    "criteria": {
+      "meadow:cheese_block": "2024-09-29 13:52:25 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
