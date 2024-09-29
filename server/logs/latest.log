@@ -1420,3 +1420,16 @@ EdenBiomeSource (2b075773)
 [14:31:37] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu]]
 [14:31:42] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu] (set value to 337)]
 [14:31:43] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu] (set value to 605)]
+[14:33:09] [Server thread/INFO]: hhhh_w fell from a high place
+[14:37:01] [Server thread/INFO]: Littlebugs404_ lost connection: Disconnected
+[14:37:01] [Server thread/INFO]: Littlebugs404_ left the game
+[14:37:38] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:49820] logged in with entity id 206274 at (14030.166881895955, 71.0, -214.25468753036688)
+[14:37:38] [Server thread/INFO]: Littlebugs404_ joined the game
+[14:37:39] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[14:37:39] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[14:37:39] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[14:37:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[14:37:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[14:37:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[14:37:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[14:37:39] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
