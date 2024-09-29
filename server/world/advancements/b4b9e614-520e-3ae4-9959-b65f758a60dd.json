@@ -6754,9 +6754,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-09-29 14:09:27 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-09-29 14:04:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-09-29 14:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-09-29 14:09:27 +0000"
     },
     "done": true
   },
@@ -6769,6 +6787,18 @@
   "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-09-29 14:04:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2024-09-29 14:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-09-29 14:09:27 +0000"
     },
     "done": true
   },
