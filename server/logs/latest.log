@@ -1403,3 +1403,5 @@ EdenBiomeSource (2b075773)
 [13:58:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [13:58:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
 [13:58:10] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[13:59:30] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to hhhh_w]
+[14:02:18] [Server thread/INFO]: Named entity class_1590['Dio Brando'/137749, l='ServerLevel[world]', x=13614.18, y=55.15, z=-383.91] died: Dio Brando was shot by hhhh_w
