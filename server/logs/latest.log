@@ -1296,3 +1296,7 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [10:35:25] [Server thread/INFO]: Villager class_1646['Villager'/13507, l='ServerLevel[world]', x=15789.43, y=115.00, z=926.51] died, message: 'Villager was slain by Zombie'
 [10:35:42] [Server thread/INFO]: Parzival5077 lost connection: Timed out
 [10:35:42] [Server thread/INFO]: Parzival5077 left the game
+[11:39:47] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[11:40:36] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
