@@ -6369,6 +6369,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2024-09-29 13:29:08 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/misc/wrought_iron_drop_mortar_end": {
     "criteria": {
       "has_gunpowder": "2024-09-29 13:05:32 +0000"
@@ -6441,6 +6447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-09-29 13:29:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-09-29 12:50:52 +0000"
@@ -6471,6 +6483,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-09-29 13:24:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-09-29 13:24:51 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/larch_button": {
     "criteria": {
       "has_larch_planks": "2024-09-29 13:03:04 +0000"
@@ -6489,9 +6513,21 @@
     },
     "done": true
   },
+  "beautify:candelabras": {
+    "criteria": {
+      "requirement": "2024-09-29 13:29:08 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/misc/pair_of_cannon_wheels": {
     "criteria": {
       "has_gunpowder": "2024-09-29 13:05:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2024-09-29 13:29:08 +0000"
     },
     "done": true
   },
