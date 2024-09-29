@@ -1388,7 +1388,8 @@
       "minecraft:wither_skeleton": "2024-09-29 12:58:19 +0000",
       "minecraft:piglin": "2024-09-27 14:13:21 +0000",
       "minecraft:enderman": "2024-09-27 00:17:08 +0000",
-      "minecraft:zombie": "2024-09-26 03:51:17 +0000"
+      "minecraft:zombie": "2024-09-26 03:51:17 +0000",
+      "minecraft:drowned": "2024-09-29 13:09:06 +0000"
     },
     "done": false
   },
@@ -5885,6 +5886,12 @@
   "bclib:recipes/decorations/tag_shulker_box": {
     "criteria": {
       "has_tag_c_chest": "2024-09-27 14:17:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2024-09-29 13:06:21 +0000"
     },
     "done": true
   },

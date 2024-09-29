@@ -6288,6 +6288,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/misc/wrought_iron_cannon_end": {
+    "criteria": {
+      "has_gunpowder": "2024-09-29 13:05:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-09-29 13:01:01 +0000"
@@ -6320,6 +6326,18 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/misc/cannon_carriage": {
+    "criteria": {
+      "has_gunpowder": "2024-09-29 13:05:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2024-09-29 13:05:32 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/larch_trapdoor": {
     "criteria": {
       "has_larch_planks": "2024-09-29 13:03:04 +0000"
@@ -6332,9 +6350,33 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/misc/wrought_iron_cannon_chamber": {
+    "criteria": {
+      "has_gunpowder": "2024-09-29 13:05:32 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/powder_charge": {
+    "criteria": {
+      "has_gunpowder": "2024-09-29 13:05:32 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/regions_unexplored/sign_post_larch": {
     "criteria": {
       "has_planks": "2024-09-29 13:03:04 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/wrought_iron_drop_mortar_end": {
+    "criteria": {
+      "has_gunpowder": "2024-09-29 13:05:32 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/log_cannon_end": {
+    "criteria": {
+      "has_gunpowder": "2024-09-29 13:05:32 +0000"
     },
     "done": true
   },
@@ -6350,15 +6392,39 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/misc/machine_gun_round": {
+    "criteria": {
+      "has_gunpowder": "2024-09-29 13:05:32 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/larch_fence": {
     "criteria": {
       "has_larch_planks": "2024-09-29 13:03:04 +0000"
     },
     "done": true
   },
+  "createbigcannons:recipes/misc/gunpowder_pinch": {
+    "criteria": {
+      "has_gunpowder": "2024-09-29 13:05:32 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/empty_powder_charge": {
+    "criteria": {
+      "has_gunpowder": "2024-09-29 13:05:32 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/larch_branch_from_larch_log": {
     "criteria": {
       "has_log": "2024-09-29 13:02:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-09-29 13:05:32 +0000"
     },
     "done": true
   },
@@ -6377,6 +6443,18 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-09-29 12:50:52 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/log_cannon_chamber": {
+    "criteria": {
+      "has_gunpowder": "2024-09-29 13:05:32 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/cannon_mount": {
+    "criteria": {
+      "has_gunpowder": "2024-09-29 13:05:32 +0000"
     },
     "done": true
   },
@@ -6401,6 +6479,24 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-09-29 12:50:52 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/wrought_iron_drop_mortar_end_mirrored": {
+    "criteria": {
+      "has_gunpowder": "2024-09-29 13:05:32 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/pair_of_cannon_wheels": {
+    "criteria": {
+      "has_gunpowder": "2024-09-29 13:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-09-29 13:05:32 +0000"
     },
     "done": true
   },
