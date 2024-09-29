@@ -1472,3 +1472,9 @@ EdenBiomeSource (2b075773)
 [15:00:31] [Server thread/INFO]: hhhh_w has made the advancement [This Must be a Sign!]
 [15:05:55] [Worker-Main-99/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
 [15:05:55] [Worker-Main-99/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[15:13:28] [Server thread/INFO]: hhhh_w has completed the challenge [It Spreads]
+[15:19:33] [Server thread/INFO]: Littlebugs404_ fell from a high place
+[15:31:17] [Server thread/INFO]: Littlebugs404_ lost connection: Disconnected
+[15:31:17] [Server thread/INFO]: Littlebugs404_ left the game
+[15:31:41] [Server thread/INFO]: hhhh_w lost connection: Disconnected
+[15:31:41] [Server thread/INFO]: hhhh_w left the game

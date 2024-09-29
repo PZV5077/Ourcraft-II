@@ -1398,7 +1398,8 @@
       "minecraft:enderman": "2024-09-27 00:17:08 +0000",
       "minecraft:silverfish": "2024-09-29 13:15:04 +0000",
       "minecraft:zombie": "2024-09-26 03:51:17 +0000",
-      "minecraft:drowned": "2024-09-29 13:09:06 +0000"
+      "minecraft:drowned": "2024-09-29 13:09:06 +0000",
+      "minecraft:zombie_villager": "2024-09-29 15:28:28 +0000"
     },
     "done": false
   },
@@ -6348,6 +6349,12 @@
     },
     "done": true
   },
+  "svm_jojo:storyline/kills/star_platinum/250": {
+    "criteria": {
+      "requirement": "2024-09-29 15:09:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-09-29 14:32:46 +0000"
@@ -6423,6 +6430,12 @@
   "farmersdelight:recipes/farmersdelight/nether_salad": {
     "criteria": {
       "has_bowl": "2024-09-29 15:00:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-09-29 15:13:28 +0000"
     },
     "done": true
   },
