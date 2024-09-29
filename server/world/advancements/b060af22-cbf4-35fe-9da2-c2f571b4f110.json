@@ -7182,5 +7182,17 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2024-09-29 12:53:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rice_bag": {
+    "criteria": {
+      "has_rice": "2024-09-29 12:53:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
