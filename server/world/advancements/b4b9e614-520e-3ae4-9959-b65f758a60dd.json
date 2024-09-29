@@ -6308,6 +6308,24 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2024-09-29 13:49:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_toilet": {
+    "criteria": {
+      "has_dye": "2024-09-29 13:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2024-09-29 13:49:27 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "mycotoxic_undergrowth": "2024-09-29 12:55:58 +0000",
@@ -6328,9 +6346,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/blue_bath": {
+    "criteria": {
+      "has_blue_dye": "2024-09-29 13:49:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-09-29 13:49:27 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/misc/cannon_carriage": {
     "criteria": {
       "has_gunpowder": "2024-09-29 13:05:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_drawer": {
+    "criteria": {
+      "has_blue_dye": "2024-09-29 13:49:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_toilet": {
+    "criteria": {
+      "has_blue_dye": "2024-09-29 13:49:27 +0000"
     },
     "done": true
   },
@@ -6343,6 +6385,36 @@
   "regions_unexplored:recipes/redstone/larch_trapdoor": {
     "criteria": {
       "has_larch_planks": "2024-09-29 13:03:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-09-29 13:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-09-29 13:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-09-29 13:49:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_blue_dye": "2024-09-29 13:49:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-09-29 13:49:27 +0000"
     },
     "done": true
   },
@@ -6361,6 +6433,12 @@
   "createbigcannons:recipes/misc/powder_charge": {
     "criteria": {
       "has_gunpowder": "2024-09-29 13:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-09-29 13:49:27 +0000"
     },
     "done": true
   },
@@ -6418,6 +6496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-09-29 13:49:27 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/misc/empty_powder_charge": {
     "criteria": {
       "has_gunpowder": "2024-09-29 13:05:32 +0000"
@@ -6436,6 +6520,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-09-29 13:49:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-09-29 13:49:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-09-29 13:49:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_sink": {
+    "criteria": {
+      "has_blue_dye": "2024-09-29 13:49:27 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/larch_stairs": {
     "criteria": {
       "has_larch_planks": "2024-09-29 13:03:04 +0000"
@@ -6451,6 +6559,24 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2024-09-29 13:29:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-09-29 13:49:27 +0000"
+    },
+    "done": true
+  },
+  "edenring:recipes/misc/balloon_mushroom_sporocarp_blue": {
+    "criteria": {
+      "has_blue_dye": "2024-09-29 13:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2024-09-29 13:49:27 +0000"
     },
     "done": true
   },
@@ -6478,6 +6604,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/blue_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-09-29 13:49:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_basin": {
+    "criteria": {
+      "has_blue_dye": "2024-09-29 13:49:27 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/larch_planks": {
     "criteria": {
       "has_logs": "2024-09-29 13:02:58 +0000"
@@ -6490,15 +6628,39 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/blue_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-09-29 13:49:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-09-29 13:24:51 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-09-29 13:49:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_cabinetry": {
+    "criteria": {
+      "has_blue_dye": "2024-09-29 13:49:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-09-29 13:24:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-09-29 13:49:27 +0000"
     },
     "done": true
   },
@@ -6520,6 +6682,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_blue_dye": {
+    "criteria": {
+      "forge:dyes/blue": "2024-09-29 13:49:27 +0000"
+    },
+    "done": true
+  },
   "beautify:candelabras": {
     "criteria": {
       "requirement": "2024-09-29 13:29:08 +0000"
@@ -6538,9 +6706,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/blue_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-09-29 13:49:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-09-29 13:05:32 +0000"
+    },
+    "done": true
+  },
+  "edenring:recipes/misc/mycotic_lantern_blue": {
+    "criteria": {
+      "has_blue_dye": "2024-09-29 13:49:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-09-29 13:49:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-09-29 13:49:27 +0000"
     },
     "done": true
   },

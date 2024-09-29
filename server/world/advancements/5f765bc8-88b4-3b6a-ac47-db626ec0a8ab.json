@@ -5899,6 +5899,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2024-09-29 13:45:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-09-29 13:42:30 +0000"
@@ -5998,6 +6004,12 @@
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2024-09-29 13:17:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_zinc_ingots_stonecutting": {
+    "criteria": {
+      "has_zinc_ingots": "2024-09-29 13:45:27 +0000"
     },
     "done": true
   },
@@ -6121,6 +6133,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2024-09-29 13:45:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_ochrum_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-09-29 13:42:30 +0000"
@@ -6142,6 +6160,18 @@
   "regions_unexplored:recipes/redstone/larch_button": {
     "criteria": {
       "has_larch_planks": "2024-09-29 13:32:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2024-09-29 13:45:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_step_from_zinc_ingots_stonecutting": {
+    "criteria": {
+      "has_zinc_ingots": "2024-09-29 13:45:27 +0000"
     },
     "done": true
   },
@@ -6202,6 +6232,12 @@
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
       "has_iron_nugget": "2024-09-29 13:17:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2024-09-29 13:45:27 +0000"
     },
     "done": true
   },
