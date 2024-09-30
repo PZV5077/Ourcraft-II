@@ -1937,3 +1937,22 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [12:47:23] [Server thread/INFO]: [Mei4o: Triggered [svm.jj.menu] (set value to 357)]
 [12:47:29] [Server thread/INFO]: [Mei4o: Triggered [svm.jj.menu] (set value to 367)]
 [12:47:30] [Server thread/INFO]: [Mei4o: Triggered [svm.jj.menu] (set value to 357)]
+[12:48:32] [Server thread/INFO]: Mei4o was slain by Zombie
+[12:49:22] [Server thread/INFO]: [Mei4o: Triggered [svm.jj.menu] (set value to 357)]
+[12:49:37] [Server thread/INFO]: [Mei4o: Triggered [svm.jj.menu]]
+[12:49:42] [Server thread/INFO]: [Mei4o: Triggered [svm.jj.menu] (set value to 357)]
+[12:49:44] [Server thread/INFO]: [Mei4o: Triggered [svm.jj.menu] (set value to 367)]
+[12:50:15] [Server thread/INFO]: [Mei4o: Triggered [svm.jj.menu] (set value to 357)]
+[12:50:21] [Server thread/INFO]: [Mei4o: Triggered [svm.jj.menu] (set value to 357)]
+[12:50:22] [Server thread/INFO]: [Mei4o: Triggered [svm.jj.menu] (set value to 367)]
+[12:50:27] [Server thread/INFO]: Parzival5077 was shot by Skeleton
+[12:50:34] [Server thread/INFO]: Mei4o lost connection: Disconnected
+[12:50:34] [Server thread/INFO]: Mei4o left the game
+[12:50:42] [Server thread/INFO]: jjjjjasper was shot by Skeleton
+[12:50:51] [Server thread/INFO]: Parzival5077 was shot by Skeleton
+[12:51:29] [Server thread/INFO]: Parzival5077 was blown up by Creeper
+[12:51:39] [Server thread/INFO]: jjjjjasper was shot by Skeleton
+[12:53:05] [Server thread/INFO]: Parzival5077 tried to swim in lava
+[12:53:11] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to jjjjjasper]
+[12:53:18] [Server thread/INFO]: [Not Secure] <Parzival5077> go home
+[12:53:32] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to jjjjjasper]
