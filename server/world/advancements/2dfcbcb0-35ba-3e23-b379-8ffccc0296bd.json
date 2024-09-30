@@ -25,7 +25,9 @@
       "maple_forest": "2024-09-30 12:10:34 +0000",
       "magnolia_highlands": "2024-09-30 11:23:43 +0000",
       "temperate_grove": "2024-09-30 14:46:41 +0000",
-      "pine_slopes": "2024-09-30 11:24:25 +0000"
+      "pine_slopes": "2024-09-30 11:24:25 +0000",
+      "grassland": "2024-09-30 14:56:54 +0000",
+      "redwoods": "2024-09-30 14:56:45 +0000"
     },
     "done": false
   },
@@ -37,7 +39,9 @@
       "maple_forest": "2024-09-30 12:10:34 +0000",
       "magnolia_highlands": "2024-09-30 11:23:43 +0000",
       "temperate_grove": "2024-09-30 14:46:41 +0000",
-      "pine_slopes": "2024-09-30 11:24:25 +0000"
+      "pine_slopes": "2024-09-30 11:24:25 +0000",
+      "grassland": "2024-09-30 14:56:54 +0000",
+      "redwoods": "2024-09-30 14:56:45 +0000"
     },
     "done": false
   },
@@ -3763,6 +3767,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-09-30 14:56:49 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/misc/wrought_iron_cannon_chamber": {
     "criteria": {
       "has_gunpowder": "2024-09-30 14:44:17 +0000"
@@ -3778,6 +3788,12 @@
   "svm_jojo:storyline/kills/killer_queen/5": {
     "criteria": {
       "requirement": "2024-09-30 14:20:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-09-30 14:56:49 +0000"
     },
     "done": true
   },
@@ -3817,6 +3833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-09-30 14:56:49 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/misc/empty_powder_charge": {
     "criteria": {
       "has_gunpowder": "2024-09-30 14:44:17 +0000"
@@ -3841,9 +3863,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-09-30 14:56:49 +0000"
+    },
+    "done": true
+  },
   "svm_jojo:skill_tree/star_platinum/grab": {
     "criteria": {
       "requirement": "2024-09-30 14:40:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-09-30 14:56:49 +0000"
     },
     "done": true
   },
