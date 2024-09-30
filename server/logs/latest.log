@@ -1611,3 +1611,20 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [11:35:48] [Server thread/INFO]: [Not Secure] <jjjjjasper> WHAT
 [11:35:53] [Server thread/INFO]: [Not Secure] <jjjjjasper> BED?
 [11:35:54] [Server thread/INFO]: [Parzival5077: Gave 1 [Blue Bed] to Parzival5077]
+[11:36:56] [Server thread/INFO]: [Parzival5077: Gave 2 [Armor Stand] to Parzival5077]
+[11:38:29] [Server thread/INFO]: [Not Secure] <jjjjjasper> LOOK
+[11:38:42] [Server thread/INFO]: [Not Secure] <Parzival5077> good
+[11:38:57] [Server thread/INFO]: [Not Secure] <Parzival5077> eeeee
+[11:39:00] [Server thread/INFO]: [Not Secure] <jjjjjasper> NICE
+[11:39:10] [Server thread/INFO]: [Not Secure] <Parzival5077> lets put one thing togerher
+[11:39:12] [Server thread/INFO]: [Not Secure] <jjjjjasper> WHAT ABOUT THIS?
+[11:39:20] [Server thread/INFO]: [Not Secure] <Parzival5077> wait///
+[11:39:27] [Server thread/INFO]: [Not Secure] <Parzival5077> do not put inside
+[11:41:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=11945, y=74, z=-580} class_2338{x=11943, y=74, z=-579}
+[11:45:49] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
+[11:45:52] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[11:45:55] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 347)]
+[11:45:56] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[11:45:59] [Server thread/INFO]: Parzival5077 has made the advancement [Ice Bucket Challenge]
+[11:46:07] [Server thread/INFO]: [Not Secure] <AwaKING> who tp 一下我
+[11:46:17] [Server thread/INFO]: Parzival5077 has made the advancement [Hot Stuff]
