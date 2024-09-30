@@ -708,6 +708,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-09-30 12:29:26 +0000",
+      "minecraft:spider": "2024-09-30 12:30:20 +0000",
+      "minecraft:creeper": "2024-09-30 12:30:24 +0000",
       "minecraft:zombie": "2024-09-30 12:11:53 +0000"
     },
     "done": false
@@ -1444,6 +1447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-09-30 12:29:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_light_ceiling_fan": {
     "criteria": {
       "has_redstone": "2024-09-30 12:09:48 +0000"
@@ -2101,6 +2110,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_basin": {
     "criteria": {
       "has_iron_ingot": "2024-09-30 12:21:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2024-09-30 12:30:28 +0000"
     },
     "done": true
   },
