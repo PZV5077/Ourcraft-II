@@ -1455,3 +1455,15 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [10:32:02] [Server thread/INFO]: [Parzival5077: Set own game mode to Creative Mode]
 [10:50:11] [Server thread/INFO]: [Parzival5077: Gave 25 [Glowstone] to Parzival5077]
 [10:50:21] [Server thread/INFO]: [Parzival5077: Gave 25 [Glowstone] to Parzival5077]
+[10:56:02] [Server thread/INFO]: AwaKING[/127.0.0.1:43954] logged in with entity id 109659 at (11958.470111479632, 72.0, -581.1553296604883)
+[10:56:02] [Server thread/INFO]: AwaKING joined the game
+[10:56:04] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[10:56:04] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[10:56:04] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[10:56:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[10:56:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[10:56:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[10:56:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[10:56:04] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[10:57:05] [Server thread/INFO]: [Parzival5077: Gave 1 [Blue Flag] to Parzival5077]
+[10:58:05] [Server thread/INFO]: [Parzival5077: Gave 1 [Blue Flag] to Parzival5077]
