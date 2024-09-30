@@ -7532,6 +7532,12 @@
     },
     "done": true
   },
+  "svm_jojo:storyline/use_bites_the_dust": {
+    "criteria": {
+      "requirement": "2024-09-30 14:52:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2024-09-30 14:37:01 +0000"
