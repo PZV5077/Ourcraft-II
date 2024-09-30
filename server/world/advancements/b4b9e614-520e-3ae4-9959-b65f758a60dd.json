@@ -7514,6 +7514,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/wheat_seeds_from_grass": {
+    "criteria": {
+      "has_grass": "2024-09-30 13:24:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-09-30 10:22:16 +0000"
