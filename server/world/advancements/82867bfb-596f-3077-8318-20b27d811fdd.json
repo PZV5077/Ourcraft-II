@@ -7574,6 +7574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-09-30 15:20:49 +0000"
+    },
+    "done": true
+  },
   "edenring:recipes/decorations/pulse_tree_hanging_sign": {
     "criteria": {
       "has_chain": "2024-09-30 14:22:35 +0000"
