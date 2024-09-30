@@ -1443,3 +1443,4 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [10:05:20] [Server thread/INFO]: Parzival5077 was slain by Diavolo
 [10:05:35] [Server thread/INFO]: Named entity class_1590['Diavolo'/89799, l='ServerLevel[world]', x=11978.96, y=69.00, z=-604.23] died: Diavolo was shot by Parzival5077
 [10:07:03] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 12571.000000, 103.000000, -303.000000]
+[10:19:46] [Server thread/INFO]: [Parzival5077: Gave 1 [Diamond Axe] to Parzival5077]
