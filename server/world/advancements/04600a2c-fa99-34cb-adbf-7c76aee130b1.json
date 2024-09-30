@@ -6603,6 +6603,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:warped_forest": "2024-09-30 14:23:49 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-09-30 12:45:31 +0000"
@@ -6663,9 +6669,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-09-30 14:26:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_tiles_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2024-09-30 11:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-09-30 14:26:15 +0000"
     },
     "done": true
   },
@@ -6693,6 +6711,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-09-30 14:26:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_pump": {
     "criteria": {
       "has_item": "2024-09-30 11:56:35 +0000"
@@ -6714,6 +6738,12 @@
   "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-09-30 12:45:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-09-30 14:26:15 +0000"
     },
     "done": true
   },
@@ -6759,6 +6789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-09-30 14:24:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2024-09-30 11:56:35 +0000"
@@ -6783,6 +6819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-09-30 14:24:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-09-30 12:45:31 +0000"
@@ -6792,6 +6834,12 @@
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2024-09-30 11:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-09-30 14:24:57 +0000"
     },
     "done": true
   },
@@ -6816,6 +6864,12 @@
   "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-09-30 12:45:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-09-30 14:26:15 +0000"
     },
     "done": true
   },
@@ -6879,15 +6933,39 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-09-30 14:23:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-09-30 12:45:31 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-09-30 14:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-09-30 14:24:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2024-09-30 11:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-09-30 14:24:57 +0000"
     },
     "done": true
   },
@@ -6927,15 +7005,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2024-09-30 14:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-09-30 14:26:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_item": "2024-09-30 11:56:35 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-09-30 14:26:15 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2024-09-30 11:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-09-30 14:24:57 +0000"
     },
     "done": true
   },
@@ -6948,6 +7050,12 @@
   "farmersdelight:recipes/farmersdelight/fried_egg": {
     "criteria": {
       "fried_egg": "2024-09-30 11:58:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-09-30 14:23:47 +0000"
     },
     "done": true
   },
@@ -6996,6 +7104,12 @@
   "createbigcannons:recipes/misc/proximity_fuze": {
     "criteria": {
       "has_iron_bars": "2024-09-30 13:39:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-09-30 14:24:57 +0000"
     },
     "done": true
   },

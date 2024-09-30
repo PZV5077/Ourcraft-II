@@ -7760,5 +7760,23 @@
     },
     "done": true
   },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2024-09-30 14:26:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2024-09-30 14:26:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_shroomlight": "2024-09-30 14:26:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

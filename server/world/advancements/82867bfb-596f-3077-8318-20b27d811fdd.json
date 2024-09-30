@@ -7502,9 +7502,33 @@
     },
     "done": true
   },
+  "edenring:recipes/decorations/balloon_mushroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2024-09-30 14:22:35 +0000"
+    },
+    "done": true
+  },
+  "edenring:recipes/decorations/pulse_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2024-09-30 14:22:35 +0000"
+    },
+    "done": true
+  },
+  "edenring:recipes/decorations/auritis_hanging_sign": {
+    "criteria": {
+      "has_chain": "2024-09-30 14:22:35 +0000"
+    },
+    "done": true
+  },
   "beautify:candelabras": {
     "criteria": {
       "requirement": "2024-09-30 14:21:00 +0000"
+    },
+    "done": true
+  },
+  "edenring:recipes/decorations/brain_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2024-09-30 14:22:35 +0000"
     },
     "done": true
   },
