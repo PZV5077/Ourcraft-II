@@ -24,6 +24,7 @@
       "highland_fields": "2024-09-30 11:20:35 +0000",
       "maple_forest": "2024-09-30 12:10:34 +0000",
       "magnolia_highlands": "2024-09-30 11:23:43 +0000",
+      "temperate_grove": "2024-09-30 14:46:41 +0000",
       "pine_slopes": "2024-09-30 11:24:25 +0000"
     },
     "done": false
@@ -35,6 +36,7 @@
       "highland_fields": "2024-09-30 11:20:35 +0000",
       "maple_forest": "2024-09-30 12:10:34 +0000",
       "magnolia_highlands": "2024-09-30 11:23:43 +0000",
+      "temperate_grove": "2024-09-30 14:46:41 +0000",
       "pine_slopes": "2024-09-30 11:24:25 +0000"
     },
     "done": false
@@ -2522,6 +2524,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-09-30 14:44:22 +0000",
       "minecraft:skeleton": "2024-09-30 12:29:26 +0000",
       "minecraft:spider": "2024-09-30 12:30:20 +0000",
       "minecraft:creeper": "2024-09-30 12:30:24 +0000",
@@ -3742,9 +3745,51 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/misc/wrought_iron_cannon_end": {
+    "criteria": {
+      "has_gunpowder": "2024-09-30 14:44:17 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/cannon_carriage": {
+    "criteria": {
+      "has_gunpowder": "2024-09-30 14:44:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2024-09-30 14:44:17 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/wrought_iron_cannon_chamber": {
+    "criteria": {
+      "has_gunpowder": "2024-09-30 14:44:17 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/powder_charge": {
+    "criteria": {
+      "has_gunpowder": "2024-09-30 14:44:17 +0000"
+    },
+    "done": true
+  },
   "svm_jojo:storyline/kills/killer_queen/5": {
     "criteria": {
       "requirement": "2024-09-30 14:20:37 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/wrought_iron_drop_mortar_end": {
+    "criteria": {
+      "has_gunpowder": "2024-09-30 14:44:17 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/log_cannon_end": {
+    "criteria": {
+      "has_gunpowder": "2024-09-30 14:44:17 +0000"
     },
     "done": true
   },
@@ -3757,6 +3802,42 @@
   "svm_jojo:skill_tree/star_platinum/star_finger": {
     "criteria": {
       "requirement": "2024-09-30 14:40:47 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/machine_gun_round": {
+    "criteria": {
+      "has_gunpowder": "2024-09-30 14:44:17 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/gunpowder_pinch": {
+    "criteria": {
+      "has_gunpowder": "2024-09-30 14:44:17 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/empty_powder_charge": {
+    "criteria": {
+      "has_gunpowder": "2024-09-30 14:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-09-30 14:44:17 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/log_cannon_chamber": {
+    "criteria": {
+      "has_gunpowder": "2024-09-30 14:44:17 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/cannon_mount": {
+    "criteria": {
+      "has_gunpowder": "2024-09-30 14:44:17 +0000"
     },
     "done": true
   },
@@ -3775,6 +3856,24 @@
   "svm_jojo:storyline/get_star_platinum": {
     "criteria": {
       "requirement": "2024-09-30 14:40:46 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/wrought_iron_drop_mortar_end_mirrored": {
+    "criteria": {
+      "has_gunpowder": "2024-09-30 14:44:17 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/pair_of_cannon_wheels": {
+    "criteria": {
+      "has_gunpowder": "2024-09-30 14:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-09-30 14:44:17 +0000"
     },
     "done": true
   },

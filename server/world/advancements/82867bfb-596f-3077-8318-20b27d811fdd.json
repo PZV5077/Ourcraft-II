@@ -7508,9 +7508,27 @@
     },
     "done": true
   },
+  "svm_jojo:skill_tree/killer_queen/bites_the_dust": {
+    "criteria": {
+      "requirement": "2024-09-30 14:49:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2024-09-30 14:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-09-30 14:44:28 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/kills/killer_queen/10": {
+    "criteria": {
+      "requirement": "2024-09-30 14:44:28 +0000"
     },
     "done": true
   },
@@ -7559,6 +7577,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2024-09-30 14:37:01 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/get_bites_the_dust": {
+    "criteria": {
+      "requirement": "2024-09-30 14:49:20 +0000"
     },
     "done": true
   },

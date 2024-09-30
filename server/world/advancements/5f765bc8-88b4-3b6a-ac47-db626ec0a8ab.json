@@ -5519,6 +5519,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2024-09-30 14:45:42 +0000",
       "sugar_cane": "2024-09-27 07:58:01 +0000"
     },
     "done": false
