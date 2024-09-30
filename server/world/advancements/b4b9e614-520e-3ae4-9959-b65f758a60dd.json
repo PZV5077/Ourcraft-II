@@ -7235,6 +7235,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/misc/yaw_controller": {
+    "criteria": {
+      "has_cannon_mount": "2024-09-30 11:15:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/white_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2024-09-30 10:58:43 +0000"
@@ -7400,6 +7406,12 @@
   "minecraft:recipes/building_blocks/dye_white_carpet": {
     "criteria": {
       "has_needed_dye": "2024-09-30 10:58:43 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/place_frame": {
+    "criteria": {
+      "frame": "2024-09-30 11:12:39 +0000"
     },
     "done": true
   },

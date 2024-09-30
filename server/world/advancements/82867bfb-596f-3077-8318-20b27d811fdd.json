@@ -3000,6 +3000,7 @@
       "potato": "2024-09-26 04:38:42 +0000",
       "mutton": "2024-09-26 05:10:02 +0000",
       "bread": "2024-09-25 10:57:08 +0000",
+      "rotten_flesh": "2024-09-30 11:14:20 +0000",
       "melon_slice": "2024-09-26 07:49:45 +0000",
       "cooked_chicken": "2024-09-25 11:01:20 +0000"
     },
@@ -6930,6 +6931,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2024-09-30 09:50:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
+    "criteria": {
+      "has_oak_leaves": "2024-09-30 11:17:11 +0000"
     },
     "done": true
   },
