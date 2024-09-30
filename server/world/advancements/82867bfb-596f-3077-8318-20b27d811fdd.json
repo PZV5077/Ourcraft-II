@@ -2995,6 +2995,7 @@
       "cooked_mutton": "2024-09-27 13:52:24 +0000",
       "cooked_beef": "2024-09-25 09:20:00 +0000",
       "beef": "2024-09-26 04:37:44 +0000",
+      "porkchop": "2024-09-30 09:52:33 +0000",
       "apple": "2024-09-25 10:52:13 +0000",
       "potato": "2024-09-26 04:38:42 +0000",
       "mutton": "2024-09-26 05:10:02 +0000",
@@ -6905,6 +6906,30 @@
   "meadow:recipes/climbing_rope_topmount": {
     "criteria": {
       "has_lead": "2024-09-27 14:16:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-09-30 09:50:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2024-09-30 09:50:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-09-30 09:50:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-09-30 09:50:30 +0000"
     },
     "done": true
   },

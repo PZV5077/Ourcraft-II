@@ -42,7 +42,8 @@
       "minecraft:snowy_beach": "2024-09-26 11:16:55 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-09-26 11:10:09 +0000",
       "minecraft:old_growth_birch_forest": "2024-09-26 06:51:46 +0000",
-      "minecraft:meadow": "2024-09-25 08:19:51 +0000"
+      "minecraft:meadow": "2024-09-25 08:19:51 +0000",
+      "minecraft:plains": "2024-09-30 09:51:25 +0000"
     },
     "done": false
   },
@@ -6934,21 +6935,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
-    "criteria": {
-      "has_mushroom": "2024-09-30 09:30:28 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/soap": {
     "criteria": {
       "has_porkchop": "2024-09-30 09:26:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2024-09-30 09:37:58 +0000"
     },
     "done": true
   },
@@ -6958,45 +6947,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/tall_yellow_bioshroom": {
-    "criteria": {
-      "has_yellow_bioshroom": "2024-09-30 09:30:28 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_block": {
-    "criteria": {
-      "has_yellow_bioshroom": "2024-09-30 09:30:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-09-30 09:26:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2024-09-30 09:34:00 +0000"
-    },
-    "done": true
-  },
-  "beautify:lamp_jar": {
-    "criteria": {
-      "requirement": "2024-09-30 09:34:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2024-09-30 09:37:58 +0000"
-    },
-    "done": true
-  },
-  "createbigcannons:recipes/misc/tracer_tip": {
-    "criteria": {
-      "has_glowstone": "2024-09-30 09:34:00 +0000"
     },
     "done": true
   },
@@ -7012,9 +6965,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
     "criteria": {
-      "has_glowstone_dust": "2024-09-30 09:34:00 +0000"
+      "has_mushroom": "2024-09-30 09:30:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/tall_yellow_bioshroom": {
+    "criteria": {
+      "has_yellow_bioshroom": "2024-09-30 09:30:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_block": {
+    "criteria": {
+      "has_yellow_bioshroom": "2024-09-30 09:30:28 +0000"
     },
     "done": true
   },
@@ -7023,6 +6988,48 @@
       "yellow_bioshroom": "2024-09-30 09:30:28 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-09-30 09:34:00 +0000"
+    },
+    "done": true
+  },
+  "beautify:lamp_jar": {
+    "criteria": {
+      "requirement": "2024-09-30 09:34:00 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/tracer_tip": {
+    "criteria": {
+      "has_glowstone": "2024-09-30 09:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-09-30 09:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-09-30 09:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-09-30 09:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-09-30 09:54:06 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
