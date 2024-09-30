@@ -3748,9 +3748,33 @@
     },
     "done": true
   },
+  "svm_jojo:skill_tree/star_platinum/root": {
+    "criteria": {
+      "requirement": "2024-09-30 14:40:46 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/star_platinum/star_finger": {
+    "criteria": {
+      "requirement": "2024-09-30 14:40:47 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/star_platinum/grab": {
+    "criteria": {
+      "requirement": "2024-09-30 14:40:47 +0000"
+    },
+    "done": true
+  },
   "svm_jojo:skill_tree/killer_queen/sheer_heart_attack": {
     "criteria": {
       "requirement": "2024-09-30 14:20:38 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/get_star_platinum": {
+    "criteria": {
+      "requirement": "2024-09-30 14:40:46 +0000"
     },
     "done": true
   },

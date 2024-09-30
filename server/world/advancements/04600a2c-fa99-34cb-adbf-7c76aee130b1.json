@@ -6606,6 +6606,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:soul_sand_valley": "2024-09-30 14:40:03 +0000",
       "minecraft:warped_forest": "2024-09-30 14:23:49 +0000"
     },
     "done": false
@@ -6679,6 +6680,12 @@
   "supplementaries:recipes/end_stone_lamp": {
     "criteria": {
       "has_shroomlight": "2024-09-30 14:32:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-09-30 14:42:56 +0000"
     },
     "done": true
   },
@@ -6868,6 +6875,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-09-30 14:39:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_bars_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2024-09-30 11:56:35 +0000"
@@ -6952,6 +6965,12 @@
     },
     "done": true
   },
+  "beautify:lamp_jar": {
+    "criteria": {
+      "requirement": "2024-09-30 14:39:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-09-30 14:23:47 +0000"
@@ -6973,6 +6992,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2024-09-30 14:24:57 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/tracer_tip": {
+    "criteria": {
+      "has_glowstone": "2024-09-30 14:39:28 +0000"
     },
     "done": true
   },
@@ -7108,6 +7133,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-09-30 14:42:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2024-09-30 11:56:35 +0000"
@@ -7129,6 +7160,12 @@
   "createbigcannons:recipes/misc/proximity_fuze": {
     "criteria": {
       "has_iron_bars": "2024-09-30 13:39:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-09-30 14:39:28 +0000"
     },
     "done": true
   },

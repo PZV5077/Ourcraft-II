@@ -7508,9 +7508,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-09-30 14:38:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2024-09-30 14:37:01 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/kills/killer_queen/5": {
+    "criteria": {
+      "requirement": "2024-09-30 14:39:03 +0000"
     },
     "done": true
   },
@@ -7538,6 +7550,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-09-30 14:38:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2024-09-30 14:37:01 +0000"
@@ -7547,6 +7565,12 @@
   "edenring:recipes/decorations/auritis_hanging_sign": {
     "criteria": {
       "has_chain": "2024-09-30 14:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-09-30 14:38:58 +0000"
     },
     "done": true
   },
