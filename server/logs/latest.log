@@ -3268,3 +3268,44 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [14:13:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
 [14:13:47] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
 [14:14:19] [Server thread/INFO]: [Parzival5077: Gave 1 [Flint and Steel] to Parzival5077]
+[14:15:48] [Server thread/INFO]: Parzival5077 hit the ground too hard
+[14:15:56] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to jjjjjasper]
+[14:15:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[14:16:21] [Server thread/INFO]: [Parzival5077: Set own game mode to Creative Mode]
+[14:17:04] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@28a09f2f[id=b4b9e614-520e-3ae4-9959-b65f758a60dd,name=Parzival5077,properties={},legacy=false] (/127.0.0.1:47832): §cPlayer literal{Parzival5077} is already online!
+[14:17:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@28a09f2f[id=b4b9e614-520e-3ae4-9959-b65f758a60dd,name=Parzival5077,properties={},legacy=false] (/127.0.0.1:47832) lost connection: §cPlayer literal{Parzival5077} is already online!
+[14:17:04] [Server thread/WARN]: handleDisconnection() called twice
+[14:17:07] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@30c1ca1d[id=b4b9e614-520e-3ae4-9959-b65f758a60dd,name=Parzival5077,properties={},legacy=false] (/127.0.0.1:47848): §cPlayer literal{Parzival5077} is already online!
+[14:17:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@30c1ca1d[id=b4b9e614-520e-3ae4-9959-b65f758a60dd,name=Parzival5077,properties={},legacy=false] (/127.0.0.1:47848) lost connection: §cPlayer literal{Parzival5077} is already online!
+[14:17:07] [Server thread/WARN]: handleDisconnection() called twice
+[14:17:09] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2056a526[id=b4b9e614-520e-3ae4-9959-b65f758a60dd,name=Parzival5077,properties={},legacy=false] (/127.0.0.1:47862): §cPlayer literal{Parzival5077} is already online!
+[14:17:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@2056a526[id=b4b9e614-520e-3ae4-9959-b65f758a60dd,name=Parzival5077,properties={},legacy=false] (/127.0.0.1:47862) lost connection: §cPlayer literal{Parzival5077} is already online!
+[14:17:09] [Server thread/WARN]: handleDisconnection() called twice
+[14:17:11] [Server thread/INFO]: Parzival5077 lost connection: Timed out
+[14:17:11] [Server thread/INFO]: Parzival5077 left the game
+[14:17:12] [Server thread/INFO]: Parzival5077[/127.0.0.1:52068] logged in with entity id 624272 at (12551.10988580892, 83.0, -314.4145473177401)
+[14:17:12] [Server thread/INFO]: Parzival5077 joined the game
+[14:17:13] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[14:17:13] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[14:17:13] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[14:17:13] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[14:17:13] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[14:17:13] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[14:17:13] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[14:17:13] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[14:17:33] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[14:18:31] [Server thread/INFO]: Mei4o[/127.0.0.1:53724] logged in with entity id 632731 at (11952.034467873402, 72.0, -593.6590487414283)
+[14:18:31] [Server thread/INFO]: Mei4o joined the game
+[14:18:34] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[14:18:34] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[14:18:34] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[14:18:34] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[14:18:34] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[14:18:34] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[14:18:34] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[14:18:34] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[14:19:05] [Server thread/INFO]: [Parzival5077: Gave 64 [Nether Brick Stairs] to Parzival5077]
+[14:19:13] [Server thread/INFO]: [Parzival5077: Gave 64 [Nether Bricks] to Parzival5077]
+[14:20:33] [Server thread/INFO]: [Parzival5077: Gave 1 [Torch] to Parzival5077]
+[14:20:35] [Server thread/INFO]: [Parzival5077: Gave 1 [Torch] to Parzival5077]
