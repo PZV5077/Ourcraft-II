@@ -89,6 +89,7 @@
       "minecraft:spider": "2024-09-25 09:13:57 +0000",
       "minecraft:creeper": "2024-09-25 10:24:38 +0000",
       "minecraft:zombified_piglin": "2024-09-26 04:49:56 +0000",
+      "minecraft:cave_spider": "2024-09-30 14:21:23 +0000",
       "minecraft:enderman": "2024-09-25 10:31:36 +0000",
       "minecraft:zombie": "2024-09-25 10:26:45 +0000",
       "minecraft:drowned": "2024-09-25 10:19:35 +0000"
@@ -7498,6 +7499,12 @@
   "svm_jojo:skill_tree/killer_queen/sheer_heart_attack": {
     "criteria": {
       "requirement": "2024-09-30 12:35:25 +0000"
+    },
+    "done": true
+  },
+  "beautify:candelabras": {
+    "criteria": {
+      "requirement": "2024-09-30 14:21:00 +0000"
     },
     "done": true
   },
