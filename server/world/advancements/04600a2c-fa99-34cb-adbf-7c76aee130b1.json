@@ -6825,6 +6825,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-09-30 13:45:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-09-30 11:58:23 +0000"
@@ -6858,6 +6864,12 @@
   "create:recipes/misc/crafting/materials/copper_nugget": {
     "criteria": {
       "has_item": "2024-09-30 11:56:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-09-30 13:45:16 +0000"
     },
     "done": true
   },
@@ -6936,6 +6948,12 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2024-09-30 13:03:47 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/place_frame": {
+    "criteria": {
+      "frame": "2024-09-30 13:45:05 +0000"
     },
     "done": true
   },

@@ -7352,6 +7352,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2024-09-30 13:44:37 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/baking/sea_salt": {
     "criteria": {
       "has_ingredient": "2024-09-30 12:03:24 +0000"
@@ -7418,6 +7424,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-09-30 13:44:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2024-09-30 12:06:29 +0000"
@@ -7451,6 +7463,12 @@
   "farmersdelight:main/plant_rice": {
     "criteria": {
       "plant_rice": "2024-09-30 11:42:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-09-30 13:44:37 +0000"
     },
     "done": true
   },
