@@ -7031,6 +7031,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2024-09-30 12:05:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2024-09-30 12:05:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_drawer": {
     "criteria": {
       "has_white_dye": "2024-09-30 10:58:43 +0000"
@@ -7106,6 +7118,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-09-30 10:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-09-30 12:05:36 +0000"
     },
     "done": true
   },
@@ -7211,6 +7229,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2024-09-30 12:05:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/white_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2024-09-30 10:58:43 +0000"
@@ -7283,6 +7307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-09-30 12:03:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2024-09-30 10:02:31 +0000"
@@ -7304,6 +7334,12 @@
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_white_dye": "2024-09-30 10:58:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2024-09-30 12:03:24 +0000"
     },
     "done": true
   },
@@ -7385,6 +7421,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-09-30 12:05:36 +0000"
+    },
+    "done": true
+  },
   "beautify:progression/light": {
     "criteria": {
       "obtain": "2024-09-30 11:02:51 +0000"
@@ -7445,6 +7487,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2024-09-30 12:03:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_storage_cabinet": {
     "criteria": {
       "has_white_dye": "2024-09-30 10:58:43 +0000"
@@ -7466,6 +7514,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_cabinetry": {
     "criteria": {
       "has_white_dye": "2024-09-30 10:58:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2024-09-30 12:03:24 +0000"
     },
     "done": true
   },
@@ -7502,6 +7556,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-09-30 10:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-09-30 12:05:36 +0000"
     },
     "done": true
   },

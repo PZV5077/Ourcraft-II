@@ -19,6 +19,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2024-09-30 12:05:32 +0000",
       "highland_fields": "2024-09-30 11:20:35 +0000",
       "magnolia_highlands": "2024-09-30 11:23:43 +0000",
       "pine_slopes": "2024-09-30 11:24:25 +0000"
@@ -27,6 +28,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2024-09-30 12:05:32 +0000",
       "highland_fields": "2024-09-30 11:20:35 +0000",
       "magnolia_highlands": "2024-09-30 11:23:43 +0000",
       "pine_slopes": "2024-09-30 11:24:25 +0000"
@@ -1170,6 +1172,12 @@
   "regions_unexplored:recipes/building_blocks/light_blue_painted_planks": {
     "criteria": {
       "has_planks": "2024-09-30 11:58:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2024-09-30 12:06:08 +0000"
     },
     "done": true
   },

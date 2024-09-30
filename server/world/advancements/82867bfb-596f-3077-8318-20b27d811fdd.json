@@ -6990,6 +6990,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-09-30 12:03:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_pink_bed": {
     "criteria": {
       "has_needed_dye": "2024-09-30 11:39:17 +0000"
