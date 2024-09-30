@@ -7169,6 +7169,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-09-30 11:46:17 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/white_stool_from_dyeing": {
     "criteria": {
       "has_dye": "2024-09-30 10:58:43 +0000"
@@ -7283,6 +7289,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-09-30 11:49:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_storage_cabinet": {
     "criteria": {
       "has_white_dye": "2024-09-30 10:58:43 +0000"
@@ -7322,6 +7334,12 @@
   "farmersdelight:main/place_skillet": {
     "criteria": {
       "skillet": "2024-09-30 11:42:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-09-30 11:49:13 +0000"
     },
     "done": true
   },
