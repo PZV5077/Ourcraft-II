@@ -7067,6 +7067,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-09-30 11:55:14 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_cabinetry": {
     "criteria": {
       "has_white_dye": "2024-09-30 10:58:43 +0000"
@@ -7157,6 +7163,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2024-09-30 11:55:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2024-09-30 10:58:43 +0000"
@@ -7166,6 +7178,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_cabinetry": {
     "criteria": {
       "has_white_dye": "2024-09-30 10:58:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-09-30 11:55:14 +0000"
     },
     "done": true
   },
@@ -7328,6 +7346,12 @@
   "createbigcannons:recipes/misc/hardened_nitro": {
     "criteria": {
       "has_blaze_powder": "2024-09-30 10:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-09-30 11:55:14 +0000"
     },
     "done": true
   },

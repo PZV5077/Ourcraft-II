@@ -33,6 +33,7 @@
       "minecraft:jungle": "2024-09-26 07:35:30 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-09-26 07:54:32 +0000",
       "minecraft:old_growth_birch_forest": "2024-09-26 05:24:47 +0000",
+      "minecraft:deep_dark": "2024-09-30 11:56:06 +0000",
       "minecraft:meadow": "2024-09-25 08:46:11 +0000",
       "minecraft:savanna": "2024-09-25 09:22:34 +0000",
       "minecraft:plains": "2024-09-25 09:20:53 +0000"
@@ -6941,6 +6942,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/pink_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2024-09-30 11:39:17 +0000"
@@ -6950,6 +6957,12 @@
   "edenring:recipes/misc/balloon_mushroom_sporocarp_pink": {
     "criteria": {
       "has_pink_dye": "2024-09-30 11:39:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
     },
     "done": true
   },
@@ -6971,9 +6984,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_pink_bed": {
     "criteria": {
       "has_needed_dye": "2024-09-30 11:39:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
     },
     "done": true
   },
@@ -6989,9 +7014,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_kitchen_cabinetry": {
     "criteria": {
       "has_pink_dye": "2024-09-30 11:39:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
     },
     "done": true
   },
@@ -7013,6 +7062,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2024-09-30 11:39:04 +0000"
@@ -7028,6 +7083,12 @@
   "refurbished_furniture:recipes/decorations/pink_toilet": {
     "criteria": {
       "has_dye": "2024-09-30 11:39:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
     },
     "done": true
   },
@@ -7058,6 +7119,12 @@
   "refurbished_furniture:recipes/decorations/pink_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2024-09-30 11:39:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
     },
     "done": true
   },
@@ -7097,6 +7164,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_basin": {
     "criteria": {
       "has_pink_dye": "2024-09-30 11:39:17 +0000"
@@ -7118,6 +7191,18 @@
   "supplementaries:recipes/candle_holders/candle_holder_pink_dye": {
     "criteria": {
       "forge:dyes/pink": "2024-09-30 11:39:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
     },
     "done": true
   },
@@ -7163,9 +7248,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-09-30 11:56:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_carpet": {
     "criteria": {
       "has_pink_wool": "2024-09-30 11:39:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
     },
     "done": true
   },
@@ -7178,6 +7293,12 @@
   "refurbished_furniture:recipes/decorations/pink_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2024-09-30 11:39:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
     },
     "done": true
   },
