@@ -1467,3 +1467,13 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [10:56:04] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
 [10:57:05] [Server thread/INFO]: [Parzival5077: Gave 1 [Blue Flag] to Parzival5077]
 [10:58:05] [Server thread/INFO]: [Parzival5077: Gave 1 [Blue Flag] to Parzival5077]
+[11:01:38] [Server thread/INFO]: AwaKING was slain by Jotaro Kujo (Part 3)
+[11:02:16] [Server thread/INFO]: AwaKING was slain by Jotaro Kujo (Part 3)
+[11:02:32] [Server thread/INFO]: AwaKING was slain by Jotaro Kujo (Part 3)
+[11:02:51] [Server thread/INFO]: Parzival5077 has made the advancement [Lit!]
+[11:02:52] [Server thread/INFO]: AwaKING was slain by Jotaro Kujo (Part 3)
+[11:03:10] [Server thread/INFO]: Named entity class_1590['Jotaro Kujo (Part 3)'/117804, l='ServerLevel[world]', x=11978.92, y=71.00, z=-570.00] died: Jotaro Kujo (Part 3) was slain by AwaKING using [The World]
+[11:08:28] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
+[11:08:31] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[11:08:32] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 605)]
+[11:08:40] [Server thread/INFO]: AwaKING has made the advancement [Greatest high!]
