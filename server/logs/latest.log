@@ -1311,3 +1311,5 @@ io.netty.handler.timeout.ReadTimeoutException: null
 io.netty.handler.timeout.ReadTimeoutException: null
 [09:16:29] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[09:22:09] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 1497.000000, 56.000000, 43.000000]
+[09:23:43] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 1360.000000, 57.000000, 44.000000]
