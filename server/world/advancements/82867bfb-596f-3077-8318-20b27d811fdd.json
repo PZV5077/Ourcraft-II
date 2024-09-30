@@ -7502,6 +7502,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:warped_forest": "2024-09-30 15:19:04 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2024-09-30 14:37:01 +0000"
@@ -7580,6 +7586,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-09-30 15:19:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2024-09-30 14:30:05 +0000"
@@ -7613,6 +7625,12 @@
   "svm_jojo:storyline/get_bites_the_dust": {
     "criteria": {
       "requirement": "2024-09-30 14:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-09-30 15:19:03 +0000"
     },
     "done": true
   },
