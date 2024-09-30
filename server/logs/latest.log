@@ -1956,3 +1956,5 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [12:53:11] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to jjjjjasper]
 [12:53:18] [Server thread/INFO]: [Not Secure] <Parzival5077> go home
 [12:53:32] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to jjjjjasper]
+[12:56:24] [Server thread/INFO]: Parzival5077 tried to swim in lava
+[12:56:29] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to jjjjjasper]
