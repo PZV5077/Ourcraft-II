@@ -7562,15 +7562,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-09-30 15:02:20 +0000"
+    },
+    "done": true
+  },
   "edenring:recipes/decorations/pulse_tree_hanging_sign": {
     "criteria": {
       "has_chain": "2024-09-30 14:22:35 +0000"
     },
     "done": true
   },
+  "beautify:lamp_jar": {
+    "criteria": {
+      "requirement": "2024-09-30 15:02:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2024-09-30 14:30:05 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/light": {
+    "criteria": {
+      "obtain": "2024-09-30 15:02:20 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/tracer_tip": {
+    "criteria": {
+      "has_glowstone": "2024-09-30 15:02:20 +0000"
     },
     "done": true
   },
@@ -7601,6 +7625,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-09-30 14:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-09-30 15:02:20 +0000"
     },
     "done": true
   },
