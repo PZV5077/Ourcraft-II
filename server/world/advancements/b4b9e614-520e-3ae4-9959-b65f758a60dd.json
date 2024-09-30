@@ -118,6 +118,7 @@
       "sparse_redwoods": "2024-09-26 10:54:24 +0000",
       "deciduous_forest": "2024-09-25 10:20:09 +0000",
       "boreal_forest": "2024-09-29 13:01:55 +0000",
+      "glistering_meadow": "2024-09-30 09:26:24 +0000",
       "blackstone_basin": "2024-09-29 12:55:29 +0000",
       "bamboo_forest": "2024-09-26 11:07:40 +0000",
       "temperate_grove": "2024-09-25 08:39:26 +0000",
@@ -5419,10 +5420,14 @@
     "criteria": {
       "minecraft:blaze": "2024-09-30 09:25:10 +0000",
       "minecraft:skeleton": "2024-09-26 07:12:22 +0000",
+      "minecraft:hoglin": "2024-09-30 09:26:50 +0000",
       "minecraft:spider": "2024-09-26 06:50:20 +0000",
       "minecraft:creeper": "2024-09-29 13:16:18 +0000",
       "minecraft:slime": "2024-09-26 07:10:49 +0000",
+      "minecraft:zombified_piglin": "2024-09-30 09:37:56 +0000",
       "minecraft:wither_skeleton": "2024-09-30 09:25:18 +0000",
+      "minecraft:piglin": "2024-09-30 09:28:33 +0000",
+      "minecraft:enderman": "2024-09-30 09:34:21 +0000",
       "minecraft:zombie": "2024-09-26 06:48:02 +0000"
     },
     "done": false
@@ -6308,12 +6313,14 @@
     "criteria": {
       "mycotoxic_undergrowth": "2024-09-29 12:55:58 +0000",
       "blackstone_basin": "2024-09-29 12:55:29 +0000",
-      "redstone_abyss": "2024-09-29 12:50:53 +0000"
+      "redstone_abyss": "2024-09-29 12:50:53 +0000",
+      "glistering_meadow": "2024-09-30 09:26:24 +0000"
     },
     "done": false
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2024-09-30 09:33:12 +0000",
       "minecraft:warped_forest": "2024-09-29 12:56:17 +0000"
     },
     "done": false
@@ -6923,6 +6930,96 @@
       "has_coal_block": "2024-09-29 14:13:17 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2024-09-30 09:30:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_porkchop": "2024-09-30 09:26:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-09-30 09:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-09-30 09:26:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/tall_yellow_bioshroom": {
+    "criteria": {
+      "has_yellow_bioshroom": "2024-09-30 09:30:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_block": {
+    "criteria": {
+      "has_yellow_bioshroom": "2024-09-30 09:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-09-30 09:26:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-09-30 09:34:00 +0000"
+    },
+    "done": true
+  },
+  "beautify:lamp_jar": {
+    "criteria": {
+      "requirement": "2024-09-30 09:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-09-30 09:37:58 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/tracer_tip": {
+    "criteria": {
+      "has_glowstone": "2024-09-30 09:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-09-30 09:26:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-09-30 09:26:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-09-30 09:34:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "yellow_bioshroom": "2024-09-30 09:30:28 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
