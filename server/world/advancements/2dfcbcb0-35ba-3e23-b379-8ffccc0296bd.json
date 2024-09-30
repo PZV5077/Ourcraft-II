@@ -186,7 +186,8 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
-      "magnolia_log": "2024-09-30 11:23:46 +0000"
+      "magnolia_log": "2024-09-30 11:23:46 +0000",
+      "pine_log": "2024-09-30 12:43:00 +0000"
     },
     "done": false
   },
@@ -241,6 +242,12 @@
   "refurbished_furniture:recipes/misc/constructing/lime_grill": {
     "criteria": {
       "has_iron_ingot": "2024-09-30 12:21:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2024-09-30 12:43:00 +0000"
     },
     "done": true
   },
@@ -301,6 +308,12 @@
   "refurbished_furniture:recipes/misc/constructing/green_stool": {
     "criteria": {
       "has_planks": "2024-09-30 11:58:21 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_shulker_box": {
+    "criteria": {
+      "has_tag_c_chest": "2024-09-30 12:37:58 +0000"
     },
     "done": true
   },
@@ -739,6 +752,12 @@
       "minecraft:zombie": "2024-09-30 12:11:53 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-09-30 12:42:55 +0000"
+    },
+    "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/birch_bath": {
     "criteria": {
@@ -1253,6 +1272,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-09-30 12:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-09-30 12:42:55 +0000"
     },
     "done": true
   },
@@ -2348,6 +2373,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
+    "criteria": {
+      "has_log": "2024-09-30 12:43:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_grill": {
     "criteria": {
       "has_iron_ingot": "2024-09-30 12:21:48 +0000"
@@ -2697,6 +2728,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-09-30 12:42:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-09-30 12:06:50 +0000"
@@ -3009,6 +3046,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
+    "criteria": {
+      "has_log": "2024-09-30 12:42:55 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_sofa": {
     "criteria": {
       "has_planks": "2024-09-30 11:58:21 +0000"
@@ -3084,6 +3127,12 @@
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-09-30 12:07:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-09-30 12:36:54 +0000"
     },
     "done": true
   },
@@ -3258,6 +3307,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-09-30 12:07:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-09-30 12:36:54 +0000"
     },
     "done": true
   },
@@ -3495,6 +3550,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "baked_potato": "2024-09-30 12:42:11 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
       "has_planks": "2024-09-30 11:58:21 +0000"
@@ -3510,6 +3571,12 @@
   "supplementaries:recipes/daub": {
     "criteria": {
       "supplementaries:straw": "2024-09-30 12:24:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2024-09-30 12:43:00 +0000"
     },
     "done": true
   },

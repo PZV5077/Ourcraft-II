@@ -6937,123 +6937,21 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+  "svm_jojo:storyline/stop_time_mastery": {
     "criteria": {
-      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
+      "requirement": "2024-09-30 11:08:40 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/pink_bath": {
+  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
     "criteria": {
-      "has_pink_dye": "2024-09-30 11:39:17 +0000"
+      "has_oak_leaves": "2024-09-30 11:17:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lapis_block": {
+  "regions_unexplored:recipes/misc/pine_sapling_from_pine_shrub": {
     "criteria": {
-      "has_lapis_lazuli": "2024-09-30 12:27:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_kitchen_storage_cabinet_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-09-30 11:39:17 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-09-30 12:31:38 +0000"
-    },
-    "done": true
-  },
-  "edenring:recipes/misc/balloon_mushroom_sporocarp_pink": {
-    "criteria": {
-      "has_pink_dye": "2024-09-30 11:39:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/white_dye_from_white_tulip": {
-    "criteria": {
-      "has_white_tulip": "2024-09-30 11:39:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
-    "criteria": {
-      "has_pink_dye": "2024-09-30 11:39:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_candle": {
-    "criteria": {
-      "has_pink_dye": "2024-09-30 11:39:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2024-09-30 12:03:19 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_pink_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-09-30 11:39:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
-    "criteria": {
-      "has_pink_dye": "2024-09-30 11:39:17 +0000"
+      "has_pine_shrub": "2024-09-30 11:37:38 +0000"
     },
     "done": true
   },
@@ -7063,51 +6961,75 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+  "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
-      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
+      "has_gray_wool": "2024-09-30 11:39:04 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
+  "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
-      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
+      "has_gray_wool": "2024-09-30 11:39:04 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_tulip": {
     "criteria": {
-      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
+      "has_pink_tulip": "2024-09-30 11:39:14 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
-      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
+      "has_pink_tulip": "2024-09-30 11:39:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_bath": {
+    "criteria": {
+      "has_pink_dye": "2024-09-30 11:39:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-09-30 11:39:17 +0000"
+    },
+    "done": true
+  },
+  "edenring:recipes/misc/balloon_mushroom_sporocarp_pink": {
+    "criteria": {
+      "has_pink_dye": "2024-09-30 11:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_pink_dye": "2024-09-30 11:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2024-09-30 11:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-09-30 11:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2024-09-30 11:39:17 +0000"
     },
     "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/pink_kitchen_cabinetry": {
     "criteria": {
       "has_pink_dye": "2024-09-30 11:39:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
     },
     "done": true
   },
@@ -7123,75 +7045,9 @@
     },
     "done": true
   },
-  "svm_jojo:skill_tree/killer_queen/root": {
-    "criteria": {
-      "requirement": "2024-09-30 12:35:23 +0000"
-    },
-    "done": true
-  },
-  "svm_jojo:storyline/get_killer_queen": {
-    "criteria": {
-      "requirement": "2024-09-30 12:35:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_bed": {
-    "criteria": {
-      "has_pink_wool": "2024-09-30 11:39:35 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2024-09-30 11:39:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_tulip": {
-    "criteria": {
-      "has_red_flower": "2024-09-30 11:39:24 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/pink_toilet": {
     "criteria": {
       "has_dye": "2024-09-30 11:39:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_tulip": {
-    "criteria": {
-      "has_pink_tulip": "2024-09-30 11:39:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_banner": {
-    "criteria": {
-      "has_pink_wool": "2024-09-30 11:39:35 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/pine_sapling_from_pine_shrub": {
-    "criteria": {
-      "has_pine_shrub": "2024-09-30 11:37:38 +0000"
     },
     "done": true
   },
@@ -7207,87 +7063,15 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
-    },
-    "done": true
-  },
   "edenring:recipes/misc/mycotic_lantern_pink": {
     "criteria": {
       "has_pink_dye": "2024-09-30 11:39:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2024-09-30 11:40:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2024-09-30 11:39:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2024-09-30 12:27:59 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/pink_toilet": {
     "criteria": {
       "has_pink_dye": "2024-09-30 11:39:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/limestone_pillar_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
-    },
-    "done": true
-  },
-  "svm_jojo:skill_tree/killer_queen/first_bomb": {
-    "criteria": {
-      "requirement": "2024-09-30 12:35:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
-    "criteria": {
-      "has_pink_tulip": "2024-09-30 11:39:14 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
-    "criteria": {
-      "has_oak_leaves": "2024-09-30 11:17:11 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
     },
     "done": true
   },
@@ -7309,27 +7093,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/candle_holders/candle_holder_pink_dye": {
     "criteria": {
       "forge:dyes/pink": "2024-09-30 11:39:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
     },
     "done": true
   },
@@ -7345,51 +7111,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
-    "criteria": {
-      "has_white_tulip": "2024-09-30 11:39:19 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/pink_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2024-09-30 11:39:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
-    },
-    "done": true
-  },
-  "svm_jojo:skill_tree/killer_queen/sheer_heart_attack": {
-    "criteria": {
-      "requirement": "2024-09-30 12:35:25 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2024-09-30 11:40:26 +0000"
     },
     "done": true
   },
@@ -7399,9 +7123,45 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_storage_cabinet": {
     "criteria": {
-      "has_baked_potato": "2024-09-30 12:31:38 +0000"
+      "has_pink_dye": "2024-09-30 11:39:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-09-30 11:39:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_drawer": {
+    "criteria": {
+      "has_pink_dye": "2024-09-30 11:39:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-09-30 11:39:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2024-09-30 11:39:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2024-09-30 11:39:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2024-09-30 11:39:24 +0000"
     },
     "done": true
   },
@@ -7411,27 +7171,123 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+  "minecraft:recipes/decorations/pink_bed": {
     "criteria": {
-      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
+      "has_pink_wool": "2024-09-30 11:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2024-09-30 11:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2024-09-30 11:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-09-30 11:40:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-09-30 11:40:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
     },
     "done": true
   },
   "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
-    "criteria": {
-      "has_baked_potato": "2024-09-30 12:31:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2024-09-30 11:56:21 +0000"
     },
     "done": true
   },
@@ -7447,33 +7303,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pink_carpet": {
-    "criteria": {
-      "has_pink_wool": "2024-09-30 11:39:35 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_pink_dye": "2024-09-30 11:39:17 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/lapis_bricks": {
-    "criteria": {
-      "has_lapis_lazuli": "2024-09-30 12:27:59 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_cooler_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-09-30 11:39:17 +0000"
     },
     "done": true
   },
@@ -7483,21 +7315,189 @@
     },
     "done": true
   },
-  "svm_jojo:storyline/stop_time_mastery": {
+  "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "requirement": "2024-09-30 11:08:40 +0000"
+      "avoid_vibration": "2024-09-30 11:56:21 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_drawer": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_pink_dye": "2024-09-30 11:39:17 +0000"
+      "diamond_leggings": "2024-09-30 12:03:19 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/pink_lamp_from_dyeing": {
+  "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
-      "has_dye": "2024-09-30 11:39:17 +0000"
+      "has_lapis_lazuli": "2024-09-30 12:27:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-09-30 12:27:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-09-30 12:27:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/limestone_pillar_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-09-30 12:31:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-09-30 12:31:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-09-30 12:31:38 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/killer_queen/root": {
+    "criteria": {
+      "requirement": "2024-09-30 12:35:23 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/get_killer_queen": {
+    "criteria": {
+      "requirement": "2024-09-30 12:35:23 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/killer_queen/first_bomb": {
+    "criteria": {
+      "requirement": "2024-09-30 12:35:25 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/killer_queen/sheer_heart_attack": {
+    "criteria": {
+      "requirement": "2024-09-30 12:35:25 +0000"
     },
     "done": true
   },
