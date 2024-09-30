@@ -2375,6 +2375,7 @@
       "minecraft:skeleton": "2024-09-25 08:21:59 +0000",
       "minecraft:spider": "2024-09-26 08:10:56 +0000",
       "minecraft:slime": "2024-09-26 07:11:09 +0000",
+      "minecraft:enderman": "2024-09-30 14:27:51 +0000",
       "minecraft:zombie": "2024-09-25 08:18:59 +0000"
     },
     "done": false
@@ -6657,6 +6658,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2024-09-30 14:32:51 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2024-09-30 11:56:35 +0000"
@@ -6666,6 +6673,12 @@
   "supplementaries:recipes/cog_block": {
     "criteria": {
       "has_copper_ingot": "2024-09-30 11:56:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2024-09-30 14:32:51 +0000"
     },
     "done": true
   },
@@ -6858,6 +6871,12 @@
   "create:recipes/decorations/copper_bars_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2024-09-30 11:56:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2024-09-30 14:32:51 +0000"
     },
     "done": true
   },
@@ -7062,6 +7081,12 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2024-09-30 13:03:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_shroomlight": "2024-09-30 14:32:51 +0000"
     },
     "done": true
   },
