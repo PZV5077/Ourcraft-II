@@ -2997,6 +2997,7 @@
       "cooked_mutton": "2024-09-27 13:52:24 +0000",
       "cooked_beef": "2024-09-25 09:20:00 +0000",
       "beef": "2024-09-26 04:37:44 +0000",
+      "baked_potato": "2024-09-30 12:31:41 +0000",
       "porkchop": "2024-09-30 09:52:33 +0000",
       "apple": "2024-09-25 10:52:13 +0000",
       "potato": "2024-09-26 04:38:42 +0000",
@@ -6972,6 +6973,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-09-30 12:31:38 +0000"
+    },
+    "done": true
+  },
   "edenring:recipes/misc/balloon_mushroom_sporocarp_pink": {
     "criteria": {
       "has_pink_dye": "2024-09-30 11:39:17 +0000"
@@ -7116,6 +7123,18 @@
     },
     "done": true
   },
+  "svm_jojo:skill_tree/killer_queen/root": {
+    "criteria": {
+      "requirement": "2024-09-30 12:35:23 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/get_killer_queen": {
+    "criteria": {
+      "requirement": "2024-09-30 12:35:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed": {
     "criteria": {
       "has_pink_wool": "2024-09-30 11:39:35 +0000"
@@ -7248,6 +7267,12 @@
     },
     "done": true
   },
+  "svm_jojo:skill_tree/killer_queen/first_bomb": {
+    "criteria": {
+      "requirement": "2024-09-30 12:35:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2024-09-30 11:39:14 +0000"
@@ -7350,6 +7375,12 @@
     },
     "done": true
   },
+  "svm_jojo:skill_tree/killer_queen/sheer_heart_attack": {
+    "criteria": {
+      "requirement": "2024-09-30 12:35:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-09-30 12:28:29 +0000"
@@ -7368,6 +7399,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-09-30 12:31:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_red_tulip": {
     "criteria": {
       "has_red_tulip": "2024-09-30 11:39:24 +0000"
@@ -7383,6 +7420,12 @@
   "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-09-30 11:54:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-09-30 12:31:38 +0000"
     },
     "done": true
   },

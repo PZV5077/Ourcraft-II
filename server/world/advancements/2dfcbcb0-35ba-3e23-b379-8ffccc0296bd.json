@@ -208,6 +208,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-09-30 12:33:34 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/lime_painted_planks": {
     "criteria": {
       "has_planks": "2024-09-30 11:58:21 +0000"
@@ -301,6 +307,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
     "criteria": {
       "has_planks": "2024-09-30 11:58:21 +0000"
+    },
+    "done": true
+  },
+  "beautify:rope": {
+    "criteria": {
+      "requirement": "2024-09-30 12:32:13 +0000"
     },
     "done": true
   },
@@ -427,6 +439,12 @@
   "refurbished_furniture:recipes/misc/constructing/pink_grill": {
     "criteria": {
       "has_iron_ingot": "2024-09-30 12:21:48 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/get_stand": {
+    "criteria": {
+      "requirement": "2024-09-30 12:33:06 +0000"
     },
     "done": true
   },
@@ -604,6 +622,12 @@
     },
     "done": true
   },
+  "svm_jojo:skill_tree/root": {
+    "criteria": {
+      "requirement": "2024-09-30 12:33:06 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
     "criteria": {
       "has_granite": "2024-09-30 12:06:50 +0000"
@@ -711,6 +735,7 @@
       "minecraft:skeleton": "2024-09-30 12:29:26 +0000",
       "minecraft:spider": "2024-09-30 12:30:20 +0000",
       "minecraft:creeper": "2024-09-30 12:30:24 +0000",
+      "minecraft:enderman": "2024-09-30 12:31:40 +0000",
       "minecraft:zombie": "2024-09-30 12:11:53 +0000"
     },
     "done": false
@@ -796,6 +821,12 @@
   "refurbished_furniture:recipes/baking/baked_potato": {
     "criteria": {
       "has_ingredient": "2024-09-30 11:56:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-09-30 12:32:13 +0000"
     },
     "done": true
   },
@@ -898,6 +929,12 @@
   "create:recipes/misc/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2024-09-30 12:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-09-30 12:32:13 +0000"
     },
     "done": true
   },
@@ -1273,6 +1310,12 @@
     },
     "done": true
   },
+  "svm_jojo:skill_tree/killer_queen/root": {
+    "criteria": {
+      "requirement": "2024-09-30 12:33:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-09-30 11:58:12 +0000"
@@ -1360,6 +1403,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence": {
     "criteria": {
       "has_stick": "2024-09-30 11:58:12 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/get_killer_queen": {
+    "criteria": {
+      "requirement": "2024-09-30 12:33:06 +0000"
     },
     "done": true
   },
@@ -1690,6 +1739,18 @@
   "meadow:recipes/camera": {
     "criteria": {
       "has_stick": "2024-09-30 11:58:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/pine_sapling_from_pine_shrub": {
+    "criteria": {
+      "has_pine_shrub": "2024-09-30 12:32:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2024-09-30 12:32:13 +0000"
     },
     "done": true
   },
@@ -2077,6 +2138,12 @@
     },
     "done": true
   },
+  "svm_jojo:skill_tree/killer_queen/first_bomb": {
+    "criteria": {
+      "requirement": "2024-09-30 12:33:07 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_brown": {
     "criteria": {
       "has_stick": "2024-09-30 11:58:12 +0000"
@@ -2128,6 +2195,12 @@
   "regions_unexplored:recipes/building_blocks/green_painted_planks": {
     "criteria": {
       "has_planks": "2024-09-30 11:58:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-09-30 12:32:13 +0000"
     },
     "done": true
   },
@@ -2290,6 +2363,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_white": {
     "criteria": {
       "has_iron_ingot": "2024-09-30 12:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-09-30 12:32:13 +0000"
     },
     "done": true
   },
@@ -2852,6 +2931,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-09-30 12:32:56 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "minecraft:planks": "2024-09-30 11:58:21 +0000"
@@ -2951,6 +3036,12 @@
   "refurbished_furniture:recipes/freezing/ice": {
     "criteria": {
       "has_ingredient": "2024-09-30 12:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-09-30 12:32:56 +0000"
     },
     "done": true
   },
@@ -3110,6 +3201,12 @@
     },
     "done": true
   },
+  "svm_jojo:storyline/root": {
+    "criteria": {
+      "requirement": "2024-09-30 12:33:06 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_stool": {
     "criteria": {
       "has_planks": "2024-09-30 11:58:21 +0000"
@@ -3200,6 +3297,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-09-30 12:33:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-09-30 12:07:02 +0000"
@@ -3245,6 +3348,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2024-09-30 12:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-09-30 12:32:13 +0000"
     },
     "done": true
   },
@@ -3455,6 +3564,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-09-30 12:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-09-30 12:32:13 +0000"
     },
     "done": true
   },
