@@ -1299,3 +1299,18 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [13:24:04] [Server thread/INFO]: Parzival5077 fell from a high place
 [13:28:12] [Server thread/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
 [13:28:12] [Server thread/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[13:32:59] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 12979.000000, 106.000000, -299.000000]
+[13:33:44] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 12572.000000, 101.000000, -304.000000]
+[13:34:00] [Server thread/INFO]: Locating element minecraft:bee_nest took 9 ms
+[13:34:05] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 12791.000000, 107.000000, -182.000000]
+[13:34:07] [Server thread/INFO]: Locating element minecraft:bee_nest took 3 ms
+[13:34:11] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 13013.500000, 107.000000, -222.500000]
+[13:34:42] [Server thread/INFO]: Locating element minecraft:bee_nest took 2 ms
+[13:34:46] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 13029.500000, 98.000000, -398.500000]
+[13:35:50] [Server thread/INFO]: Locating element #minecraft:bee_home (minecraft:bee_nest) took 3 ms
+[13:35:55] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 13039.500000, 111.000000, -468.500000]
+[13:36:49] [Server thread/INFO]: Locating element minecraft:bee_nest took 3 ms
+[13:36:52] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 13154.500000, 108.000000, -465.500000]
+[13:36:53] [Server thread/INFO]: Parzival5077 fell from a high place
+[13:37:45] [Server thread/INFO]: [Parzival5077: Gamerule randomTickSpeed is now set to: 10]
+[13:41:13] [Server thread/INFO]: [Parzival5077: Gave 12 [Cherry Sapling] to Parzival5077]
