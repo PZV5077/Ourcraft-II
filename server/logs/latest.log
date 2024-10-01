@@ -1401,3 +1401,6 @@ EdenBiomeSource (5afd3cee)
 [07:44:31] [Server thread/INFO]: hhhh_w has made the advancement [Greatest high!]
 [07:45:08] [Server thread/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
 [07:45:08] [Server thread/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[07:55:48] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 12546.000000, 92.000000, -321.000000]
+[08:01:59] [Server thread/INFO]: hhhh_w was slain by Enderman
+[08:05:30] [Server thread/INFO]: hhhh_w has made the advancement [Hot Stuff]
