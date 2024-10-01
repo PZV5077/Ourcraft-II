@@ -1312,3 +1312,10 @@ EdenBiomeSource (5afd3cee)
 [05:30:49] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
 [05:30:49] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
 [05:32:11] [Server thread/INFO]: Named entity class_3989['Sheer Heart Attack'/13138, l='ServerLevel[world]', x=11983.67, y=-70.00, z=-597.80] died: Sheer Heart Attack was killed
+[05:34:57] [Server thread/INFO]: Named entity class_3989['Sheer Heart Attack'/33477, l='ServerLevel[world]', x=11998.71, y=-70.00, z=-595.58] died: Sheer Heart Attack was killed
+[05:35:26] [Server thread/INFO]: Named entity class_3989['Sheer Heart Attack'/39155, l='ServerLevel[world]', x=12006.63, y=-70.00, z=-598.80] died: Sheer Heart Attack was killed
+[05:37:38] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
+[05:37:40] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[05:37:42] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 607)]
+[05:37:43] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 607)]
+[05:37:44] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 606)]
