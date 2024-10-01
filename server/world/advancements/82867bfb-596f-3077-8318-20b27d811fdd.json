@@ -88,10 +88,12 @@
     "criteria": {
       "minecraft:pillager": "2024-09-27 13:46:50 +0000",
       "minecraft:skeleton": "2024-09-25 10:12:53 +0000",
+      "minecraft:hoglin": "2024-10-01 14:17:59 +0000",
       "minecraft:spider": "2024-09-25 09:13:57 +0000",
       "minecraft:creeper": "2024-09-25 10:24:38 +0000",
       "minecraft:zombified_piglin": "2024-09-26 04:49:56 +0000",
       "minecraft:cave_spider": "2024-09-30 14:21:23 +0000",
+      "minecraft:piglin": "2024-10-01 14:18:01 +0000",
       "minecraft:enderman": "2024-09-25 10:31:36 +0000",
       "minecraft:zombie": "2024-09-25 10:26:45 +0000",
       "minecraft:drowned": "2024-09-25 10:19:35 +0000"
@@ -2857,7 +2859,8 @@
     "criteria": {
       "meadow:umbra_wool": "2024-09-25 09:19:25 +0000",
       "meadow:inky_wool": "2024-09-30 11:38:58 +0000",
-      "meadow:patched_wool": "2024-09-26 07:16:10 +0000"
+      "meadow:patched_wool": "2024-09-26 07:16:10 +0000",
+      "meadow:warped_wool": "2024-10-01 14:19:09 +0000"
     },
     "done": false
   },
@@ -3015,6 +3018,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2024-09-26 05:22:37 +0000",
+      "redstone_abyss": "2024-10-01 14:24:06 +0000",
       "pine_taiga": "2024-09-25 10:52:36 +0000",
       "autumnal_maple_forest": "2024-10-01 14:08:24 +0000",
       "muddy_river": "2024-10-01 14:07:40 +0000",
@@ -3031,6 +3035,7 @@
       "sparse_redwoods": "2024-09-26 07:50:10 +0000",
       "deciduous_forest": "2024-09-25 10:10:41 +0000",
       "chalk_cliffs": "2024-09-25 10:19:15 +0000",
+      "infernal_holt": "2024-10-01 14:17:21 +0000",
       "bamboo_forest": "2024-09-25 10:12:39 +0000",
       "temperate_grove": "2024-09-25 11:02:40 +0000",
       "pine_slopes": "2024-09-25 10:53:15 +0000",
@@ -7670,6 +7675,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:soul_sand_valley": "2024-10-01 14:19:39 +0000",
       "minecraft:warped_forest": "2024-09-30 15:19:04 +0000"
     },
     "done": false
@@ -7776,9 +7782,52 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-10-01 14:30:49 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2024-10-01 14:06:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-10-01 14:30:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-10-01 14:20:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "infernal_holt": "2024-10-01 14:17:21 +0000",
+      "redstone_abyss": "2024-10-01 14:24:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-10-01 14:30:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-10-01 14:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-10-01 14:21:50 +0000"
     },
     "done": true
   },
@@ -7788,15 +7837,129 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-10-01 14:20:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-10-01 14:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-10-01 14:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-10-01 14:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-10-01 14:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-10-01 14:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-10-01 14:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-10-01 14:30:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2024-10-01 14:06:06 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-10-01 14:30:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2024-10-01 14:21:58 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/warped_bed": {
+    "criteria": {
+      "has_warped_wool": "2024-10-01 14:19:09 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/warped_carpet": {
+    "criteria": {
+      "has_warped_wool": "2024-10-01 14:19:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-10-01 14:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-10-01 14:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-10-01 14:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-10-01 14:21:50 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/proximity_fuze": {
+    "criteria": {
+      "has_quartz": "2024-10-01 14:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-10-01 14:30:40 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/pink_magnolia_shrub": {
     "criteria": {
       "has_pink_magnolia_sapling": "2024-10-01 13:53:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-10-01 14:30:49 +0000"
     },
     "done": true
   },

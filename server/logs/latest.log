@@ -1407,3 +1407,32 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [14:06:21] [Worker-Main-65/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
 [14:09:49] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
 [14:09:53] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[14:13:32] [Server thread/INFO]: AwaKING was blown up by Creeper
+[14:13:41] [Server thread/INFO]: [Parzival5077: Gave 64 [Oak Stairs] to Parzival5077]
+[14:16:15] [Server thread/INFO]: [Parzival5077: Gave 64 [Oak Stairs] to Parzival5077]
+[14:18:15] [Server thread/INFO]: Parzival5077 was slain by Zombie
+[14:18:16] [Server thread/INFO]: AwaKING was doomed to fall by Piglin
+[14:21:25] [Server thread/INFO]: Mei4o[/127.0.0.1:55994] logged in with entity id 235261 at (11953.668997970533, 72.0, -597.3483660228128)
+[14:21:25] [Server thread/INFO]: Mei4o joined the game
+[14:21:27] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[14:21:27] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[14:21:27] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[14:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[14:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[14:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[14:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[14:21:27] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[14:23:59] [Server thread/INFO]: [Parzival5077: Gave 12 [Bookshelf] to Parzival5077]
+[14:24:50] [Server thread/INFO]: [Parzival5077: Gave 1 [Enchanting Table] to Parzival5077]
+[14:25:17] [Server thread/INFO]: AwaKING tried to swim in lava
+[14:25:19] [Server thread/INFO]: [Parzival5077: Gave 64 [Bookstack] to Parzival5077]
+[14:25:20] [Server thread/INFO]: Parzival5077 has made the advancement [No shelf organization]
+[14:26:01] [Server thread/INFO]: [Not Secure] <AwaKING> 我找到堡垒了
+[14:26:41] [Server thread/INFO]: [Parzival5077: Gave 3 [Bookshelf] to Parzival5077]
+[14:27:40] [Server thread/INFO]: [Parzival5077: Gave 3 [Bookshelf] to Parzival5077]
+[14:28:00] [Server thread/INFO]: [Parzival5077: Gave 3 [Bookshelf] to Parzival5077]
+[14:28:17] [Server thread/INFO]: [Parzival5077: Gave 1000 experience points to Parzival5077]
+[14:28:34] [Server thread/INFO]: [Parzival5077: Gave 3 [Bookshelf] to Parzival5077]
+[14:30:40] [Server thread/INFO]: AwaKING has made the advancement [Those Were the Days]
+[14:30:59] [Server thread/INFO]: AwaKING was slain by Piglin Brute
+[14:31:00] [Server thread/INFO]: Parzival5077 has made the advancement [Enchanter]
