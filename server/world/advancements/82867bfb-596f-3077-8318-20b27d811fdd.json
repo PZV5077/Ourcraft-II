@@ -7676,5 +7676,17 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-10-01 05:44:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-10-01 05:44:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
