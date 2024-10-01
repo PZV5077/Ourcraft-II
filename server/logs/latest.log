@@ -1341,3 +1341,19 @@ EdenBiomeSource (5afd3cee)
 [06:04:42] [Server thread/INFO]: AwaKING lost connection: Disconnected
 [06:04:42] [Server thread/INFO]: AwaKING left the game
 [06:07:30] [Server thread/INFO]: [Parzival5077: Set own game mode to Creative Mode]
+[06:38:30] [Server thread/INFO]: hhhh_w[/127.0.0.1:56256] logged in with entity id 212108 at (1553.4510109060777, 107.0, -33.69999998807907)
+[06:38:30] [Server thread/INFO]: hhhh_w joined the game
+[06:38:33] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[06:38:33] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[06:38:33] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[06:38:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[06:38:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[06:38:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[06:38:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[06:38:33] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[06:39:05] [Server thread/INFO]: [Not Secure] <hhhh_w> Parzival5077
+[06:39:09] [Server thread/INFO]: [Not Secure] <hhhh_w> kill
+[06:39:22] [Server thread/INFO]: [Not Secure] <Parzival5077> ？
+[06:39:27] [Server thread/INFO]: [Not Secure] <hhhh_w> kill me
+[06:39:28] [Server thread/INFO]: hhhh_w was killed
+[06:39:28] [Server thread/INFO]: [Parzival5077: Killed hhhh_w]
