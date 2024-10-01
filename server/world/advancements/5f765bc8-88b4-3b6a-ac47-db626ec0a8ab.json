@@ -7344,6 +7344,18 @@
     },
     "done": true
   },
+  "svm_jojo:storyline/kills/whitesnake/10": {
+    "criteria": {
+      "requirement": "2024-10-01 08:43:22 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/kills/whitesnake/25": {
+    "criteria": {
+      "requirement": "2024-10-01 08:45:01 +0000"
+    },
+    "done": true
+  },
   "svm_jojo:skill_tree/the_world/knife_flurry": {
     "criteria": {
       "requirement": "2024-10-01 08:38:20 +0000"
@@ -7365,6 +7377,12 @@
   "svm_jojo:skill_tree/the_world/root": {
     "criteria": {
       "requirement": "2024-10-01 08:38:18 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/kills/whitesnake/5": {
+    "criteria": {
+      "requirement": "2024-10-01 08:43:01 +0000"
     },
     "done": true
   },
