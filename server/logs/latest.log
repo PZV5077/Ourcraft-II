@@ -1512,3 +1512,34 @@ EdenBiomeSource (5afd3cee)
 [08:50:39] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu] (set value to 606)]
 [08:53:41] [Server thread/INFO]: hhhh_w lost connection: Disconnected
 [08:53:41] [Server thread/INFO]: hhhh_w left the game
+[12:07:53] [Server thread/INFO]: Parzival5077[/127.0.0.1:54852] logged in with entity id 474069 at (12579.185567084627, 104.0, -293.94843009536584)
+[12:07:53] [Server thread/INFO]: Parzival5077 joined the game
+[12:07:57] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[12:07:57] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[12:07:57] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[12:07:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[12:07:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[12:07:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[12:07:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[12:07:57] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[12:08:16] [pool-2-thread-85/INFO]: [EasyAuth]: Saving database
+[12:08:16] [Server thread/INFO]: [Parzival5077: Saved the game]
+[12:08:19] [Server thread/INFO]: [Parzival5077: Stopping the server]
+[12:08:19] [Server thread/INFO]: Stopping server
+[12:08:19] [Server thread/INFO]: Saving players
+[12:08:19] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
+[12:08:19] [Server thread/INFO]: Parzival5077 left the game
+[12:08:19] [Server thread/INFO]: Saving worlds
+[12:08:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:08:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:08:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/edenring:edenring
+[12:08:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:08:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:08:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:08:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (edenring): All chunks are saved
+[12:08:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:08:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:08:37] [Server thread/INFO]: [EasyAuth]: Shutting down EasyAuth.
+[12:08:37] [Server thread/INFO]: [EasyAuth]: Database connection closed successfully
+[12:08:37] [Server thread/INFO]: Unloading server configs...
+[12:08:37] [Server thread/INFO]: Sending config unload event for refurbished_furniture.server.toml

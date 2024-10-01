@@ -12,9 +12,7 @@
         }
     },
 
-
-    "postCreateCommand": "bash '/workspaces/Ourcraft/fixperms.sh'",
-
-    "postStartCommand": "bash '/workspaces/Ourcraft/autostart.sh'"
+    "postCreateCommand": "bash '/workspaces/Ourcraft-II/fixperms.sh'",
+    "postStartCommand": "bash '/workspaces/Ourcraft-II/autostart.sh'"
     
 }
