@@ -7820,6 +7820,24 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/misc/smoke_shell": {
+    "criteria": {
+      "has_hay_block": "2024-10-01 07:17:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2024-10-01 07:17:30 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/frame": {
+    "criteria": {
+      "has_campfire": "2024-10-01 07:16:54 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_gray_dye": {
     "criteria": {
       "has_candle_holder": "2024-10-01 07:14:16 +0000"
@@ -7880,9 +7898,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/stove": {
+    "criteria": {
+      "has_campfire": "2024-10-01 07:16:54 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_purple_dye": {
     "criteria": {
       "has_candle_holder": "2024-10-01 07:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-10-01 07:17:30 +0000"
     },
     "done": true
   },
