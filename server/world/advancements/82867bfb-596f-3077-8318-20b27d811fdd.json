@@ -19,6 +19,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2024-10-01 14:06:06 +0000",
       "minecraft:birch_forest": "2024-09-25 09:13:12 +0000",
       "minecraft:bamboo_jungle": "2024-09-26 07:50:26 +0000",
       "minecraft:savanna_plateau": "2024-09-25 09:24:08 +0000",
@@ -3015,12 +3016,16 @@
     "criteria": {
       "shrubland": "2024-09-26 05:22:37 +0000",
       "pine_taiga": "2024-09-25 10:52:36 +0000",
+      "autumnal_maple_forest": "2024-10-01 14:08:24 +0000",
+      "muddy_river": "2024-10-01 14:07:40 +0000",
       "ancient_delta": "2024-09-26 05:00:18 +0000",
+      "frozen_tundra": "2024-10-01 14:08:26 +0000",
       "grassy_beach": "2024-09-25 11:15:28 +0000",
       "scorching_caves": "2024-09-26 07:09:35 +0000",
       "rocky_meadow": "2024-09-25 10:16:14 +0000",
       "blackwood_taiga": "2024-09-25 10:56:09 +0000",
       "highland_fields": "2024-09-25 13:53:00 +0000",
+      "maple_forest": "2024-10-01 14:06:52 +0000",
       "magnolia_highlands": "2024-09-25 10:16:18 +0000",
       "mountains": "2024-09-25 10:53:41 +0000",
       "sparse_redwoods": "2024-09-26 07:50:10 +0000",
@@ -3040,10 +3045,14 @@
     "criteria": {
       "shrubland": "2024-09-26 05:22:37 +0000",
       "pine_taiga": "2024-09-25 10:52:36 +0000",
+      "autumnal_maple_forest": "2024-10-01 14:08:24 +0000",
+      "muddy_river": "2024-10-01 14:07:40 +0000",
+      "frozen_tundra": "2024-10-01 14:08:26 +0000",
       "grassy_beach": "2024-09-25 11:15:28 +0000",
       "rocky_meadow": "2024-09-25 10:16:14 +0000",
       "blackwood_taiga": "2024-09-25 10:56:09 +0000",
       "highland_fields": "2024-09-25 13:53:00 +0000",
+      "maple_forest": "2024-10-01 14:06:52 +0000",
       "magnolia_highlands": "2024-09-25 10:16:18 +0000",
       "mountains": "2024-09-25 10:53:41 +0000",
       "sparse_redwoods": "2024-09-26 07:50:10 +0000",
@@ -7764,6 +7773,24 @@
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2024-10-01 05:55:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-10-01 14:06:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/cherry_shrub": {
+    "criteria": {
+      "has_cherry_sapling": "2024-10-01 14:06:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-10-01 14:06:06 +0000"
     },
     "done": true
   },
