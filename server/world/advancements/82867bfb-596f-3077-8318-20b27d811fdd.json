@@ -7788,6 +7788,18 @@
     },
     "done": true
   },
+  "edenring:recipes/building_blocks/brain_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2024-10-01 14:38:08 +0000"
+    },
+    "done": true
+  },
+  "edenring:recipes/building_blocks/auritis_bookshelf": {
+    "criteria": {
+      "has_book": "2024-10-01 14:38:08 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2024-10-01 14:06:06 +0000"
@@ -7819,6 +7831,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-10-01 14:38:08 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/blackstone_tile": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-10-01 14:30:49 +0000"
@@ -7828,6 +7846,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2024-10-01 14:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-10-01 14:38:08 +0000"
     },
     "done": true
   },
@@ -7846,6 +7870,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2024-10-01 14:16:10 +0000"
+    },
+    "done": true
+  },
+  "edenring:recipes/building_blocks/balloon_mushroom_bookshelf": {
+    "criteria": {
+      "has_book": "2024-10-01 14:38:08 +0000"
     },
     "done": true
   },
@@ -7870,6 +7900,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2024-10-01 14:16:10 +0000"
+    },
+    "done": true
+  },
+  "edenring:recipes/misc/eden_book": {
+    "criteria": {
+      "has_book": "2024-10-01 14:38:08 +0000"
     },
     "done": true
   },
@@ -7903,9 +7939,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-10-01 14:38:08 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/warped_bed": {
     "criteria": {
       "has_warped_wool": "2024-10-01 14:19:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-10-01 14:37:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-10-01 14:38:08 +0000"
+    },
+    "done": true
+  },
+  "edenring:recipes/building_blocks/pulse_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2024-10-01 14:38:08 +0000"
+    },
+    "done": true
+  },
+  "beautify:bookstack": {
+    "criteria": {
+      "requirement": "2024-10-01 14:38:08 +0000"
     },
     "done": true
   },

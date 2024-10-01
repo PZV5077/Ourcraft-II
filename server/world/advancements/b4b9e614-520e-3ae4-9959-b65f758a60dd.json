@@ -8009,111 +8009,9 @@
     },
     "done": true
   },
-  "edenring:recipes/building_blocks/brain_tree_bookshelf": {
-    "criteria": {
-      "has_book": "2024-10-01 14:28:52 +0000"
-    },
-    "done": true
-  },
-  "edenring:recipes/building_blocks/auritis_bookshelf": {
-    "criteria": {
-      "has_book": "2024-10-01 14:28:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_petals": {
-    "criteria": {
-      "has_pink_petals": "2024-10-01 14:02:43 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/smelting/glass_from_framed_glass": {
     "criteria": {
       "has_item": "2024-10-01 13:18:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2024-10-01 14:28:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2024-10-01 13:44:41 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/cherry_branch_from_cherry_log": {
-    "criteria": {
-      "has_log": "2024-10-01 13:44:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2024-10-01 14:28:52 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/cherry_shrub": {
-    "criteria": {
-      "has_cherry_sapling": "2024-10-01 13:41:13 +0000"
-    },
-    "done": true
-  },
-  "edenring:recipes/building_blocks/balloon_mushroom_bookshelf": {
-    "criteria": {
-      "has_book": "2024-10-01 14:28:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/safely_harvest_honey": {
-    "criteria": {
-      "safely_harvest_honey": "2024-10-01 13:22:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2024-10-01 14:04:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
-    "criteria": {
-      "has_blue_orchid": "2024-10-01 14:02:23 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2024-10-01 14:02:27 +0000"
-    },
-    "done": true
-  },
-  "edenring:recipes/misc/eden_book": {
-    "criteria": {
-      "has_book": "2024-10-01 14:28:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:bee": "2024-10-01 14:04:20 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/farmersdelight/honey_cookie": {
-    "criteria": {
-      "has_honey_bottle": "2024-10-01 13:22:07 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candy": {
-    "criteria": {
-      "has_honey_bottle": "2024-10-01 13:22:07 +0000"
     },
     "done": true
   },
@@ -8129,45 +8027,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+  "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
     "criteria": {
-      "has_pink_petals": "2024-10-01 14:02:43 +0000"
+      "has_item": "2024-10-01 13:18:31 +0000"
     },
     "done": true
   },
-  "beautify:progression/bookstack": {
+  "minecraft:husbandry/safely_harvest_honey": {
     "criteria": {
-      "obtain": "2024-10-01 14:25:20 +0000"
+      "safely_harvest_honey": "2024-10-01 13:22:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
+  "farmersdelight:recipes/farmersdelight/honey_cookie": {
     "criteria": {
-      "has_book": "2024-10-01 14:28:52 +0000"
+      "has_honey_bottle": "2024-10-01 13:22:07 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
+  "supplementaries:recipes/candy": {
     "criteria": {
-      "has_oak_leaves": "2024-10-01 13:27:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/beehive": {
-    "criteria": {
-      "has_honeycomb": "2024-10-01 13:50:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2024-10-01 14:31:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2024-10-01 14:28:52 +0000"
+      "has_honey_bottle": "2024-10-01 13:22:07 +0000"
     },
     "done": true
   },
@@ -8183,9 +8063,159 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
+    "criteria": {
+      "has_oak_leaves": "2024-10-01 13:27:26 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/highland_carpet": {
+    "criteria": {
+      "has_highland_wool": "2024-10-01 13:31:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/cherry_shrub": {
+    "criteria": {
+      "has_cherry_sapling": "2024-10-01 13:41:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-10-01 13:44:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/cherry_branch_from_cherry_log": {
+    "criteria": {
+      "has_log": "2024-10-01 13:44:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2024-10-01 13:44:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_hedge": {
+    "criteria": {
+      "has_cherry_leaves": "2024-10-01 13:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-10-01 13:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-10-01 13:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2024-10-01 14:02:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2024-10-01 14:02:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-10-01 14:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-10-01 14:02:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-10-01 14:02:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-10-01 14:02:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-10-01 14:04:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:bee": "2024-10-01 14:04:20 +0000"
+    },
+    "done": false
+  },
+  "beautify:progression/bookstack": {
+    "criteria": {
+      "obtain": "2024-10-01 14:25:20 +0000"
+    },
+    "done": true
+  },
+  "edenring:recipes/building_blocks/brain_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2024-10-01 14:28:52 +0000"
+    },
+    "done": true
+  },
+  "edenring:recipes/building_blocks/auritis_bookshelf": {
+    "criteria": {
+      "has_book": "2024-10-01 14:28:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-10-01 14:28:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-10-01 14:28:52 +0000"
+    },
+    "done": true
+  },
+  "edenring:recipes/building_blocks/balloon_mushroom_bookshelf": {
+    "criteria": {
+      "has_book": "2024-10-01 14:28:52 +0000"
+    },
+    "done": true
+  },
+  "edenring:recipes/misc/eden_book": {
+    "criteria": {
+      "has_book": "2024-10-01 14:28:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-10-01 14:28:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-10-01 14:28:52 +0000"
     },
     "done": true
   },
@@ -8201,39 +8231,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/cherry_hedge": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "has_cherry_leaves": "2024-10-01 13:48:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2024-10-01 14:02:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/light_blue_dye_from_blue_orchid": {
-    "criteria": {
-      "has_blue_orchid": "2024-10-01 14:02:23 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
-    "criteria": {
-      "has_item": "2024-10-01 13:18:31 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/highland_carpet": {
-    "criteria": {
-      "has_highland_wool": "2024-10-01 13:31:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/honeycomb_block": {
-    "criteria": {
-      "has_honeycomb": "2024-10-01 13:50:08 +0000"
+      "enchanted_item": "2024-10-01 14:31:00 +0000"
     },
     "done": true
   },

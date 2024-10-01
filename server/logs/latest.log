@@ -1494,3 +1494,33 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [14:37:13] [Server thread/INFO]: [Not Secure] <AwaKING> 有青金石吗
 [14:37:18] [Server thread/INFO]: [Not Secure] <AwaKING> 借我点
 [14:37:27] [Server thread/INFO]: AwaKING has made the advancement [Enchanter]
+[14:37:57] [Server thread/INFO]: [Not Secure] <AwaKING> 你这个附魔不行啊
+[14:38:10] [Server thread/INFO]: [Not Secure] <Parzival5077> Missing one level
+[14:39:28] [Server thread/WARN]: Parzival5077 was kicked for floating too long!
+[14:39:28] [Server thread/INFO]: Parzival5077 lost connection: Flying is not enabled on this server
+[14:39:28] [Server thread/INFO]: Parzival5077 left the game
+[14:39:40] [Server thread/INFO]: Parzival5077[/127.0.0.1:59086] logged in with entity id 352728 at (12561.266223354445, 102.16610926093821, -285.5835010546425)
+[14:39:40] [Server thread/INFO]: Parzival5077 joined the game
+[14:39:41] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[14:39:41] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[14:39:41] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[14:39:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[14:39:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[14:39:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[14:39:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[14:39:41] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[14:39:43] [Server thread/INFO]: [Not Secure] <AwaKING> ?
+[14:39:52] [Server thread/INFO]: [Not Secure] <Parzival5077> ?
+[14:40:09] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[14:40:28] [Server thread/INFO]: [Not Secure] <AwaKING> 伤害高吗
+[14:40:38] [Server thread/INFO]: [Not Secure] <Parzival5077> extreamly high
+[14:40:54] [Server thread/INFO]: [Not Secure] <AwaKING> 具体多少
+[14:40:54] [Server thread/INFO]: [Not Secure] <Parzival5077> close to zero
+[14:41:19] [Server thread/INFO]: [Not Secure] <AwaKING> LET ME TRY AGAIN
+[14:41:28] [Server thread/INFO]: [Not Secure] <Parzival5077> well
+[14:41:33] [Server thread/INFO]: [Not Secure] <AwaKING> how
+[14:41:35] [Server thread/INFO]: [Not Secure] <Parzival5077> 9 hearts
+[14:41:40] [Server thread/INFO]: [Not Secure] <AwaKING> OK FINE
+[14:41:47] [Server thread/INFO]: [Not Secure] <Parzival5077> where are I
+[14:41:58] [Server thread/INFO]: [Not Secure] <AwaKING> 被我打到地里了
