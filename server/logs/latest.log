@@ -1525,3 +1525,10 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [14:41:47] [Server thread/INFO]: [Not Secure] <Parzival5077> where are I
 [14:41:58] [Server thread/INFO]: [Not Secure] <AwaKING> 被我打到地里了
 [14:43:57] [Server thread/INFO]: [Parzival5077: Gave 12 [Bookshelf] to Parzival5077]
+[14:48:01] [Server thread/INFO]: AwaKING lost connection: Disconnected
+[14:48:01] [Server thread/INFO]: AwaKING left the game
+[14:49:24] [Server thread/INFO]: Mei4o fell from a high place
+[14:50:36] [Server thread/INFO]: [Parzival5077: Gave 1 [Stone Statue] to Parzival5077]
+[14:52:25] [Server thread/INFO]: [Parzival5077: Set own game mode to Creative Mode]
+[14:52:43] [Server thread/INFO]: [Mei4o: Triggered [svm.jj.menu]]
+[14:52:46] [Server thread/INFO]: [Mei4o: Triggered [svm.jj.menu] (set value to 357)]
