@@ -1454,3 +1454,43 @@ EdenBiomeSource (5afd3cee)
 [08:32:32] [Server thread/INFO]: [Not Secure] <hhhh_w> 9秒
 [08:32:39] [Server thread/INFO]: [Not Secure] <hhhh_w> 确实
 [08:32:57] [Server thread/INFO]: [Not Secure] <Mei4o> 很好奇几波要啥时候上线
+[08:33:13] [Server thread/INFO]: [Not Secure] <hhhh_w> bzd
+[08:35:10] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu]]
+[08:35:17] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu] (set value to 347)]
+[08:35:18] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu] (set value to 347)]
+[08:35:26] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu] (set value to 337)]
+[08:35:38] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu] (set value to 357)]
+[08:36:04] [Server thread/INFO]: hhhh_w has made the advancement [Gunpowder, gelatine!]
+[08:36:09] [Server thread/INFO]: [Not Secure] <hhhh_w> ???
+[08:36:25] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu]]
+[08:36:32] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu] (set value to 357)]
+[08:36:38] [Server thread/INFO]: hhhh_w lost connection: Disconnected
+[08:36:38] [Server thread/INFO]: hhhh_w left the game
+[08:36:39] [Server thread/INFO]: hhhh_w[/127.0.0.1:35768] logged in with entity id 408800 at (13997.9983955166, 70.0, -264.8614888019858)
+[08:36:39] [Server thread/INFO]: hhhh_w joined the game
+[08:36:41] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[08:36:41] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[08:36:41] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[08:36:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[08:36:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[08:36:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[08:36:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[08:36:41] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[08:37:37] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu]]
+[08:37:39] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu] (set value to 357)]
+[08:37:53] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu]]
+[08:37:55] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu] (set value to 357)]
+[08:37:56] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu] (set value to 347)]
+[08:38:18] [Server thread/INFO]: hhhh_w has made the advancement [ZA WARUDO!]
+[08:38:23] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu]]
+[08:38:25] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu] (set value to 357)]
+[08:38:52] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu]]
+[08:39:05] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu] (set value to 337)]
+[08:39:08] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu] (set value to 357)]
+[08:39:33] [Server thread/INFO]: hhhh_w has made the advancement [Once a life is lost, you cannot bring it back]
+[08:39:47] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu]]
+[08:39:50] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu] (set value to 347)]
+[08:39:52] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu] (set value to 357)]
+[08:40:11] [Server thread/INFO]: Mei4o lost connection: Disconnected
+[08:40:11] [Server thread/INFO]: Mei4o left the game
+[08:41:17] [Server thread/INFO]: hhhh_w was slain by Warden
