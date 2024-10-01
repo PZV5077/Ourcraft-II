@@ -7671,57 +7671,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/spruce_shrub": {
-    "criteria": {
-      "has_spruce_sapling": "2024-10-01 05:53:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit": {
-    "criteria": {
-      "has_rabbit": "2024-10-01 05:55:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
-    "criteria": {
-      "has_rabbit": "2024-10-01 05:55:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2024-10-01 05:52:45 +0000"
-    },
-    "done": true
-  },
   "svm_jojo:storyline/kills/killer_queen/25": {
     "criteria": {
       "requirement": "2024-10-01 05:33:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2024-10-01 05:45:58 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2024-10-01 05:52:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2024-10-01 05:47:26 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/baking/sea_salt": {
-    "criteria": {
-      "has_ingredient": "2024-10-01 05:47:26 +0000"
     },
     "done": true
   },
@@ -7737,15 +7689,21 @@
     },
     "done": true
   },
-  "beautify:progression/hanging_pot": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "obtain": "2024-10-01 05:52:44 +0000"
+      "lava_bucket": "2024-10-01 05:45:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_rabbit": "2024-10-01 05:55:47 +0000"
+      "has_water_bucket": "2024-10-01 05:47:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2024-10-01 05:47:26 +0000"
     },
     "done": true
   },
@@ -7761,9 +7719,51 @@
     },
     "done": true
   },
+  "beautify:progression/hanging_pot": {
+    "criteria": {
+      "obtain": "2024-10-01 05:52:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-10-01 05:52:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-10-01 05:52:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_shrub": {
+    "criteria": {
+      "has_spruce_sapling": "2024-10-01 05:53:09 +0000"
+    },
+    "done": true
+  },
   "beautify:botanist_workbench": {
     "criteria": {
       "requirement": "2024-10-01 05:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-10-01 05:55:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-10-01 05:55:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-10-01 05:55:47 +0000"
     },
     "done": true
   },

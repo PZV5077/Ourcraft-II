@@ -1314,3 +1314,25 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [13:36:53] [Server thread/INFO]: Parzival5077 fell from a high place
 [13:37:45] [Server thread/INFO]: [Parzival5077: Gamerule randomTickSpeed is now set to: 10]
 [13:41:13] [Server thread/INFO]: [Parzival5077: Gave 12 [Cherry Sapling] to Parzival5077]
+[13:41:48] [Server thread/INFO]: [Parzival5077: Gave 12 [Cherry Sapling] to Parzival5077]
+[13:43:47] [Server thread/INFO]: [Parzival5077: Gave 64 [Bone Meal] to Parzival5077]
+[13:44:04] [Server thread/INFO]: [Parzival5077: Gave 64 [Bone Meal] to Parzival5077]
+[13:44:22] [Server thread/INFO]: [Parzival5077: Gave 64 [Bone Meal] to Parzival5077]
+[13:45:40] [Server thread/INFO]: [Parzival5077: Gave 64 [Bone Meal] to Parzival5077]
+[13:46:37] [Server thread/INFO]: AwaKING[/127.0.0.1:40716] logged in with entity id 30014 at (11964.113669326096, 72.0, -591.5919046522051)
+[13:46:37] [Server thread/INFO]: AwaKING joined the game
+[13:46:40] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[13:46:40] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[13:46:40] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[13:46:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[13:46:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[13:46:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[13:46:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[13:46:40] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[13:46:55] [Server thread/INFO]: [Parzival5077: Gave 64 [Bone Meal] to Parzival5077]
+[13:47:22] [Server thread/INFO]: [Parzival5077: Gave 64 [Bone Meal] to Parzival5077]
+[13:48:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=12557, y=100, z=-305} class_2338{x=12558, y=100, z=-306}
+[13:49:47] [Server thread/INFO]: [Parzival5077: Gave 1 [Bee Nest] to Parzival5077]
+[13:50:08] [Server thread/INFO]: [Parzival5077: Gave 1 [Honeycomb] to Parzival5077]
+[13:50:38] [Server thread/INFO]: [Parzival5077: Gave 64 [Beehive] to Parzival5077]
+[13:50:48] [Server thread/INFO]: [Parzival5077: Gave 64 [Campfire] to Parzival5077]

@@ -8015,6 +8015,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-10-01 13:44:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/cherry_branch_from_cherry_log": {
+    "criteria": {
+      "has_log": "2024-10-01 13:44:41 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/cherry_shrub": {
     "criteria": {
       "has_cherry_sapling": "2024-10-01 13:41:13 +0000"
@@ -8057,6 +8069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-10-01 13:50:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
       "has_honey_bottle": "2024-10-01 13:22:07 +0000"
@@ -8069,6 +8087,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-10-01 13:44:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_hedge": {
+    "criteria": {
+      "has_cherry_leaves": "2024-10-01 13:48:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
     "criteria": {
       "has_item": "2024-10-01 13:18:31 +0000"
@@ -8078,6 +8108,12 @@
   "meadow:recipes/highland_carpet": {
     "criteria": {
       "has_highland_wool": "2024-10-01 13:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-10-01 13:50:08 +0000"
     },
     "done": true
   },
