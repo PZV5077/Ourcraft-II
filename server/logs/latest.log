@@ -1532,3 +1532,7 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [14:52:25] [Server thread/INFO]: [Parzival5077: Set own game mode to Creative Mode]
 [14:52:43] [Server thread/INFO]: [Mei4o: Triggered [svm.jj.menu]]
 [14:52:46] [Server thread/INFO]: [Mei4o: Triggered [svm.jj.menu] (set value to 357)]
+[14:53:19] [Server thread/INFO]: [Mei4o: Triggered [svm.jj.menu]]
+[14:54:32] [Server thread/INFO]: Mei4o was slain by Enderman
+[14:55:16] [Server thread/INFO]: Mei4o lost connection: Disconnected
+[14:55:16] [Server thread/INFO]: Mei4o left the game
