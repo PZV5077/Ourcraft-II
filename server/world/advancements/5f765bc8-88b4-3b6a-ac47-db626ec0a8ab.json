@@ -7350,9 +7350,21 @@
     },
     "done": true
   },
+  "svm_jojo:storyline/kills/whitesnake/50": {
+    "criteria": {
+      "requirement": "2024-10-01 08:49:20 +0000"
+    },
+    "done": true
+  },
   "svm_jojo:storyline/kills/whitesnake/25": {
     "criteria": {
       "requirement": "2024-10-01 08:45:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2024-10-01 08:46:16 +0000"
     },
     "done": true
   },
@@ -7368,9 +7380,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-10-01 08:46:16 +0000"
+    },
+    "done": true
+  },
   "svm_jojo:storyline/get_whitesnake": {
     "criteria": {
       "requirement": "2024-10-01 08:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-10-01 08:46:16 +0000"
     },
     "done": true
   },
