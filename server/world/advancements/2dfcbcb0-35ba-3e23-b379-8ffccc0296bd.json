@@ -3749,6 +3749,42 @@
     },
     "done": true
   },
+  "svm_jojo:storyline/kills/killer_queen/5": {
+    "criteria": {
+      "requirement": "2024-09-30 14:20:37 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/killer_queen/sheer_heart_attack": {
+    "criteria": {
+      "requirement": "2024-09-30 14:20:38 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/star_platinum/root": {
+    "criteria": {
+      "requirement": "2024-09-30 14:40:46 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/get_star_platinum": {
+    "criteria": {
+      "requirement": "2024-09-30 14:40:46 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/star_platinum/star_finger": {
+    "criteria": {
+      "requirement": "2024-09-30 14:40:47 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/star_platinum/grab": {
+    "criteria": {
+      "requirement": "2024-09-30 14:40:47 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/misc/wrought_iron_cannon_end": {
     "criteria": {
       "has_gunpowder": "2024-09-30 14:44:17 +0000"
@@ -3767,12 +3803,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2024-09-30 14:56:49 +0000"
-    },
-    "done": true
-  },
   "createbigcannons:recipes/misc/wrought_iron_cannon_chamber": {
     "criteria": {
       "has_gunpowder": "2024-09-30 14:44:17 +0000"
@@ -3782,18 +3812,6 @@
   "createbigcannons:recipes/misc/powder_charge": {
     "criteria": {
       "has_gunpowder": "2024-09-30 14:44:17 +0000"
-    },
-    "done": true
-  },
-  "svm_jojo:storyline/kills/killer_queen/5": {
-    "criteria": {
-      "requirement": "2024-09-30 14:20:37 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
-    "criteria": {
-      "has_any_ingredient": "2024-09-30 14:56:49 +0000"
     },
     "done": true
   },
@@ -3809,24 +3827,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
-    "criteria": {
-      "has_log": "2024-09-30 15:02:01 +0000"
-    },
-    "done": true
-  },
-  "svm_jojo:skill_tree/star_platinum/root": {
-    "criteria": {
-      "requirement": "2024-09-30 14:40:46 +0000"
-    },
-    "done": true
-  },
-  "svm_jojo:skill_tree/star_platinum/star_finger": {
-    "criteria": {
-      "requirement": "2024-09-30 14:40:47 +0000"
-    },
-    "done": true
-  },
   "createbigcannons:recipes/misc/machine_gun_round": {
     "criteria": {
       "has_gunpowder": "2024-09-30 14:44:17 +0000"
@@ -3836,18 +3836,6 @@
   "createbigcannons:recipes/misc/gunpowder_pinch": {
     "criteria": {
       "has_gunpowder": "2024-09-30 14:44:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2024-09-30 15:02:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2024-09-30 14:56:49 +0000"
     },
     "done": true
   },
@@ -3863,12 +3851,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2024-09-30 15:02:01 +0000"
-    },
-    "done": true
-  },
   "createbigcannons:recipes/misc/log_cannon_chamber": {
     "criteria": {
       "has_gunpowder": "2024-09-30 14:44:17 +0000"
@@ -3878,36 +3860,6 @@
   "createbigcannons:recipes/misc/cannon_mount": {
     "criteria": {
       "has_gunpowder": "2024-09-30 14:44:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2024-09-30 14:56:49 +0000"
-    },
-    "done": true
-  },
-  "svm_jojo:skill_tree/star_platinum/grab": {
-    "criteria": {
-      "requirement": "2024-09-30 14:40:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
-    "criteria": {
-      "has_any_ingredient": "2024-09-30 14:56:49 +0000"
-    },
-    "done": true
-  },
-  "svm_jojo:skill_tree/killer_queen/sheer_heart_attack": {
-    "criteria": {
-      "requirement": "2024-09-30 14:20:38 +0000"
-    },
-    "done": true
-  },
-  "svm_jojo:storyline/get_star_platinum": {
-    "criteria": {
-      "requirement": "2024-09-30 14:40:46 +0000"
     },
     "done": true
   },
@@ -3926,6 +3878,54 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-09-30 14:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-09-30 14:56:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-09-30 14:56:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-09-30 14:56:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-09-30 14:56:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-09-30 14:56:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2024-09-30 15:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-09-30 15:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-09-30 15:02:01 +0000"
     },
     "done": true
   },
