@@ -1294,3 +1294,8 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [12:58:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
 [12:58:01] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
 [13:11:40] [Server thread/INFO]: [Parzival5077: Gave 2 [Water Bucket] to Parzival5077]
+[13:21:24] [Server thread/INFO]: [Parzival5077: Gave 12 [Oak Log] to Parzival5077]
+[13:22:07] [Server thread/INFO]: Parzival5077 has made the advancement [Bee Our Guest]
+[13:24:04] [Server thread/INFO]: Parzival5077 fell from a high place
+[13:28:12] [Server thread/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[13:28:12] [Server thread/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}

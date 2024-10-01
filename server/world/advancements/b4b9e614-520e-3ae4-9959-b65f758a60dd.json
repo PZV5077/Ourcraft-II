@@ -4024,7 +4024,10 @@
   },
   "meadow:main/wool_collector": {
     "criteria": {
-      "meadow:patched_wool": "2024-09-25 10:23:20 +0000"
+      "meadow:umbra_wool": "2024-10-01 13:25:41 +0000",
+      "meadow:inky_wool": "2024-10-01 13:25:45 +0000",
+      "meadow:patched_wool": "2024-09-25 10:23:20 +0000",
+      "meadow:highland_wool": "2024-10-01 13:31:16 +0000"
     },
     "done": false
   },
@@ -8003,6 +8006,72 @@
   "refurbished_furniture:recipes/misc/constructing/dark_microwave": {
     "criteria": {
       "has_light_microwave": "2024-10-01 12:47:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/glass_from_framed_glass": {
+    "criteria": {
+      "has_item": "2024-10-01 13:18:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/safely_harvest_honey": {
+    "criteria": {
+      "safely_harvest_honey": "2024-10-01 13:22:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2024-10-01 13:22:07 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_honey_bottle": "2024-10-01 13:22:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_door": {
+    "criteria": {
+      "has_item": "2024-10-01 13:18:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2024-10-01 13:18:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
+    "criteria": {
+      "has_oak_leaves": "2024-10-01 13:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-10-01 13:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-10-01 13:22:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
+    "criteria": {
+      "has_item": "2024-10-01 13:18:31 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/highland_carpet": {
+    "criteria": {
+      "has_highland_wool": "2024-10-01 13:31:16 +0000"
     },
     "done": true
   },
