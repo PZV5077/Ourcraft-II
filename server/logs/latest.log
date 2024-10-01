@@ -1301,3 +1301,14 @@ EdenBiomeSource (5afd3cee)
 [05:25:39] [Worker-Main-1/INFO]: Preparing spawn area: 98%
 [05:25:40] [Server thread/INFO]: Time elapsed: 10269 ms
 [05:25:40] [Server thread/INFO]: Done (14.182s)! For help, type "help"
+[05:30:48] [Server thread/INFO]: AwaKING[/127.0.0.1:56418] logged in with entity id 160 at (1543.2388018325814, 91.0, -52.99421965473602)
+[05:30:48] [Server thread/INFO]: AwaKING joined the game
+[05:30:49] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05:30:49] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05:30:49] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05:30:49] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05:30:49] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05:30:49] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05:30:49] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[05:30:49] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[05:32:11] [Server thread/INFO]: Named entity class_3989['Sheer Heart Attack'/13138, l='ServerLevel[world]', x=11983.67, y=-70.00, z=-597.80] died: Sheer Heart Attack was killed
