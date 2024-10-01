@@ -26,6 +26,7 @@
       "minecraft:river": "2024-09-25 09:13:37 +0000",
       "minecraft:lukewarm_ocean": "2024-09-26 07:54:20 +0000",
       "minecraft:stony_shore": "2024-09-26 08:02:35 +0000",
+      "minecraft:snowy_plains": "2024-10-01 05:48:37 +0000",
       "minecraft:dripstone_caves": "2024-09-25 09:16:58 +0000",
       "minecraft:grove": "2024-09-26 05:09:28 +0000",
       "minecraft:forest": "2024-09-25 09:13:24 +0000",
@@ -7676,6 +7677,24 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-10-01 05:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-10-01 05:47:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2024-10-01 05:47:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
     "criteria": {
       "has_iron_knife": "2024-10-01 05:44:56 +0000"
@@ -7685,6 +7704,18 @@
   "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
       "has_iron_knife": "2024-10-01 05:44:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2024-10-01 05:47:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2024-10-01 05:47:26 +0000"
     },
     "done": true
   },
