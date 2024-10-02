@@ -1406,3 +1406,4 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [07:23:36] [Server thread/INFO]: [Parzival5077: Killed Parzival5077]
 [07:25:00] [Server thread/INFO]: [Parzival5077: Gave 1 [Diamond Pickaxe] to Parzival5077]
 [07:25:59] [Server thread/INFO]: [Parzival5077: Set own game mode to Creative Mode]
+[07:28:03] [Server thread/INFO]: [Parzival5077: Set own game mode to Survival Mode]
