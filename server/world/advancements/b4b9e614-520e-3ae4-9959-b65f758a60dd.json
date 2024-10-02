@@ -8246,6 +8246,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_range_hood": {
+    "criteria": {
+      "has_light_range_hood": "2024-10-02 08:05:26 +0000"
+    },
+    "done": true
+  },
   "meadow:main/milk_collector": {
     "criteria": {
       "meadow:wooden_milk_bucket": "2024-10-02 07:41:28 +0000"
@@ -8257,6 +8263,12 @@
       "cheese_block": "2024-10-02 07:43:49 +0000"
     },
     "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_stove": {
+    "criteria": {
+      "has_light_stove": "2024-10-02 08:05:16 +0000"
+    },
+    "done": true
   },
   "meadow:recipes/limestone_stairs": {
     "criteria": {
@@ -8318,6 +8330,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/dark_range_hood": {
+    "criteria": {
+      "has_range_hood": "2024-10-02 08:05:26 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/limestone_bricks": {
     "criteria": {
       "has_limestone": "2024-10-02 07:28:49 +0000"
@@ -8351,6 +8369,12 @@
   "meadow:main/get_rennet": {
     "criteria": {
       "rennet": "2024-10-02 07:35:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_stove": {
+    "criteria": {
+      "has_stove": "2024-10-02 08:05:16 +0000"
     },
     "done": true
   },
