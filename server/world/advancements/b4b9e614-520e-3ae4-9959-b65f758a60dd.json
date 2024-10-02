@@ -8252,6 +8252,12 @@
     },
     "done": false
   },
+  "meadow:main/get_cheese": {
+    "criteria": {
+      "cheese_block": "2024-10-02 07:43:49 +0000"
+    },
+    "done": false
+  },
   "meadow:recipes/limestone_stairs": {
     "criteria": {
       "has_limestone": "2024-10-02 07:28:49 +0000"
@@ -8335,6 +8341,12 @@
       "rennet": "2024-10-02 07:35:26 +0000"
     },
     "done": true
+  },
+  "meadow:main/cheese_collector": {
+    "criteria": {
+      "meadow:cheese_block": "2024-10-02 07:43:49 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/food/cheese": {
     "criteria": {
