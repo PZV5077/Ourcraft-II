@@ -8378,6 +8378,12 @@
     },
     "done": true
   },
+  "beautify:progression/candelabra": {
+    "criteria": {
+      "obtain": "2024-10-02 07:49:50 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/limestone_slab": {
     "criteria": {
       "has_limestone": "2024-10-02 07:28:49 +0000"

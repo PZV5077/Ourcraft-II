@@ -1474,3 +1474,13 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [07:52:10] [Server thread/INFO]: [Parzival5077: Gave 1 [Fondue] to Parzival5077]
 [07:52:10] [Server thread/INFO]: [Parzival5077: Gave 1 [Fondue] to Parzival5077]
 [07:52:11] [Server thread/INFO]: [Parzival5077: Gave 1 [Fondue] to Parzival5077]
+[07:52:29] [Server thread/INFO]: [Parzival5077: Gave 1 [Roasted Buffalo Ham] to Parzival5077]
+[07:52:34] [Server thread/INFO]: [Parzival5077: Gave 1 [Cheese Tart] to Parzival5077]
+[07:52:52] [Server thread/INFO]: [Parzival5077: Gave 1 [Cheese Wheel] to Parzival5077]
+[07:54:02] [Server thread/INFO]: [Parzival5077: Gave 64 [Oak Cabinet] to Parzival5077]
+[07:54:19] [Server thread/INFO]: [Parzival5077: Gave 1 [Stove] to Parzival5077]
+[07:54:23] [Server thread/INFO]: [Parzival5077: Gave 1 [Cooking Pot] to Parzival5077]
+[07:54:28] [Server thread/INFO]: [Parzival5077: Gave 1 [Cutting Board] to Parzival5077]
+[07:55:58] [Server thread/INFO]: Parzival5077 has reached the goal [Dinner's Served!]
+[07:56:03] [Server thread/INFO]: Villager class_1646['Nitwit'/2, l='ServerLevel[world]', x=15812.49, y=131.28, z=977.30] died, message: 'Nitwit froze to death'
+[07:56:13] [Server thread/INFO]: [Parzival5077: Gave 1 [Skillet] to Parzival5077]
