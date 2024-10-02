@@ -7326,6 +7326,54 @@
     },
     "done": true
   },
+  "svm_jojo:skill_tree/the_world/root": {
+    "criteria": {
+      "requirement": "2024-10-01 08:38:18 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/get_the_world": {
+    "criteria": {
+      "requirement": "2024-10-01 08:38:18 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/the_world/knife_flurry": {
+    "criteria": {
+      "requirement": "2024-10-01 08:38:20 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/the_world/strong_punch": {
+    "criteria": {
+      "requirement": "2024-10-01 08:38:20 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/the_world/time_stop": {
+    "criteria": {
+      "requirement": "2024-10-01 08:38:20 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/the_world/kick_barrage": {
+    "criteria": {
+      "requirement": "2024-10-01 08:38:20 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/get_whitesnake": {
+    "criteria": {
+      "requirement": "2024-10-01 08:39:33 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/whitesnake/root": {
+    "criteria": {
+      "requirement": "2024-10-01 08:39:33 +0000"
+    },
+    "done": true
+  },
   "svm_jojo:skill_tree/whitesnake/melt_your_heart": {
     "criteria": {
       "requirement": "2024-10-01 08:39:34 +0000"
@@ -7344,15 +7392,27 @@
     },
     "done": true
   },
-  "svm_jojo:storyline/kills/whitesnake/10": {
+  "svm_jojo:skill_tree/whitesnake/chop": {
     "criteria": {
-      "requirement": "2024-10-01 08:43:22 +0000"
+      "requirement": "2024-10-01 08:39:34 +0000"
     },
     "done": true
   },
-  "svm_jojo:storyline/kills/whitesnake/50": {
+  "svm_jojo:skill_tree/whitesnake/disguise": {
     "criteria": {
-      "requirement": "2024-10-01 08:49:20 +0000"
+      "requirement": "2024-10-01 08:39:34 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/kills/whitesnake/5": {
+    "criteria": {
+      "requirement": "2024-10-01 08:43:01 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/kills/whitesnake/10": {
+    "criteria": {
+      "requirement": "2024-10-01 08:43:22 +0000"
     },
     "done": true
   },
@@ -7368,27 +7428,9 @@
     },
     "done": true
   },
-  "svm_jojo:skill_tree/the_world/knife_flurry": {
-    "criteria": {
-      "requirement": "2024-10-01 08:38:20 +0000"
-    },
-    "done": true
-  },
-  "svm_jojo:skill_tree/whitesnake/chop": {
-    "criteria": {
-      "requirement": "2024-10-01 08:39:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-10-01 08:46:16 +0000"
-    },
-    "done": true
-  },
-  "svm_jojo:storyline/get_whitesnake": {
-    "criteria": {
-      "requirement": "2024-10-01 08:39:33 +0000"
     },
     "done": true
   },
@@ -7398,51 +7440,9 @@
     },
     "done": true
   },
-  "svm_jojo:skill_tree/the_world/root": {
+  "svm_jojo:storyline/kills/whitesnake/50": {
     "criteria": {
-      "requirement": "2024-10-01 08:38:18 +0000"
-    },
-    "done": true
-  },
-  "svm_jojo:storyline/kills/whitesnake/5": {
-    "criteria": {
-      "requirement": "2024-10-01 08:43:01 +0000"
-    },
-    "done": true
-  },
-  "svm_jojo:skill_tree/the_world/strong_punch": {
-    "criteria": {
-      "requirement": "2024-10-01 08:38:20 +0000"
-    },
-    "done": true
-  },
-  "svm_jojo:skill_tree/whitesnake/root": {
-    "criteria": {
-      "requirement": "2024-10-01 08:39:33 +0000"
-    },
-    "done": true
-  },
-  "svm_jojo:storyline/get_the_world": {
-    "criteria": {
-      "requirement": "2024-10-01 08:38:18 +0000"
-    },
-    "done": true
-  },
-  "svm_jojo:skill_tree/the_world/time_stop": {
-    "criteria": {
-      "requirement": "2024-10-01 08:38:20 +0000"
-    },
-    "done": true
-  },
-  "svm_jojo:skill_tree/the_world/kick_barrage": {
-    "criteria": {
-      "requirement": "2024-10-01 08:38:20 +0000"
-    },
-    "done": true
-  },
-  "svm_jojo:skill_tree/whitesnake/disguise": {
-    "criteria": {
-      "requirement": "2024-10-01 08:39:34 +0000"
+      "requirement": "2024-10-01 08:49:20 +0000"
     },
     "done": true
   },

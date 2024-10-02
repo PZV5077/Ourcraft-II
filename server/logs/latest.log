@@ -1303,3 +1303,30 @@ EdenBiomeSource (1345812c)
 [12:32:51] [Worker-Main-1/INFO]: Preparing spawn area: 13%
 [12:32:51] [Server thread/INFO]: Time elapsed: 6999 ms
 [12:32:51] [Server thread/INFO]: Done (10.453s)! For help, type "help"
+[13:10:45] [Server thread/INFO]: hhhh_w[/127.0.0.1:46314] logged in with entity id 153 at (13113.81902094859, -38.0, 303.9008821372)
+[13:10:45] [Server thread/INFO]: hhhh_w joined the game
+[13:10:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3128ms or 62 ticks behind
+[13:10:48] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[13:10:48] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[13:10:48] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[13:10:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[13:10:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[13:10:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[13:10:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[13:10:48] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[13:12:53] [Server thread/INFO]: hhhh_w was shot by Skeleton
+[13:15:10] [Server thread/INFO]: hhhh_w burned to death
+[13:15:14] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu]]
+[13:15:26] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu] (set value to 337)]
+[13:15:45] [Server thread/INFO]: hhhh_w lost connection: Disconnected
+[13:15:45] [Server thread/INFO]: hhhh_w left the game
+[13:15:50] [Server thread/INFO]: hhhh_w[/127.0.0.1:45848] logged in with entity id 9186 at (14020.935858479712, 70.0, -265.2526579279976)
+[13:15:50] [Server thread/INFO]: hhhh_w joined the game
+[13:15:51] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[13:15:51] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[13:15:51] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[13:15:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[13:15:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[13:15:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[13:15:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[13:15:51] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
