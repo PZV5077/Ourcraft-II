@@ -8639,9 +8639,21 @@
     },
     "done": true
   },
+  "meadow:recipes/cheese_bread": {
+    "criteria": {
+      "has_bread": "2024-10-02 10:33:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-10-02 10:09:21 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2024-10-02 10:33:08 +0000"
     },
     "done": true
   },
