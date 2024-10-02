@@ -8368,6 +8368,7 @@
   },
   "meadow:main/milk_collector": {
     "criteria": {
+      "meadow:wooden_buffalo_milk_bucket": "2024-10-02 10:04:05 +0000",
       "meadow:wooden_milk_bucket": "2024-10-02 07:41:28 +0000",
       "meadow:wooden_goat_milk_bucket": "2024-10-02 09:58:57 +0000"
     },
@@ -8375,12 +8376,14 @@
   },
   "meadow:main/get_cheese": {
     "criteria": {
-      "cheese_block": "2024-10-02 07:43:49 +0000"
+      "cheese_block": "2024-10-02 07:43:49 +0000",
+      "goat_cheese_block": "2024-10-02 10:04:50 +0000"
     },
     "done": false
   },
   "meadow:main/cheese_collector": {
     "criteria": {
+      "meadow:goat_cheese_block": "2024-10-02 10:04:50 +0000",
       "meadow:cheese_block": "2024-10-02 07:43:49 +0000"
     },
     "done": false

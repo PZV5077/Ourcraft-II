@@ -1631,3 +1631,5 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [10:02:23] [Server thread/INFO]: [Parzival5077: Summoned new Goat]
 [10:02:24] [Server thread/INFO]: [Parzival5077: Summoned new Goat]
 [10:04:02] [Server thread/INFO]: [Parzival5077: Summoned new Water Buffalo]
+[10:04:22] [Server thread/INFO]: [Parzival5077: Summoned new Wooly Cow]
+[10:09:06] [Server thread/INFO]: [Parzival5077: Summoned new Polar Bear]
