@@ -8282,6 +8282,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_oak_light_ceiling_fan": "2024-10-02 08:12:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/canvas_from_canvas_rug": {
     "criteria": {
       "has_canvas_rug": "2024-10-02 08:00:15 +0000"
@@ -8363,6 +8369,12 @@
   "meadow:main/place_cheese_form": {
     "criteria": {
       "cheese_form": "2024-10-02 07:40:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_ceiling_fan": "2024-10-02 08:12:54 +0000"
     },
     "done": true
   },
