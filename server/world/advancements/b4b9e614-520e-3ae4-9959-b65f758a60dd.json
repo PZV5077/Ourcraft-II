@@ -8368,7 +8368,8 @@
   },
   "meadow:main/milk_collector": {
     "criteria": {
-      "meadow:wooden_milk_bucket": "2024-10-02 07:41:28 +0000"
+      "meadow:wooden_milk_bucket": "2024-10-02 07:41:28 +0000",
+      "meadow:wooden_goat_milk_bucket": "2024-10-02 09:58:57 +0000"
     },
     "done": false
   },
