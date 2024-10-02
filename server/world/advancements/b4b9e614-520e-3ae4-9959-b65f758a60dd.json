@@ -8288,6 +8288,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-10-02 08:43:15 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_dark_ceiling_fan": {
     "criteria": {
       "has_oak_light_ceiling_fan": "2024-10-02 08:12:54 +0000"
@@ -8342,6 +8348,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/red_dye_from_waratah": {
+    "criteria": {
+      "has_waratah": "2024-10-02 08:42:49 +0000"
+    },
+    "done": true
+  },
   "meadow:main/get_salt": {
     "criteria": {
       "salt": "2024-10-02 07:35:11 +0000"
@@ -8375,6 +8387,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-10-02 08:21:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/red_dye_from_alpha_rose": {
+    "criteria": {
+      "has_alpha_rose": "2024-10-02 08:42:39 +0000"
     },
     "done": true
   },
@@ -8417,6 +8435,12 @@
   "supplementaries:recipes/soap/blackboard": {
     "criteria": {
       "has_blackboard": "2024-10-02 08:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-10-02 08:43:15 +0000"
     },
     "done": true
   },
