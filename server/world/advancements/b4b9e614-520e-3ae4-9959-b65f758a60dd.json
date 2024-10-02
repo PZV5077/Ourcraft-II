@@ -8163,6 +8163,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:chicken": "2024-10-02 07:38:03 +0000",
       "minecraft:bee": "2024-10-01 14:04:20 +0000"
     },
     "done": false
@@ -8281,6 +8282,12 @@
     },
     "done": true
   },
+  "meadow:main/get_salt": {
+    "criteria": {
+      "salt": "2024-10-02 07:35:11 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/limestone_bricks_stairs": {
     "criteria": {
       "has_limestone": "2024-10-02 07:28:49 +0000"
@@ -8308,6 +8315,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2024-10-02 07:09:25 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/get_rennet": {
+    "criteria": {
+      "rennet": "2024-10-02 07:35:26 +0000"
     },
     "done": true
   },
