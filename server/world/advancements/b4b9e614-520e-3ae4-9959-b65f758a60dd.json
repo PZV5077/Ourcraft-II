@@ -8282,6 +8282,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/white_dye_from_white_trillium": {
+    "criteria": {
+      "has_white_trillium": "2024-10-02 08:45:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/baking/baked_potato": {
     "criteria": {
       "has_ingredient": "2024-10-02 08:21:39 +0000"
@@ -8333,6 +8339,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2024-10-02 08:21:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2024-10-02 08:45:03 +0000"
     },
     "done": true
   },
@@ -8399,6 +8411,12 @@
   "meadow:recipes/limestone_bricks": {
     "criteria": {
       "has_limestone": "2024-10-02 07:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2024-10-02 08:45:03 +0000"
     },
     "done": true
   },
