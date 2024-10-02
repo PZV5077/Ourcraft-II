@@ -1593,3 +1593,11 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [08:47:11] [Server thread/INFO]: [Parzival5077: Gave 64 [Tatami Block] to Parzival5077]
 [08:57:58] [Server thread/INFO]: [Parzival5077: Gave 1 [Roasted Buffalo Ham] to Parzival5077]
 [08:57:58] [Server thread/INFO]: [Parzival5077: Gave 1 [Roasted Buffalo Ham] to Parzival5077]
+[08:58:23] [Server thread/INFO]: [Parzival5077: Gave 1 [Cheesecake] to Parzival5077]
+[08:58:31] [Server thread/INFO]: [Parzival5077: Gave 1 [Buffalo Sausage with Cheese] to Parzival5077]
+[08:58:36] [Server thread/INFO]: [Parzival5077: Gave 64 [Cooked Buffalo Meat] to Parzival5077]
+[08:58:49] [Server thread/INFO]: [Parzival5077: Gave 64 [Cheese Stick] to Parzival5077]
+[08:59:00] [Server thread/INFO]: [Parzival5077: Gave 64 [Cheese Sandwich] to Parzival5077]
+[08:59:39] [Server thread/INFO]: [Parzival5077: Gave 1 [Altimeter] to Parzival5077]
+[09:00:00] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
+[09:00:00] [Server thread/INFO]: Parzival5077 left the game
