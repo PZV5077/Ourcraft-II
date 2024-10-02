@@ -8380,9 +8380,11 @@
   "meadow:main/get_cheese": {
     "criteria": {
       "cheese_block": "2024-10-02 07:43:49 +0000",
+      "grain_cheese_block": "2024-10-02 10:25:11 +0000",
       "buffalo_cheese_block": "2024-10-02 10:17:48 +0000",
       "goat_cheese_block": "2024-10-02 10:04:50 +0000",
-      "sheep_cheese_block": "2024-10-02 10:21:25 +0000"
+      "sheep_cheese_block": "2024-10-02 10:21:25 +0000",
+      "amethyst_cheese_block": "2024-10-02 10:23:35 +0000"
     },
     "done": false
   },
@@ -8390,6 +8392,8 @@
     "criteria": {
       "meadow:goat_cheese_block": "2024-10-02 10:04:50 +0000",
       "meadow:sheep_cheese_block": "2024-10-02 10:21:25 +0000",
+      "meadow:amethyst_cheese_block": "2024-10-02 10:23:35 +0000",
+      "meadow:grain_cheese_block": "2024-10-02 10:25:11 +0000",
       "meadow:cheese_block": "2024-10-02 07:43:49 +0000",
       "meadow:buffalo_cheese_block": "2024-10-02 10:17:48 +0000"
     },
