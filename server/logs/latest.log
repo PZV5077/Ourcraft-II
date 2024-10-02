@@ -1397,3 +1397,5 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [07:12:47] [Server thread/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
 [07:12:47] [Server thread/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
 [07:15:34] [Server thread/INFO]: [Parzival5077: Gave 1 [Torch] to Parzival5077]
+[07:19:38] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 12750.000000, 73.000000, -3.000000]
+[07:20:11] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 12088.000000, 72.000000, -713.000000]
