@@ -8270,6 +8270,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/canvas_from_canvas_rug": {
+    "criteria": {
+      "has_canvas_rug": "2024-10-02 08:00:15 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/stove_tiles_wood": {
     "criteria": {
       "has_limestone": "2024-10-02 07:28:49 +0000"
