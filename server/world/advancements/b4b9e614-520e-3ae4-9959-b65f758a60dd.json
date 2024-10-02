@@ -8371,7 +8371,9 @@
     "criteria": {
       "meadow:wooden_buffalo_milk_bucket": "2024-10-02 10:04:05 +0000",
       "meadow:wooden_milk_bucket": "2024-10-02 07:41:28 +0000",
-      "meadow:wooden_goat_milk_bucket": "2024-10-02 09:58:57 +0000"
+      "meadow:wooden_goat_milk_bucket": "2024-10-02 09:58:57 +0000",
+      "meadow:wooden_sheep_milk_bucket": "2024-10-02 10:18:36 +0000",
+      "meadow:wooden_grain_milk_bucket": "2024-10-02 10:21:57 +0000"
     },
     "done": false
   },
@@ -8379,13 +8381,15 @@
     "criteria": {
       "cheese_block": "2024-10-02 07:43:49 +0000",
       "buffalo_cheese_block": "2024-10-02 10:17:48 +0000",
-      "goat_cheese_block": "2024-10-02 10:04:50 +0000"
+      "goat_cheese_block": "2024-10-02 10:04:50 +0000",
+      "sheep_cheese_block": "2024-10-02 10:21:25 +0000"
     },
     "done": false
   },
   "meadow:main/cheese_collector": {
     "criteria": {
       "meadow:goat_cheese_block": "2024-10-02 10:04:50 +0000",
+      "meadow:sheep_cheese_block": "2024-10-02 10:21:25 +0000",
       "meadow:cheese_block": "2024-10-02 07:43:49 +0000",
       "meadow:buffalo_cheese_block": "2024-10-02 10:17:48 +0000"
     },
@@ -8583,6 +8587,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-10-02 10:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-10-02 10:20:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-10-02 10:09:21 +0000"
@@ -8613,6 +8629,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-10-02 10:20:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-10-02 10:09:21 +0000"
@@ -8625,15 +8647,51 @@
     },
     "done": true
   },
+  "meadow:recipes/cheese_tart": {
+    "criteria": {
+      "has_wheat": "2024-10-02 10:20:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-10-02 10:20:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2024-10-02 10:20:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2024-10-02 10:09:20 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-10-02 10:20:26 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/cheesecake": {
+    "criteria": {
+      "has_wheat": "2024-10-02 10:20:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2024-10-02 09:52:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2024-10-02 10:20:26 +0000"
     },
     "done": true
   },
