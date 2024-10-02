@@ -5433,6 +5433,7 @@
       "minecraft:spider": "2024-09-26 06:50:20 +0000",
       "minecraft:creeper": "2024-09-29 13:16:18 +0000",
       "minecraft:slime": "2024-09-26 07:10:49 +0000",
+      "minecraft:phantom": "2024-10-02 10:10:31 +0000",
       "minecraft:zombified_piglin": "2024-09-30 09:37:56 +0000",
       "minecraft:witch": "2024-09-30 12:32:30 +0000",
       "minecraft:wither_skeleton": "2024-09-30 09:25:18 +0000",
@@ -8377,6 +8378,7 @@
   "meadow:main/get_cheese": {
     "criteria": {
       "cheese_block": "2024-10-02 07:43:49 +0000",
+      "buffalo_cheese_block": "2024-10-02 10:17:48 +0000",
       "goat_cheese_block": "2024-10-02 10:04:50 +0000"
     },
     "done": false
@@ -8384,7 +8386,8 @@
   "meadow:main/cheese_collector": {
     "criteria": {
       "meadow:goat_cheese_block": "2024-10-02 10:04:50 +0000",
-      "meadow:cheese_block": "2024-10-02 07:43:49 +0000"
+      "meadow:cheese_block": "2024-10-02 07:43:49 +0000",
+      "meadow:buffalo_cheese_block": "2024-10-02 10:17:48 +0000"
     },
     "done": false
   },
@@ -8568,9 +8571,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-10-02 10:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-10-02 10:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-10-02 10:09:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2024-10-02 09:52:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-10-02 10:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-10-02 10:09:21 +0000"
     },
     "done": true
   },
@@ -8580,9 +8613,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-10-02 10:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-10-02 10:09:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2024-10-02 10:09:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2024-10-02 09:52:27 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/kill_buffalo": {
+    "criteria": {
+      "killed_buffalo": "2024-10-02 10:09:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-10-02 10:09:20 +0000"
     },
     "done": true
   },

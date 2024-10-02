@@ -1633,3 +1633,8 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [10:04:02] [Server thread/INFO]: [Parzival5077: Summoned new Water Buffalo]
 [10:04:22] [Server thread/INFO]: [Parzival5077: Summoned new Wooly Cow]
 [10:09:06] [Server thread/INFO]: [Parzival5077: Summoned new Polar Bear]
+[10:09:16] [Server thread/INFO]: Parzival5077 has completed the challenge [Mhhh... looks tasty!]
+[10:09:24] [Server thread/INFO]: [Parzival5077: Summoned new Water Buffalo]
+[10:10:07] [Server thread/INFO]: [Parzival5077: Gave 1 [Wheat Seeds] to Parzival5077]
+[10:10:41] [Server thread/INFO]: [Parzival5077: Gave 64 [Wheat Seeds] to Parzival5077]
+[10:14:14] [Server thread/INFO]: [Parzival5077: Gave 12 [Oak Log] to Parzival5077]
