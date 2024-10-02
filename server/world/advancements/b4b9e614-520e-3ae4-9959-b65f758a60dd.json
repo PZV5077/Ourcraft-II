@@ -8282,6 +8282,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2024-10-02 08:21:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_dark_ceiling_fan": {
     "criteria": {
       "has_oak_light_ceiling_fan": "2024-10-02 08:12:54 +0000"
@@ -8300,9 +8306,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2024-10-02 08:21:39 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
     "criteria": {
       "has_daisy": "2024-10-02 07:23:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-10-02 08:21:39 +0000"
     },
     "done": true
   },
@@ -8330,6 +8348,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-10-02 08:21:39 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/limestone_bricks_stairs": {
     "criteria": {
       "has_limestone": "2024-10-02 07:28:49 +0000"
@@ -8339,6 +8363,12 @@
   "refurbished_furniture:recipes/decorations/dark_range_hood": {
     "criteria": {
       "has_range_hood": "2024-10-02 08:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-10-02 08:21:39 +0000"
     },
     "done": true
   },
@@ -8399,6 +8429,12 @@
   "refurbished_furniture:recipes/food/cheese": {
     "criteria": {
       "has_milk": "2024-10-02 07:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-10-02 08:21:39 +0000"
     },
     "done": true
   },
