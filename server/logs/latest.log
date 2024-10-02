@@ -1386,3 +1386,9 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [07:04:05] [Server thread/INFO]: [Parzival5077: Summoned new Bee]
 [07:04:17] [Server thread/INFO]: [Parzival5077: Summoned new Bee]
 [07:04:22] [Server thread/INFO]: [Parzival5077: Summoned new Bee]
+[07:08:24] [Server thread/INFO]: [Parzival5077: Gave 5 [Bucket] to Parzival5077]
+[07:09:03] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 12643.000000, 87.000000, -250.000000]
+[07:09:13] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 12639.000000, 100.000000, -234.000000]
+[07:09:36] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 12556.000000, 106.000000, -272.000000]
+[07:09:39] [Server thread/INFO]: Parzival5077 hit the ground too hard
+[07:10:25] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 12640.000000, 100.000000, -234.000000]
