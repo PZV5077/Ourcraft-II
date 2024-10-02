@@ -8240,33 +8240,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2024-10-02 07:09:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2024-10-02 07:09:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2024-10-02 07:09:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2024-10-02 07:09:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
+    "criteria": {
+      "has_daisy": "2024-10-02 07:23:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_blue_dye_from_felicia_daisy": {
+    "criteria": {
+      "has_felicia_daisy": "2024-10-02 07:23:01 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/chiseled_limestone_bricks": {
     "criteria": {
       "has_limestone": "2024-10-02 07:28:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_range_hood": {
-    "criteria": {
-      "has_light_range_hood": "2024-10-02 08:05:26 +0000"
-    },
-    "done": true
-  },
-  "meadow:main/milk_collector": {
-    "criteria": {
-      "meadow:wooden_milk_bucket": "2024-10-02 07:41:28 +0000"
-    },
-    "done": false
-  },
-  "meadow:main/get_cheese": {
-    "criteria": {
-      "cheese_block": "2024-10-02 07:43:49 +0000"
-    },
-    "done": false
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_stove": {
-    "criteria": {
-      "has_light_stove": "2024-10-02 08:05:16 +0000"
     },
     "done": true
   },
@@ -8282,69 +8294,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/misc/white_dye_from_white_trillium": {
-    "criteria": {
-      "has_white_trillium": "2024-10-02 08:45:38 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/baking/baked_potato": {
-    "criteria": {
-      "has_ingredient": "2024-10-02 08:21:39 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2024-10-02 08:43:15 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_dark_ceiling_fan": {
-    "criteria": {
-      "has_oak_light_ceiling_fan": "2024-10-02 08:12:54 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/canvas_from_canvas_rug": {
-    "criteria": {
-      "has_canvas_rug": "2024-10-02 08:00:15 +0000"
-    },
-    "done": true
-  },
   "meadow:recipes/stove_tiles_wood": {
     "criteria": {
       "has_limestone": "2024-10-02 07:28:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/heating/baked_potato": {
-    "criteria": {
-      "has_ingredient": "2024-10-02 08:21:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/mixed_salad": {
-    "criteria": {
-      "has_bowl": "2024-10-02 08:37:05 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
-    "criteria": {
-      "has_daisy": "2024-10-02 07:23:00 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-10-02 08:21:39 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_torchflower": {
-    "criteria": {
-      "has_torchflower": "2024-10-02 08:45:03 +0000"
     },
     "done": true
   },
@@ -8360,51 +8312,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/misc/red_dye_from_waratah": {
-    "criteria": {
-      "has_waratah": "2024-10-02 08:42:49 +0000"
-    },
-    "done": true
-  },
-  "meadow:main/get_salt": {
-    "criteria": {
-      "salt": "2024-10-02 07:35:11 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_cooking_pot": {
-    "criteria": {
-      "cooking_pot": "2024-10-02 07:55:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2024-10-02 08:21:39 +0000"
-    },
-    "done": true
-  },
   "meadow:recipes/limestone_bricks_stairs": {
     "criteria": {
       "has_limestone": "2024-10-02 07:28:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/dark_range_hood": {
-    "criteria": {
-      "has_range_hood": "2024-10-02 08:05:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2024-10-02 08:21:39 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/red_dye_from_alpha_rose": {
-    "criteria": {
-      "has_alpha_rose": "2024-10-02 08:42:39 +0000"
     },
     "done": true
   },
@@ -8414,51 +8324,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/orange_dye_from_torchflower": {
-    "criteria": {
-      "has_torchflower": "2024-10-02 08:45:03 +0000"
-    },
-    "done": true
-  },
   "meadow:recipes/limestone_brick_wall": {
     "criteria": {
       "has_limestone": "2024-10-02 07:28:49 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/milk_bottle": {
+  "meadow:recipes/stove_tiles_lid": {
     "criteria": {
-      "has_milk_bucket": "2024-10-02 07:09:25 +0000"
+      "has_limestone": "2024-10-02 07:28:49 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cooking/glow_berry_custard": {
+  "meadow:recipes/stove_tiles": {
     "criteria": {
-      "has_any_ingredient": "2024-10-02 07:09:25 +0000"
+      "has_limestone": "2024-10-02 07:28:49 +0000"
     },
     "done": true
   },
-  "meadow:main/place_cheese_form": {
+  "meadow:recipes/limestone_slab": {
     "criteria": {
-      "cheese_form": "2024-10-02 07:40:03 +0000"
+      "has_limestone": "2024-10-02 07:28:49 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/oak_dark_ceiling_fan": {
+  "meadow:main/get_salt": {
     "criteria": {
-      "has_ceiling_fan": "2024-10-02 08:12:54 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/soap/blackboard": {
-    "criteria": {
-      "has_blackboard": "2024-10-02 08:38:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2024-10-02 08:43:15 +0000"
+      "salt": "2024-10-02 07:35:11 +0000"
     },
     "done": true
   },
@@ -8468,11 +8360,23 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/dark_stove": {
+  "meadow:main/place_cheese_form": {
     "criteria": {
-      "has_stove": "2024-10-02 08:05:16 +0000"
+      "cheese_form": "2024-10-02 07:40:03 +0000"
     },
     "done": true
+  },
+  "meadow:main/milk_collector": {
+    "criteria": {
+      "meadow:wooden_milk_bucket": "2024-10-02 07:41:28 +0000"
+    },
+    "done": false
+  },
+  "meadow:main/get_cheese": {
+    "criteria": {
+      "cheese_block": "2024-10-02 07:43:49 +0000"
+    },
+    "done": false
   },
   "meadow:main/cheese_collector": {
     "criteria": {
@@ -8480,21 +8384,111 @@
     },
     "done": false
   },
-  "farmersdelight:recipes/farmersdelight/nether_salad": {
+  "beautify:progression/candelabra": {
     "criteria": {
-      "has_bowl": "2024-10-02 08:37:05 +0000"
+      "obtain": "2024-10-02 07:49:50 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/food/cheese": {
+  "farmersdelight:main/place_cooking_pot": {
     "criteria": {
-      "has_milk": "2024-10-02 07:09:25 +0000"
+      "cooking_pot": "2024-10-02 07:55:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/canvas_from_canvas_rug": {
+    "criteria": {
+      "has_canvas_rug": "2024-10-02 08:00:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_stove": {
+    "criteria": {
+      "has_light_stove": "2024-10-02 08:05:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_stove": {
+    "criteria": {
+      "has_stove": "2024-10-02 08:05:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_range_hood": {
+    "criteria": {
+      "has_light_range_hood": "2024-10-02 08:05:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_range_hood": {
+    "criteria": {
+      "has_range_hood": "2024-10-02 08:05:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_oak_light_ceiling_fan": "2024-10-02 08:12:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_ceiling_fan": "2024-10-02 08:12:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2024-10-02 08:21:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2024-10-02 08:21:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-10-02 08:21:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-10-02 08:21:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-10-02 08:21:39 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-10-02 08:21:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "potato": "2024-10-02 08:25:53 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-10-02 08:37:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-10-02 08:37:05 +0000"
     },
     "done": true
   },
@@ -8510,57 +8504,81 @@
     },
     "done": true
   },
-  "supplementaries:recipes/slice_map": {
-    "criteria": {
-      "has_altimeter": "2024-10-02 08:59:40 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/cooking/hot_cocoa": {
-    "criteria": {
-      "has_any_ingredient": "2024-10-02 07:09:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2024-10-02 08:37:05 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "supplementaries:recipes/soap/blackboard": {
     "criteria": {
-      "potato": "2024-10-02 08:25:53 +0000"
-    },
-    "done": false
-  },
-  "meadow:recipes/stove_tiles_lid": {
-    "criteria": {
-      "has_limestone": "2024-10-02 07:28:49 +0000"
+      "has_blackboard": "2024-10-02 08:38:08 +0000"
     },
     "done": true
   },
-  "meadow:recipes/stove_tiles": {
+  "regions_unexplored:recipes/misc/red_dye_from_alpha_rose": {
     "criteria": {
-      "has_limestone": "2024-10-02 07:28:49 +0000"
+      "has_alpha_rose": "2024-10-02 08:42:39 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/misc/light_blue_dye_from_felicia_daisy": {
+  "regions_unexplored:recipes/misc/red_dye_from_waratah": {
     "criteria": {
-      "has_felicia_daisy": "2024-10-02 07:23:01 +0000"
+      "has_waratah": "2024-10-02 08:42:49 +0000"
     },
     "done": true
   },
-  "beautify:progression/candelabra": {
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
     "criteria": {
-      "obtain": "2024-10-02 07:49:50 +0000"
+      "has_allium": "2024-10-02 08:43:15 +0000"
     },
     "done": true
   },
-  "meadow:recipes/limestone_slab": {
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
-      "has_limestone": "2024-10-02 07:28:49 +0000"
+      "has_allium": "2024-10-02 08:43:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2024-10-02 08:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2024-10-02 08:45:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/white_dye_from_white_trillium": {
+    "criteria": {
+      "has_white_trillium": "2024-10-02 08:45:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_altimeter": "2024-10-02 08:59:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-10-02 09:52:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-10-02 09:52:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-10-02 09:52:27 +0000"
     },
     "done": true
   },

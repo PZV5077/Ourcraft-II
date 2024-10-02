@@ -1601,3 +1601,18 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [08:59:39] [Server thread/INFO]: [Parzival5077: Gave 1 [Altimeter] to Parzival5077]
 [09:00:00] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
 [09:00:00] [Server thread/INFO]: Parzival5077 left the game
+[09:44:41] [Server thread/INFO]: Parzival5077[/127.0.0.1:53252] logged in with entity id 69883 at (12570.098449117166, 104.0, -287.74183595949785)
+[09:44:41] [Server thread/INFO]: Parzival5077 joined the game
+[09:44:41] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[09:44:41] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[09:44:41] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[09:44:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[09:44:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[09:44:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[09:44:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[09:44:41] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[09:45:22] [Server thread/INFO]: [Parzival5077: Gave 64 [Hopper] to Parzival5077]
+[09:45:32] [Server thread/INFO]: [Parzival5077: Gave 64 [Trapped Chest] to Parzival5077]
+[09:45:34] [Server thread/INFO]: [Parzival5077: Gave 1 [Diamond Axe] to Parzival5077]
+[09:45:37] [Server thread/INFO]: [Parzival5077: Gave 64 [Chest] to Parzival5077]
+[09:47:54] [Server thread/INFO]: [Parzival5077: Gave 16 [Glass Bottle] to Parzival5077]
