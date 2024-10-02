@@ -8312,6 +8312,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-10-02 08:37:05 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
     "criteria": {
       "has_daisy": "2024-10-02 07:23:00 +0000"
@@ -8408,6 +8414,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/blackboard": {
+    "criteria": {
+      "has_blackboard": "2024-10-02 08:38:08 +0000"
+    },
+    "done": true
+  },
   "meadow:main/get_rennet": {
     "criteria": {
       "rennet": "2024-10-02 07:35:26 +0000"
@@ -8426,6 +8438,12 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-10-02 08:37:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/food/cheese": {
     "criteria": {
       "has_milk": "2024-10-02 07:09:25 +0000"
@@ -8438,9 +8456,27 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "shepherds_pie": "2024-10-02 08:37:05 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2024-10-02 08:37:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2024-10-02 07:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-10-02 08:37:05 +0000"
     },
     "done": true
   },
