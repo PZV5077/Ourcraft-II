@@ -1645,3 +1645,5 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [10:30:36] [Server thread/INFO]: [Parzival5077: Gave 1 [Frame] to Parzival5077]
 [10:30:38] [Server thread/INFO]: [Parzival5077: Gave 1 [Cheese Rack] to Parzival5077]
 [10:33:08] [Server thread/INFO]: [Parzival5077: Gave 1 [Bread] to Parzival5077]
+[10:40:37] [Server thread/INFO]: [Parzival5077: Gave 64 [Glass] to Parzival5077]
+[10:44:31] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 12521.000000, 75.000000, -297.000000]
