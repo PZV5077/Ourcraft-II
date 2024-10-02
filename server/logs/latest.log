@@ -1331,3 +1331,17 @@ EdenBiomeSource (1345812c)
 [13:15:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
 [13:15:51] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
 [13:37:48] [Server thread/INFO]: hhhh_w fell from a high place
+[13:53:42] [Server thread/INFO]: hhhh_w lost connection: Disconnected
+[13:53:42] [Server thread/INFO]: hhhh_w left the game
+[13:55:43] [Server thread/INFO]: hhhh_w[/127.0.0.1:60138] logged in with entity id 205632 at (1793.300000011921, 44.0, 169.30420912873836)
+[13:55:43] [Server thread/INFO]: hhhh_w joined the game
+[13:55:44] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[13:55:44] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[13:55:44] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[13:55:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[13:55:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[13:55:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[13:55:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[13:55:44] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[14:00:06] [Server thread/INFO]: hhhh_w lost connection: Disconnected
+[14:00:06] [Server thread/INFO]: hhhh_w left the game
