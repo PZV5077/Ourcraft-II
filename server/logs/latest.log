@@ -1407,3 +1407,11 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [07:25:00] [Server thread/INFO]: [Parzival5077: Gave 1 [Diamond Pickaxe] to Parzival5077]
 [07:25:59] [Server thread/INFO]: [Parzival5077: Set own game mode to Creative Mode]
 [07:28:03] [Server thread/INFO]: [Parzival5077: Set own game mode to Survival Mode]
+[07:33:08] [Server thread/INFO]: Parzival5077 drowned whilst trying to escape Diavolo
+[07:33:18] [Server thread/INFO]: Named entity class_1590['Diavolo'/17836, l='ServerLevel[world]', x=12562.68, y=35.35, z=-217.31] died: Diavolo was shot by Parzival5077
+[07:33:36] [Server thread/INFO]: Parzival5077 drowned
+[07:35:11] [Server thread/INFO]: Parzival5077 has made the advancement [Find Alpine Salt]
+[07:35:26] [Server thread/INFO]: Parzival5077 has made the advancement [A step into crafting cheese]
+[07:36:02] [Server thread/INFO]: [Parzival5077: Gave 1 [Cooking Cauldron] to Parzival5077]
+[07:36:13] [Server thread/INFO]: [Parzival5077: Gave 1 [Tiled Stove With Wood Storage] to Parzival5077]
+[07:36:38] [Server thread/INFO]: [Parzival5077: Gave 1 [Tiled Stove With Wood Storage] to Parzival5077]

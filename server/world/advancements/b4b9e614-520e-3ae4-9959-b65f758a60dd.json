@@ -8239,9 +8239,63 @@
     },
     "done": true
   },
+  "meadow:recipes/chiseled_limestone_bricks": {
+    "criteria": {
+      "has_limestone": "2024-10-02 07:28:49 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/limestone_stairs": {
+    "criteria": {
+      "has_limestone": "2024-10-02 07:28:49 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/stove_tiles_bench": {
+    "criteria": {
+      "has_limestone": "2024-10-02 07:28:49 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/stove_tiles_wood": {
+    "criteria": {
+      "has_limestone": "2024-10-02 07:28:49 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
     "criteria": {
       "has_daisy": "2024-10-02 07:23:00 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/limestone_brick_stairs": {
+    "criteria": {
+      "has_limestone": "2024-10-02 07:28:49 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/limestone_brick_slab": {
+    "criteria": {
+      "has_limestone": "2024-10-02 07:28:49 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/limestone_bricks_stairs": {
+    "criteria": {
+      "has_limestone": "2024-10-02 07:28:49 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/limestone_bricks": {
+    "criteria": {
+      "has_limestone": "2024-10-02 07:28:49 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/limestone_brick_wall": {
+    "criteria": {
+      "has_limestone": "2024-10-02 07:28:49 +0000"
     },
     "done": true
   },
@@ -8269,9 +8323,27 @@
     },
     "done": true
   },
+  "meadow:recipes/stove_tiles_lid": {
+    "criteria": {
+      "has_limestone": "2024-10-02 07:28:49 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/stove_tiles": {
+    "criteria": {
+      "has_limestone": "2024-10-02 07:28:49 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/light_blue_dye_from_felicia_daisy": {
     "criteria": {
       "has_felicia_daisy": "2024-10-02 07:23:01 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/limestone_slab": {
+    "criteria": {
+      "has_limestone": "2024-10-02 07:28:49 +0000"
     },
     "done": true
   },
