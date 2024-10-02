@@ -8300,6 +8300,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2024-10-02 07:55:58 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/limestone_bricks_stairs": {
     "criteria": {
       "has_limestone": "2024-10-02 07:28:49 +0000"
