@@ -8444,6 +8444,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "potato": "2024-10-02 08:25:53 +0000"
+    },
+    "done": false
+  },
   "meadow:recipes/stove_tiles_lid": {
     "criteria": {
       "has_limestone": "2024-10-02 07:28:49 +0000"
