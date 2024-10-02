@@ -1392,3 +1392,8 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [07:09:36] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 12556.000000, 106.000000, -272.000000]
 [07:09:39] [Server thread/INFO]: Parzival5077 hit the ground too hard
 [07:10:25] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 12640.000000, 100.000000, -234.000000]
+[07:12:41] [Server thread/INFO]: Locating element minecraft:meadow took 133 ms
+[07:12:46] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 12772.500000, 102.000000, -144.500000]
+[07:12:47] [Server thread/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[07:12:47] [Server thread/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[07:15:34] [Server thread/INFO]: [Parzival5077: Gave 1 [Torch] to Parzival5077]
