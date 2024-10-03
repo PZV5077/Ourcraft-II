@@ -1534,3 +1534,5 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [06:29:36] [Server thread/INFO]: [Parzival5077: Gave 1 [Blaze Burner] to Parzival5077]
 [06:29:36] [Server thread/INFO]: [Parzival5077: Gave 1 [Blaze Burner] to Parzival5077]
 [06:35:52] [Server thread/INFO]: [Parzival5077: Gave 64 [Block of Coal] to Parzival5077]
+[06:43:27] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
+[06:43:27] [Server thread/INFO]: Parzival5077 left the game
