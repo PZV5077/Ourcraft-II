@@ -7521,6 +7521,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/speedometerfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-10-03 15:13:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_item": "2024-10-03 14:55:52 +0000"
@@ -7578,6 +7584,12 @@
   "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
     "criteria": {
       "has_item": "2024-10-03 14:55:52 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2024-10-03 15:15:19 +0000"
     },
     "done": true
   },
@@ -7656,6 +7668,12 @@
   "create:recipes/misc/crafting/kinetics/white_sail": {
     "criteria": {
       "has_item": "2024-10-03 14:55:52 +0000"
+    },
+    "done": true
+  },
+  "create:stressometer": {
+    "criteria": {
+      "0": "2024-10-03 15:14:02 +0000"
     },
     "done": true
   },
