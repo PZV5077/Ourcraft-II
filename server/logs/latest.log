@@ -1383,3 +1383,6 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [14:46:10] [Server thread/INFO]: hhhh_w was slain by Parzival5077
 [14:47:09] [Server thread/INFO]: [Not Secure] <hhhh_w> 我也要来玩
 [14:47:12] [Server thread/INFO]: [Parzival5077: Teleported hhhh_w to Parzival5077]
+[14:51:19] [Server thread/INFO]: Named entity class_1590['Dio Brando'/20408, l='ServerLevel[world]', x=12546.66, y=91.25, z=-296.62] died: Dio Brando was shot by hhhh_w
+[14:51:21] [Server thread/INFO]: hhhh_w was doomed to fall by Dio Brando
+[14:52:42] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu]]
