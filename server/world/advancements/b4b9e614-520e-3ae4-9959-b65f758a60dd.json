@@ -8729,5 +8729,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-10-03 02:35:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/globe": {
+    "criteria": {
+      "has_globe_sepia": "2024-10-03 02:35:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
