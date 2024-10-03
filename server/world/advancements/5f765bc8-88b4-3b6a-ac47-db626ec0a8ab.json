@@ -7479,6 +7479,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_dried_kelp": {
+    "criteria": {
+      "has_dried_kelp": "2024-10-03 15:29:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2024-10-03 14:55:52 +0000"
@@ -7551,6 +7557,12 @@
     },
     "done": true
   },
+  "create:deployer": {
+    "criteria": {
+      "0": "2024-10-03 15:26:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/hand_crank": {
     "criteria": {
       "has_item": "2024-10-03 14:55:52 +0000"
@@ -7590,6 +7602,12 @@
   "create:shifting_gears": {
     "criteria": {
       "0": "2024-10-03 15:15:19 +0000"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2024-10-03 15:30:25 +0000"
     },
     "done": true
   },
@@ -7644,6 +7662,12 @@
   "create:andesite_alloy": {
     "criteria": {
       "0": "2024-10-03 14:55:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2024-10-03 15:29:44 +0000"
     },
     "done": true
   },
@@ -7737,6 +7761,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-10-03 15:24:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
     "criteria": {
       "has_item": "2024-10-03 14:55:52 +0000"
@@ -7746,6 +7776,18 @@
   "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2024-10-03 14:55:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-10-03 15:24:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2024-10-03 15:29:44 +0000"
     },
     "done": true
   },

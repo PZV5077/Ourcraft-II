@@ -9412,6 +9412,18 @@
     },
     "done": true
   },
+  "create:deployer": {
+    "criteria": {
+      "0": "2024-10-03 15:24:11 +0000"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2024-10-03 15:28:46 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/misc/basin_foundry_lid": {
     "criteria": {
       "has_basin": "2024-10-03 15:23:06 +0000"

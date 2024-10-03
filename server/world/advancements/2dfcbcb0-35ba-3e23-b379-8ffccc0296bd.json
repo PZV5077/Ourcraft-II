@@ -194,7 +194,8 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "magnolia_log": "2024-09-30 11:23:46 +0000",
-      "pine_log": "2024-09-30 12:43:00 +0000"
+      "pine_log": "2024-09-30 12:43:00 +0000",
+      "redwood_log": "2024-10-03 15:29:20 +0000"
     },
     "done": false
   },
@@ -2534,7 +2535,8 @@
       "minecraft:spider": "2024-09-30 12:30:20 +0000",
       "minecraft:creeper": "2024-09-30 12:30:24 +0000",
       "minecraft:enderman": "2024-09-30 12:31:40 +0000",
-      "minecraft:zombie": "2024-09-30 12:11:53 +0000"
+      "minecraft:zombie": "2024-09-30 12:11:53 +0000",
+      "minecraft:zombie_villager": "2024-10-03 15:32:10 +0000"
     },
     "done": false
   },
@@ -4526,6 +4528,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-10-03 15:32:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_branch_from_redwood_log": {
+    "criteria": {
+      "has_log": "2024-10-03 15:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-10-03 15:32:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2024-10-03 15:08:23 +0000"
@@ -4556,9 +4576,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-10-03 15:32:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-10-03 15:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-10-03 15:32:58 +0000"
     },
     "done": true
   },
@@ -4589,6 +4621,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-10-03 15:08:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-10-03 15:23:35 +0000"
     },
     "done": true
   },
@@ -4634,6 +4672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-10-03 15:32:58 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/pine_shrub": {
     "criteria": {
       "has_pine_sapling": "2024-10-03 15:12:32 +0000"
@@ -4655,6 +4699,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-10-03 15:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-10-03 15:32:58 +0000"
     },
     "done": true
   },
@@ -4682,6 +4732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-10-03 15:32:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-10-03 14:56:02 +0000"
@@ -4706,6 +4762,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-10-03 15:32:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2024-10-03 15:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-10-03 15:32:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2024-10-03 14:56:02 +0000"
@@ -4718,9 +4792,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-10-03 15:23:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2024-10-03 15:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-10-03 15:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-10-03 15:32:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-10-03 15:22:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-10-03 15:32:58 +0000"
     },
     "done": true
   },
