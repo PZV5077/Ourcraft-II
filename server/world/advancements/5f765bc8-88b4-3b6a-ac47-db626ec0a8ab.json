@@ -7683,6 +7683,12 @@
     },
     "done": false
   },
+  "create:recipes/misc/crafting/kinetics/stressometerfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-10-03 15:22:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/clipboard": {
     "criteria": {
       "has_item": "2024-10-03 14:55:52 +0000"
