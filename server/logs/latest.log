@@ -1408,3 +1408,23 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 69 out of bounds for lengt
 [05:46:18] [Server thread/INFO]: [Parzival5077: Gave 1 [Gearbox] to Parzival5077]
 [05:46:19] [Server thread/INFO]: [Parzival5077: Gave 1 [Gearbox] to Parzival5077]
 [05:50:18] [Server thread/INFO]: [Parzival5077: Gave 1 [Water Wheel] to Parzival5077]
+[05:53:16] [Server thread/INFO]: [Parzival5077: Gave 16 [Oak Log] to Parzival5077]
+[05:53:46] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
+[05:53:46] [Server thread/INFO]: Parzival5077 left the game
+[05:53:55] [Server thread/INFO]: Parzival5077[/127.0.0.1:42984] logged in with entity id 80405 at (12547.680174130715, 63.0, -276.69280767236813)
+[05:53:55] [Server thread/INFO]: Parzival5077 joined the game
+[05:53:56] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05:53:56] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05:53:56] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05:53:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05:53:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05:53:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05:53:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[05:53:56] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[05:54:24] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[05:54:24] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[05:54:25] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[05:54:55] [Server thread/INFO]: [Parzival5077: Gave 2 [Campfire] to Parzival5077]
