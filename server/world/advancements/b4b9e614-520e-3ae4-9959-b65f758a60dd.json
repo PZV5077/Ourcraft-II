@@ -8724,6 +8724,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_smooth_stone_slab": "2024-10-03 02:47:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-10-03 02:47:11 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/warped_bed": {
     "criteria": {
       "has_warped_wool": "2024-10-03 02:39:37 +0000"

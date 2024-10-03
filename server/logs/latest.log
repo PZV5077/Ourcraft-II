@@ -1365,3 +1365,8 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 69 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[02:49:59] [Server thread/INFO]: [Parzival5077: Gave 1 [Fur Helmet] to Parzival5077]
+[02:50:01] [Server thread/INFO]: [Parzival5077: Gave 1 [Fur Chestplate] to Parzival5077]
+[02:50:02] [Server thread/INFO]: [Parzival5077: Gave 1 [Fur Leggings] to Parzival5077]
+[02:50:03] [Server thread/INFO]: [Parzival5077: Gave 1 [Fur Boots] to Parzival5077]
+[02:50:04] [Server thread/INFO]: Parzival5077 has completed the challenge [Thanks for your help]
