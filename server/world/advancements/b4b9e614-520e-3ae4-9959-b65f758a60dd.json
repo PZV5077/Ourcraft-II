@@ -8782,6 +8782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2024-10-03 03:59:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/large_cogwheel_from_little": {
     "criteria": {
       "has_item": "2024-10-03 03:38:41 +0000"
@@ -8917,6 +8923,12 @@
   "create:recipes/misc/crafting/kinetics/sticker": {
     "criteria": {
       "has_item": "2024-10-03 03:38:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2024-10-03 03:59:02 +0000"
     },
     "done": true
   },
@@ -9073,6 +9085,12 @@
   "createbigcannons:recipes/misc/big_cannon_sheet_inexpensive": {
     "criteria": {
       "has_inexpensive_big_cartridge_sheet": "2024-10-03 03:50:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2024-10-03 03:59:02 +0000"
     },
     "done": true
   },
