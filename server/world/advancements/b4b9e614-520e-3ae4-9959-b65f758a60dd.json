@@ -8372,6 +8372,7 @@
     "criteria": {
       "meadow:wooden_buffalo_milk_bucket": "2024-10-02 10:04:05 +0000",
       "meadow:wooden_milk_bucket": "2024-10-02 07:41:28 +0000",
+      "meadow:wooden_warped_milk_bucket": "2024-10-03 02:53:41 +0000",
       "meadow:wooden_goat_milk_bucket": "2024-10-02 09:58:57 +0000",
       "meadow:wooden_sheep_milk_bucket": "2024-10-02 10:18:36 +0000",
       "meadow:wooden_grain_milk_bucket": "2024-10-02 10:21:57 +0000"
@@ -8757,6 +8758,12 @@
   "meadow:recipes/warped_carpet": {
     "criteria": {
       "has_warped_wool": "2024-10-03 02:39:37 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/fur_armor": {
+    "criteria": {
+      "fur_armor": "2024-10-03 02:50:04 +0000"
     },
     "done": true
   },
