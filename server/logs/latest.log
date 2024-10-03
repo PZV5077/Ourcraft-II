@@ -1312,3 +1312,13 @@ io.netty.handler.timeout.ReadTimeoutException: null
 io.netty.handler.timeout.ReadTimeoutException: null
 [13:54:00] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[13:58:29] [Server thread/INFO]: Parzival5077[/127.0.0.1:38338] logged in with entity id 155 at (12558.407821259128, 62.0, -279.69999998807907)
+[13:58:29] [Server thread/INFO]: Parzival5077 joined the game
+[13:58:32] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[13:58:32] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[13:58:32] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[13:58:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[13:58:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[13:58:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[13:58:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[13:58:32] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
