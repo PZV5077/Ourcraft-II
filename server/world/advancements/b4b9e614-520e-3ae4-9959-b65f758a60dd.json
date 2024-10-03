@@ -8579,6 +8579,48 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-10-02 09:52:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-10-02 09:52:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-10-02 09:52:27 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/kill_buffalo": {
+    "criteria": {
+      "killed_buffalo": "2024-10-02 10:09:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-10-02 10:09:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2024-10-02 10:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-10-02 10:09:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-10-02 10:09:21 +0000"
@@ -8586,6 +8628,30 @@
     "done": true
   },
   "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-10-02 10:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-10-02 10:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-10-02 10:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-10-02 10:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-10-02 10:09:21 +0000"
     },
@@ -8603,63 +8669,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2024-10-02 10:09:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2024-10-02 09:52:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2024-10-02 10:09:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2024-10-02 10:09:21 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2024-10-02 09:52:27 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/farmersdelight/pie_crust": {
     "criteria": {
       "has_wheat": "2024-10-02 10:20:26 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/cheese_bread": {
-    "criteria": {
-      "has_bread": "2024-10-02 10:33:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2024-10-02 10:09:21 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
-    "criteria": {
-      "has_bread": "2024-10-02 10:33:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2024-10-02 10:09:21 +0000"
     },
     "done": true
   },
@@ -8681,12 +8693,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
-    "criteria": {
-      "has_any_ingredient": "2024-10-02 10:09:20 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2024-10-02 10:20:26 +0000"
@@ -8699,27 +8705,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2024-10-02 09:52:27 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/daub": {
     "criteria": {
       "supplementaries:straw": "2024-10-02 10:20:26 +0000"
     },
     "done": true
   },
-  "meadow:main/kill_buffalo": {
+  "meadow:recipes/cheese_bread": {
     "criteria": {
-      "killed_buffalo": "2024-10-02 10:09:16 +0000"
+      "has_bread": "2024-10-02 10:33:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
     "criteria": {
-      "has_beef": "2024-10-02 10:09:20 +0000"
+      "has_bread": "2024-10-02 10:33:08 +0000"
     },
     "done": true
   },

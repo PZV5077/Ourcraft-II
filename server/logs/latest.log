@@ -1314,3 +1314,7 @@ EdenBiomeSource (69aeea18)
 [02:25:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
 [02:25:53] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
 [02:25:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3853ms or 77 ticks behind
+[02:29:25] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 12516.000000, 64.000000, -297.000000]
+[02:29:27] [Server thread/INFO]: Parzival5077 suffocated in a wall
+[02:30:44] [Server thread/INFO]: [Parzival5077: Gave 1 [Lead] to Parzival5077]
+[02:32:19] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 12530.000000, 80.000000, -312.000000]
