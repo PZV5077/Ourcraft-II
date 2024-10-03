@@ -1382,3 +1382,5 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 69 out of bounds for lengt
 [03:28:59] [Server thread/INFO]: [Parzival5077: Gave 12 [Lantern] to Parzival5077]
 [03:36:08] [Server thread/INFO]: [Parzival5077: Gave 64 [Andesite] to Parzival5077]
 [03:37:15] [Server thread/INFO]: Parzival5077 fell from a high place
+[03:39:31] [Server thread/INFO]: [Parzival5077: Gave 64 [Oak Log] to Parzival5077]
+[03:40:26] [Server thread/INFO]: Parzival5077 has made the advancement [The Andesite Age]
