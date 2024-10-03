@@ -4029,7 +4029,8 @@
       "meadow:umbra_wool": "2024-10-01 13:25:41 +0000",
       "meadow:inky_wool": "2024-10-01 13:25:45 +0000",
       "meadow:patched_wool": "2024-09-25 10:23:20 +0000",
-      "meadow:highland_wool": "2024-10-01 13:31:16 +0000"
+      "meadow:highland_wool": "2024-10-01 13:31:16 +0000",
+      "meadow:warped_wool": "2024-10-03 02:39:37 +0000"
     },
     "done": false
   },
@@ -8723,6 +8724,12 @@
     },
     "done": true
   },
+  "meadow:recipes/warped_bed": {
+    "criteria": {
+      "has_warped_wool": "2024-10-03 02:39:37 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/climbing_rope_topmount": {
     "criteria": {
       "has_lead": "2024-10-03 02:30:44 +0000"
@@ -8732,6 +8739,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-10-03 02:35:38 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/warped_carpet": {
+    "criteria": {
+      "has_warped_wool": "2024-10-03 02:39:37 +0000"
     },
     "done": true
   },
