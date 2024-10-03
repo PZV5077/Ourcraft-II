@@ -7689,6 +7689,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2024-10-03 15:53:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2024-10-03 14:55:52 +0000"
@@ -7764,6 +7770,12 @@
   "create:recipes/misc/crafting/kinetics/speedometer": {
     "criteria": {
       "has_item": "2024-10-03 14:55:52 +0000"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2024-10-03 15:54:10 +0000"
     },
     "done": true
   },
@@ -7956,6 +7968,12 @@
   "create:recipes/misc/crafting/curiosities/brown_toolbox": {
     "criteria": {
       "has_item": "2024-10-03 14:57:39 +0000"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2024-10-03 15:57:41 +0000"
     },
     "done": true
   },
