@@ -1377,3 +1377,6 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 69 out of bounds for lengt
 [02:56:43] [Server thread/INFO]: Parzival5077 has completed the challenge [Cheese Lover]
 [02:56:43] [Server thread/INFO]: Parzival5077 has made the advancement [Your first Cheese]
 [03:02:08] [Server thread/INFO]: Parzival5077 fell from a high place
+[03:25:44] [Server thread/INFO]: [Parzival5077: Gave 1 [Light] to Parzival5077]
+[03:26:07] [Server thread/INFO]: [Parzival5077: Gave 12 [Lantern] to Parzival5077]
+[03:28:59] [Server thread/INFO]: [Parzival5077: Gave 12 [Lantern] to Parzival5077]
