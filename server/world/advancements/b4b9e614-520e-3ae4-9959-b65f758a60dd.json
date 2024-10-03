@@ -8836,6 +8836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-10-03 04:33:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_plough": {
     "criteria": {
       "has_item": "2024-10-03 03:40:31 +0000"
@@ -8941,6 +8947,12 @@
   "minecraft:recipes/decorations/light_blue_carpet": {
     "criteria": {
       "has_light_blue_wool": "2024-10-03 03:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-10-03 04:33:56 +0000"
     },
     "done": true
   },
@@ -9187,6 +9199,12 @@
   "create:recipes/misc/crafting/kinetics/contraption_controls": {
     "criteria": {
       "has_item": "2024-10-03 03:38:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2024-10-03 04:44:07 +0000"
     },
     "done": true
   },
