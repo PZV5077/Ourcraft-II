@@ -1328,3 +1328,6 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [14:06:24] [Server thread/INFO]: [Parzival5077: Gave 1 [Cogwheel] to Parzival5077]
 [14:07:00] [Server thread/INFO]: [Parzival5077: Gave 1 [Cogwheel] to Parzival5077]
 [14:07:00] [Server thread/INFO]: [Parzival5077: Gave 1 [Cogwheel] to Parzival5077]
+[14:11:02] [Server thread/INFO]: [Parzival5077: Gave 1 [Speedometer] to Parzival5077]
+[14:11:05] [Server thread/INFO]: [Parzival5077: Gave 1 [Stressometer] to Parzival5077]
+[14:12:11] [Server thread/INFO]: [Parzival5077: Gave 64 [Fluid Tank] to Parzival5077]
