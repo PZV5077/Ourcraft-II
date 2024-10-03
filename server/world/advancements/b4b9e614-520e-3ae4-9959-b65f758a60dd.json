@@ -9382,9 +9382,27 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/misc/cannon_welder_mirrored": {
+    "criteria": {
+      "has_blaze_burner": "2024-10-03 06:29:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2024-10-03 06:06:48 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2024-10-03 06:29:37 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/cannon_welder": {
+    "criteria": {
+      "has_blaze_burner": "2024-10-03 06:29:37 +0000"
     },
     "done": true
   },
