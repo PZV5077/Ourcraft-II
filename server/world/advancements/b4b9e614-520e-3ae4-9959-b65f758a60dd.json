@@ -8800,6 +8800,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2024-10-03 03:47:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/wooden_bracket": {
     "criteria": {
       "has_item": "2024-10-03 03:38:41 +0000"
@@ -8809,6 +8815,12 @@
   "create:recipes/misc/crafting/kinetics/weighted_ejector": {
     "criteria": {
       "has_item": "2024-10-03 03:40:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_item": "2024-10-03 03:45:18 +0000"
     },
     "done": true
   },
@@ -8920,6 +8932,12 @@
     },
     "done": true
   },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2024-10-03 03:48:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/goggles": {
     "criteria": {
       "has_item": "2024-10-03 03:38:41 +0000"
@@ -8971,6 +8989,12 @@
   "create:andesite_alloy": {
     "criteria": {
       "0": "2024-10-03 03:38:41 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2024-10-03 03:48:54 +0000"
     },
     "done": true
   },
