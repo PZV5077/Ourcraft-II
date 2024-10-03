@@ -8723,5 +8723,11 @@
     },
     "done": true
   },
+  "meadow:recipes/climbing_rope_topmount": {
+    "criteria": {
+      "has_lead": "2024-10-03 02:30:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
