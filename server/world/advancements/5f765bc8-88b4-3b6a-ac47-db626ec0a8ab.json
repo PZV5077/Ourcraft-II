@@ -8008,6 +8008,30 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/misc/cannon_welder_mirrored": {
+    "criteria": {
+      "has_blaze_burner": "2024-10-03 16:11:10 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2024-10-03 16:11:10 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/cannon_welder": {
+    "criteria": {
+      "has_blaze_burner": "2024-10-03 16:11:10 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2024-10-03 16:16:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/elevator_pulley": {
     "criteria": {
       "has_item": "2024-10-03 16:16:16 +0000"
@@ -8020,27 +8044,9 @@
     },
     "done": true
   },
-  "create:mechanical_mixer": {
-    "criteria": {
-      "0": "2024-10-03 16:16:15 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/logistics/brass_tunnel": {
     "criteria": {
       "has_item": "2024-10-03 16:16:16 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/larch_hanging_sign": {
-    "criteria": {
-      "has_stripped_larch_log": "2024-10-03 16:26:18 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
-    "criteria": {
-      "has_polished_rose_quartz": "2024-10-03 16:22:21 +0000"
     },
     "done": true
   },
@@ -8050,21 +8056,9 @@
     },
     "done": true
   },
-  "createbigcannons:recipes/misc/cannon_welder_mirrored": {
-    "criteria": {
-      "has_blaze_burner": "2024-10-03 16:11:10 +0000"
-    },
-    "done": true
-  },
   "create:brass": {
     "criteria": {
       "0": "2024-10-03 16:16:16 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/deployer": {
-    "criteria": {
-      "has_item": "2024-10-03 16:23:11 +0000"
     },
     "done": true
   },
@@ -8086,48 +8080,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/present": {
-    "criteria": {
-      "has_paper": "2024-10-03 16:21:25 +0000"
-    },
-    "done": true
-  },
-  "create:burner": {
-    "criteria": {
-      "0": "2024-10-03 16:11:10 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/electron_tube": {
-    "criteria": {
-      "has_item": "2024-10-03 16:21:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2024-10-03 16:21:25 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
-    "criteria": {
-      "has_item": "2024-10-03 16:21:25 +0000"
-    },
-    "done": true
-  },
-  "create:rose_quartz": {
-    "criteria": {
-      "0": "2024-10-03 16:22:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/empty_schematic": {
-    "criteria": {
-      "has_item": "2024-10-03 16:21:25 +0000"
-    },
-    "done": true
-  },
   "create:recipes/decorations/brass_scaffolding_from_brass_ingots_stonecutting": {
     "criteria": {
       "has_brass_ingots": "2024-10-03 16:16:16 +0000"
@@ -8140,39 +8092,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/stripped_larch_wood": {
-    "criteria": {
-      "has_log": "2024-10-03 16:26:18 +0000"
-    },
-    "done": true
-  },
-  "createbigcannons:recipes/misc/cannon_welder": {
-    "criteria": {
-      "has_blaze_burner": "2024-10-03 16:11:10 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/sand_paper": {
-    "criteria": {
-      "has_item": "2024-10-03 16:21:25 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/red_sand_paper": {
-    "criteria": {
-      "has_item": "2024-10-03 16:21:25 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/brass_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2024-10-03 16:16:16 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
-    "criteria": {
-      "has_rose_quartz": "2024-10-03 16:21:15 +0000"
     },
     "done": true
   },
@@ -8188,15 +8110,57 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
-    "criteria": {
-      "has_polished_rose_quartz": "2024-10-03 16:22:21 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/curiosities/peculiar_bell": {
     "criteria": {
       "has_item": "2024-10-03 16:16:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_item": "2024-10-03 16:21:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_rose_quartz": "2024-10-03 16:21:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2024-10-03 16:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-10-03 16:21:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-10-03 16:21:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2024-10-03 16:21:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2024-10-03 16:21:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2024-10-03 16:21:25 +0000"
     },
     "done": true
   },
@@ -8206,15 +8170,51 @@
     },
     "done": true
   },
-  "createbigcannons:recipes/misc/big_cartridge_sheet": {
+  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
     "criteria": {
-      "has_brass_sheet": "2024-10-03 16:24:07 +0000"
+      "has_polished_rose_quartz": "2024-10-03 16:22:21 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2024-10-03 16:22:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2024-10-03 16:22:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2024-10-03 16:23:11 +0000"
     },
     "done": true
   },
   "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
     "criteria": {
       "has_item": "2024-10-03 16:23:11 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/big_cartridge_sheet": {
+    "criteria": {
+      "has_brass_sheet": "2024-10-03 16:24:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_hanging_sign": {
+    "criteria": {
+      "has_stripped_larch_log": "2024-10-03 16:26:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stripped_larch_wood": {
+    "criteria": {
+      "has_log": "2024-10-03 16:26:18 +0000"
     },
     "done": true
   },
