@@ -1300,3 +1300,13 @@ io.netty.handler.timeout.ReadTimeoutException: null
 io.netty.handler.timeout.ReadTimeoutException: null
 [04:19:48] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[04:24:02] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 12553.000000, 63.000000, -291.000000]
+[04:25:44] [Server thread/INFO]: Parzival5077 was blown up by Creeper
+[04:26:42] [Server thread/INFO]: Villager class_1646['Villager'/1, l='ServerLevel[world]', x=15795.48, y=117.00, z=935.23] died, message: 'Villager was killed'
+[04:26:42] [Server thread/INFO]: Villager class_1646['Villager'/2, l='ServerLevel[world]', x=15717.70, y=90.00, z=913.47] died, message: 'Villager was killed'
+[04:26:42] [Server thread/INFO]: Villager class_1646['Villager'/11, l='ServerLevel[world]', x=15823.19, y=123.00, z=958.21] died, message: 'Villager was killed'
+[04:26:42] [Server thread/INFO]: Villager class_1646['Botanist'/14, l='ServerLevel[world]', x=15805.82, y=115.00, z=910.82] died, message: 'Botanist was killed'
+[04:26:42] [Server thread/INFO]: Villager class_1646['Villager'/18, l='ServerLevel[world]', x=15669.46, y=98.00, z=877.70] died, message: 'Villager was killed'
+[04:26:42] [Server thread/INFO]: Named entity class_1590['Jotaro Kujo (Part 6)'/198, l='ServerLevel[world]', x=12557.16, y=94.00, z=-303.00] died: Jotaro Kujo (Part 6) was killed
+[04:26:42] [Server thread/INFO]: Parzival5077 was killed
+[04:26:42] [Server thread/INFO]: [Parzival5077: Killed 700 entities]
