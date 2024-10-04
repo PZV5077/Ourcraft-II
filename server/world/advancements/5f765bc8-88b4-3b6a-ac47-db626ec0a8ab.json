@@ -8309,6 +8309,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-10-04 14:17:04 +0000"
+    },
+    "done": true
+  },
   "create:millstone": {
     "criteria": {
       "0": "2024-10-04 13:27:26 +0000"
@@ -8438,6 +8444,12 @@
   "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
     "criteria": {
       "has_item": "2024-10-04 13:45:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-10-04 14:17:04 +0000"
     },
     "done": true
   },
