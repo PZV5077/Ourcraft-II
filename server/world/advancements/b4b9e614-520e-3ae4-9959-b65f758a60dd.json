@@ -9437,6 +9437,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2024-10-04 07:52:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_dried_kelp": {
+    "criteria": {
+      "has_dried_kelp": "2024-10-04 07:54:33 +0000"
+    },
+    "done": true
+  },
   "create:glass_pipe": {
     "criteria": {
       "0": "2024-10-04 07:04:19 +0000"
@@ -9449,9 +9461,51 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2024-10-04 07:52:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2024-10-04 04:59:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_hanging_sign": {
+    "criteria": {
+      "has_stripped_larch_log": "2024-10-04 07:52:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-10-04 07:53:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2024-10-04 07:52:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-10-04 07:53:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2024-10-04 07:54:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-10-04 07:53:23 +0000"
     },
     "done": true
   },
@@ -9476,6 +9530,24 @@
   "create:stressometer_maxed": {
     "criteria": {
       "0": "2024-10-04 05:02:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stripped_larch_wood": {
+    "criteria": {
+      "has_log": "2024-10-04 07:52:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2024-10-04 07:52:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2024-10-04 07:54:33 +0000"
     },
     "done": true
   },
