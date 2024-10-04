@@ -1347,3 +1347,5 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [05:47:24] [Server thread/INFO]: [Parzival5077: Gave 1 [Fluid Tank] to Parzival5077]
 [05:47:24] [Server thread/INFO]: [Parzival5077: Gave 1 [Fluid Tank] to Parzival5077]
 [05:47:25] [Server thread/INFO]: [Parzival5077: Gave 1 [Fluid Tank] to Parzival5077]
+[05:58:26] [Server thread/INFO]: [Parzival5077: Gave 64 [Block of Coal] to Parzival5077]
+[06:00:16] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 12596.000000, 63.000000, -285.000000]
