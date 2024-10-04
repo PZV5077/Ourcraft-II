@@ -1393,3 +1393,5 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [06:40:34] [Server thread/INFO]: [Parzival5077: Gave 1 [Fluid Pipe] to Parzival5077]
 [06:40:34] [Server thread/INFO]: [Parzival5077: Gave 1 [Fluid Pipe] to Parzival5077]
 [06:40:35] [Server thread/INFO]: [Parzival5077: Gave 60 [Fluid Pipe] to Parzival5077]
+[06:42:37] [Server thread/INFO]: [Parzival5077: Gave 1 [Fluid Valve] to Parzival5077]
+[06:43:39] [Server thread/INFO]: [Parzival5077: Gave 1 [Red Valve Handle] to Parzival5077]
