@@ -9454,6 +9454,12 @@
     },
     "done": true
   },
+  "create:stressometer_maxed": {
+    "criteria": {
+      "0": "2024-10-04 05:02:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2024-10-04 04:59:18 +0000"
