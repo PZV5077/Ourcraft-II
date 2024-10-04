@@ -9473,6 +9473,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sugar_cube_uncrafting": {
+    "criteria": {
+      "has_sugar_cube": "2024-10-04 08:12:07 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/larch_hanging_sign": {
     "criteria": {
       "has_stripped_larch_log": "2024-10-04 07:52:37 +0000"
