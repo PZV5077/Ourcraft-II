@@ -1279,3 +1279,15 @@ EdenBiomeSource (5a8b8bbd)
 [02:36:34] [Worker-Main-1/INFO]: Preparing spawn area: 32%
 [02:36:34] [Server thread/INFO]: Time elapsed: 4948 ms
 [02:36:34] [Server thread/INFO]: Done (8.464s)! For help, type "help"
+[03:54:09] [Server thread/INFO]: Parzival5077[/127.0.0.1:41898] logged in with entity id 152 at (12565.811607892876, 57.0, -297.4872253427774)
+[03:54:09] [Server thread/INFO]: Parzival5077 joined the game
+[03:54:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3598ms or 71 ticks behind
+[03:54:12] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:54:12] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:54:12] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:54:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:54:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:54:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:54:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[03:54:12] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[03:55:35] [Server thread/INFO]: [Parzival5077: Gave 64 [Cobblestone Stairs] to Parzival5077]
