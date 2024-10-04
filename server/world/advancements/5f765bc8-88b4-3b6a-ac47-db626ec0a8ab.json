@@ -7722,9 +7722,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
+      "0": "2024-10-04 14:01:27 +0000",
       "1": "2024-10-03 14:57:55 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/misc/crafting/kinetics/gearbox": {
     "criteria": {
@@ -8260,6 +8261,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2024-10-04 13:58:56 +0000"
+    },
+    "done": true
+  },
   "create:brass_casing": {
     "criteria": {
       "0": "2024-10-04 13:44:55 +0000"
@@ -8287,6 +8294,12 @@
   "create:recipes/misc/crafting/logistics/redstone_contact": {
     "criteria": {
       "has_item": "2024-10-04 13:45:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2024-10-04 14:00:14 +0000"
     },
     "done": true
   },
