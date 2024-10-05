@@ -11195,3 +11195,26 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [12:42:00] [Server thread/INFO]: [Parzival5077: Gave 64 [Train Track] to Parzival5077]
 [12:42:02] [Server thread/INFO]: [Parzival5077: Gave 1 [Train Casing] to Parzival5077]
 [12:42:02] [Server thread/INFO]: [Parzival5077: Gave 63 [Train Casing] to Parzival5077]
+[12:42:25] [Server thread/INFO]: [Not Secure] <Parzival5077> did you made it?
+[12:42:32] [Server thread/INFO]: [Not Secure] <hhhh_w> studying
+[12:42:32] [Server thread/INFO]: Parzival5077 fell from a high place
+[12:42:38] [Server thread/INFO]: [Not Secure] <hhhh_w> I can make it by hand
+[12:42:48] [Server thread/INFO]: [Not Secure] <Parzival5077> give me some
+[12:42:54] [Server thread/INFO]: [Not Secure] <hhhh_w> not yet
+[12:44:52] [Server thread/INFO]: [Not Secure] <Parzival5077> iron
+[12:45:07] [Server thread/INFO]: [Not Secure] <hhhh_w> 锌粒吧
+[12:45:08] [Server thread/INFO]: Parzival5077 has made the advancement [Is It Time?]
+[12:45:10] [Server thread/INFO]: [Not Secure] <hhhh_w> pianyi
+[12:45:43] [Server thread/INFO]: hhhh_w lost connection: Timed out
+[12:45:43] [Server thread/INFO]: hhhh_w left the game
+[12:45:53] [Server thread/INFO]: hhhh_w[/127.0.0.1:45268] logged in with entity id 870114 at (12568.450523795322, 57.0, -300.73119969614686)
+[12:45:53] [Server thread/INFO]: hhhh_w joined the game
+[12:45:54] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[12:45:54] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[12:45:54] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[12:45:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[12:45:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[12:45:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[12:45:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[12:45:54] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[12:46:35] [Server thread/INFO]: [Not Secure] <hhhh_w> let me done this

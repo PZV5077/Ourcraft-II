@@ -9695,6 +9695,12 @@
     },
     "done": true
   },
+  "create:cuckoo_clock": {
+    "criteria": {
+      "0": "2024-10-05 12:45:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2024-10-05 11:34:00 +0000"
