@@ -1300,3 +1300,13 @@ EdenBiomeSource (1e69de1e)
 [10:36:18] [Worker-Main-1/INFO]: Preparing spawn area: 81%
 [10:36:18] [Server thread/INFO]: Time elapsed: 7210 ms
 [10:36:18] [Server thread/INFO]: Done (13.150s)! For help, type "help"
+[10:40:29] [Server thread/INFO]: Mei4o[/127.0.0.1:35160] logged in with entity id 157 at (11984.480530012817, 71.0, -602.8796878527648)
+[10:40:29] [Server thread/INFO]: Mei4o joined the game
+[10:40:31] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[10:40:31] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[10:40:31] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[10:40:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[10:40:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[10:40:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[10:40:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[10:40:31] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
