@@ -1354,3 +1354,6 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [11:32:43] [Server thread/INFO]: [Parzival5077: Set own game mode to Creative Mode]
 [11:33:27] [Server thread/INFO]: [Parzival5077: Set own game mode to Survival Mode]
 [11:33:55] [Server thread/INFO]: Named entity class_1590['Jotaro Kujo (Part 6)'/133433, l='ServerLevel[world]', x=12556.06, y=95.14, z=-301.96] died: Jotaro Kujo (Part 6) was shot by Parzival5077
+[11:36:41] [Server thread/INFO]: [Parzival5077: Gave 1 [Nixie Tube] to Parzival5077]
+[11:37:56] [Server thread/INFO]: [Parzival5077: Gave 12 [Glass] to Parzival5077]
+[11:40:32] [Server thread/INFO]: Parzival5077 fell from a high place
