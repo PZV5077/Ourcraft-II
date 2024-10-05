@@ -1360,3 +1360,13 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [11:43:28] [Server thread/INFO]: [Parzival5077: Set own game mode to Creative Mode]
 [11:48:07] [Server thread/INFO]: [Parzival5077: Set own game mode to Survival Mode]
 [11:55:41] [Server thread/INFO]: Parzival5077 fell from a high place
+[11:56:37] [Server thread/INFO]: hhhh_w[/127.0.0.1:39392] logged in with entity id 462885 at (12572.549509577128, 63.0, -289.9447063567662)
+[11:56:37] [Server thread/INFO]: hhhh_w joined the game
+[11:56:44] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[11:56:44] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[11:56:44] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[11:56:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[11:56:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[11:56:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[11:56:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[11:56:44] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
