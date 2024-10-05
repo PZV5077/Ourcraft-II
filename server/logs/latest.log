@@ -1312,3 +1312,7 @@ EdenBiomeSource (1e69de1e)
 [10:40:31] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
 [10:49:42] [Server thread/INFO]: Mei4o fell from a high place
 [10:50:44] [Server thread/INFO]: Mei4o was slain by Zombie
+[10:56:11] [Server thread/INFO]: Mei4o was slain by Zombie
+[10:56:11] [Server thread/INFO]: Named entity class_3989['Sheer Heart Attack'/72344, l='ServerLevel[world]', x=12018.15, y=73.10, z=-602.30] died: Sheer Heart Attack was killed
+[10:56:31] [Server thread/INFO]: Named entity class_3989['Sheer Heart Attack'/76281, l='ServerLevel[world]', x=12009.38, y=-70.00, z=-602.85] died: Sheer Heart Attack was killed
+[10:56:46] [Server thread/INFO]: Mei4o was blown up by Creeper
