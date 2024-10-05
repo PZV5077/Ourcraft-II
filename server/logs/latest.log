@@ -1385,3 +1385,17 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [12:11:07] [Server thread/INFO]: [Not Secure] <hhhh_w> I checked
 [12:11:09] [Server thread/INFO]: [Not Secure] <Parzival5077> well no then
 [12:16:11] [Server thread/INFO]: Parzival5077 tried to swim in lava
+[12:19:11] [Server thread/WARN]: hhhh_w moved wrongly!
+[12:19:21] [Server thread/INFO]: hhhh_w was slain by Diavolo
+[12:20:00] [Server thread/WARN]: hhhh_w moved wrongly!
+[12:20:03] [Server thread/INFO]: hhhh_w was slain by Diavolo
+[12:20:11] [Server thread/INFO]: Named entity class_1590['Diavolo'/678446, l='ServerLevel[world]', x=12553.47, y=98.71, z=-296.30] died: Diavolo was shot by hhhh_w
+[12:20:35] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu]]
+[12:20:37] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu] (set value to 357)]
+[12:20:47] [Server thread/INFO]: hhhh_w has made the advancement [Another one bites the dust]
+[12:20:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3815ms or 76 ticks behind
+[12:21:01] [Server thread/INFO]: [Not Secure] <Parzival5077> .....
+[12:21:03] [Server thread/INFO]: [Not Secure] <Parzival5077> shit
+[12:21:07] [Server thread/INFO]: [Not Secure] <hhhh_w> ?
+[12:21:19] [Server thread/INFO]: [Not Secure] <Parzival5077> the blood time goes backward
+[12:21:35] [Server thread/INFO]: [Not Secure] <hhhh_w> yeah

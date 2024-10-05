@@ -3167,6 +3167,7 @@
   "meadow:main/wool_collector": {
     "criteria": {
       "meadow:umbra_wool": "2024-09-26 04:00:05 +0000",
+      "meadow:inky_wool": "2024-10-05 12:19:27 +0000",
       "meadow:highland_wool": "2024-09-26 04:00:28 +0000"
     },
     "done": false
@@ -8495,9 +8496,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-10-05 12:19:27 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/killer_queen/bites_the_dust": {
+    "criteria": {
+      "requirement": "2024-10-05 12:20:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2024-10-05 12:11:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2024-10-05 12:20:04 +0000"
     },
     "done": true
   },
@@ -8507,9 +8526,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-10-05 12:20:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-10-05 12:19:27 +0000"
+    },
+    "done": true
+  },
+  "beautify:frames": {
+    "criteria": {
+      "requirement": "2024-10-05 12:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-10-05 12:20:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/copper_ingot": {
     "criteria": {
       "has_item": "2024-10-05 12:11:28 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/get_bites_the_dust": {
+    "criteria": {
+      "requirement": "2024-10-05 12:20:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2024-10-05 12:20:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-10-05 12:19:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-10-05 12:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-10-05 12:19:27 +0000"
     },
     "done": true
   },
