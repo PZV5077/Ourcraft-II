@@ -9587,6 +9587,18 @@
     },
     "done": true
   },
+  "create:display_link": {
+    "criteria": {
+      "0": "2024-10-04 13:45:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2024-10-04 14:22:27 +0000"
+    },
+    "done": true
+  },
   "create:mechanical_crafter": {
     "criteria": {
       "0": "2024-10-04 14:24:47 +0000"
@@ -9599,21 +9611,9 @@
     },
     "done": true
   },
-  "create:display_link": {
-    "criteria": {
-      "0": "2024-10-04 13:45:06 +0000"
-    },
-    "done": true
-  },
   "create:mechanical_arm": {
     "criteria": {
       "0": "2024-10-04 14:41:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
-    "criteria": {
-      "has_item": "2024-10-04 14:22:27 +0000"
     },
     "done": true
   },

@@ -1319,3 +1319,32 @@ EdenBiomeSource (1e69de1e)
 [11:10:20] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
 [11:10:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@2a9de0fe[id=<null>,name=Parzival5077,properties={},legacy=false] (/127.0.0.1:53524) lost connection: Timed out
+[11:11:00] [Server thread/INFO]: Parzival5077[/127.0.0.1:47902] logged in with entity id 133417 at (12562.560338904876, 63.0, -287.2442486217017)
+[11:11:00] [Server thread/INFO]: Parzival5077 joined the game
+[11:11:05] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[11:11:05] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[11:11:05] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[11:11:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[11:11:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[11:11:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[11:11:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[11:11:05] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[11:12:51] [Server thread/INFO]: [Not Secure] <Parzival5077> haloha
+[11:14:52] [Server thread/INFO]: [Not Secure] <Mei4o> .
+[11:15:08] [Server thread/INFO]: Mei4o fell from a high place
+[11:15:27] [Server thread/INFO]: Mei4o fell from a high place
+[11:16:25] [Server thread/INFO]: Mei4o was doomed to fall by Skeleton
+[11:16:48] [Server thread/INFO]: Mei4o fell from a high place
+[11:19:46] [Server thread/INFO]: Mei4o drowned
+[11:21:12] [Server thread/INFO]: Mei4o lost connection: Disconnected
+[11:21:12] [Server thread/INFO]: Mei4o left the game
+[11:22:29] [Server thread/INFO]: Mei4o[/127.0.0.1:57866] logged in with entity id 165764 at (11943.655331244026, 72.0, -600.7533387363242)
+[11:22:29] [Server thread/INFO]: Mei4o joined the game
+[11:22:32] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[11:22:32] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[11:22:32] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[11:22:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[11:22:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[11:22:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[11:22:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[11:22:32] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
