@@ -1357,3 +1357,4 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [11:36:41] [Server thread/INFO]: [Parzival5077: Gave 1 [Nixie Tube] to Parzival5077]
 [11:37:56] [Server thread/INFO]: [Parzival5077: Gave 12 [Glass] to Parzival5077]
 [11:40:32] [Server thread/INFO]: Parzival5077 fell from a high place
+[11:43:28] [Server thread/INFO]: [Parzival5077: Set own game mode to Creative Mode]
