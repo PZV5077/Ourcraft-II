@@ -9659,6 +9659,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/track_observer": {
+    "criteria": {
+      "has_item": "2024-10-05 13:14:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/train_trapdoor": {
+    "criteria": {
+      "has_item": "2024-10-05 13:14:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
       "has_logs": "2024-10-05 12:09:05 +0000"
@@ -9683,6 +9695,24 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/track_station": {
+    "criteria": {
+      "has_item": "2024-10-05 13:14:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/train_door": {
+    "criteria": {
+      "has_item": "2024-10-05 13:14:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_signal": {
+    "criteria": {
+      "has_item": "2024-10-05 13:14:19 +0000"
+    },
+    "done": true
+  },
   "beautify:frames": {
     "criteria": {
       "requirement": "2024-10-05 11:34:00 +0000"
@@ -9695,9 +9725,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/controls": {
+    "criteria": {
+      "has_item": "2024-10-05 13:14:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2024-10-05 11:34:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_observer_from_other_plates": {
+    "criteria": {
+      "has_item": "2024-10-05 13:14:19 +0000"
     },
     "done": true
   },
