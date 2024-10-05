@@ -90,6 +90,7 @@
       "minecraft:skeleton": "2024-09-25 10:12:53 +0000",
       "minecraft:hoglin": "2024-10-01 14:17:59 +0000",
       "minecraft:spider": "2024-09-25 09:13:57 +0000",
+      "minecraft:piglin_brute": "2024-10-05 14:24:30 +0000",
       "minecraft:creeper": "2024-09-25 10:24:38 +0000",
       "minecraft:zombified_piglin": "2024-09-26 04:49:56 +0000",
       "minecraft:cave_spider": "2024-09-30 14:21:23 +0000",
@@ -8026,6 +8027,54 @@
   "beautify:bookstack": {
     "criteria": {
       "requirement": "2024-10-01 14:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-10-05 14:24:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-10-05 14:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-10-05 14:24:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-10-05 14:24:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-10-05 14:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-10-05 14:24:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-10-05 14:24:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-10-05 14:25:00 +0000"
     },
     "done": true
   },
