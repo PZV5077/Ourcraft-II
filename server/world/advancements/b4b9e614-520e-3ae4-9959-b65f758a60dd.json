@@ -9707,6 +9707,12 @@
     },
     "done": true
   },
+  "create:train": {
+    "criteria": {
+      "0": "2024-10-05 13:22:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/train_door": {
     "criteria": {
       "has_item": "2024-10-05 13:14:19 +0000"
