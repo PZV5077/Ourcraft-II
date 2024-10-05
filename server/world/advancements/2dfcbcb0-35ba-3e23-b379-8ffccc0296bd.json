@@ -195,7 +195,8 @@
     "criteria": {
       "magnolia_log": "2024-09-30 11:23:46 +0000",
       "pine_log": "2024-09-30 12:43:00 +0000",
-      "redwood_log": "2024-10-03 15:29:20 +0000"
+      "redwood_log": "2024-10-03 15:29:20 +0000",
+      "maple_log": "2024-10-05 10:46:28 +0000"
     },
     "done": false
   },
@@ -4873,6 +4874,42 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-10-03 15:46:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
+    "criteria": {
+      "has_log": "2024-10-05 10:46:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_shrub": {
+    "criteria": {
+      "has_birch_sapling": "2024-10-05 10:48:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2024-10-05 10:46:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2024-10-05 10:46:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2024-10-05 10:46:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/purple_dye_from_purple_coneflower": {
+    "criteria": {
+      "has_purple_coneflower": "2024-10-05 10:46:43 +0000"
     },
     "done": true
   },
