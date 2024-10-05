@@ -9653,6 +9653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2024-10-05 12:09:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2024-10-05 11:34:00 +0000"
@@ -9674,6 +9680,12 @@
   "beautify:frames": {
     "criteria": {
       "requirement": "2024-10-05 11:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2024-10-05 12:09:05 +0000"
     },
     "done": true
   },
