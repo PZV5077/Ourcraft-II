@@ -8604,12 +8604,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_petals": {
-    "criteria": {
-      "has_pink_petals": "2024-10-05 12:47:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2024-10-05 12:46:21 +0000"
@@ -8622,21 +8616,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
+    "criteria": {
+      "has_log": "2024-10-05 12:46:21 +0000"
+    },
+    "done": true
+  },
   "create:track_0": {
     "criteria": {
       "0": "2024-10-05 12:46:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2024-10-05 12:47:20 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
-      "has_log": "2024-10-05 12:46:21 +0000"
+      "has_pink_petals": "2024-10-05 12:47:20 +0000"
     },
     "done": true
   },
