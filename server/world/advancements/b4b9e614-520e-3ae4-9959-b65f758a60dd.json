@@ -9617,5 +9617,11 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mysterious_cuckoo_clock": {
+    "criteria": {
+      "has_item": "2024-10-05 11:27:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
