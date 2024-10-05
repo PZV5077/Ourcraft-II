@@ -8646,6 +8646,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
+    "criteria": {
+      "has_lily_pad": "2024-10-05 13:17:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "pufferfish": "2024-10-05 13:07:56 +0000"
