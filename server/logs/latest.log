@@ -11218,3 +11218,5 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [12:45:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
 [12:45:54] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
 [12:46:35] [Server thread/INFO]: [Not Secure] <hhhh_w> let me done this
+[12:51:02] [Server thread/INFO]: [Parzival5077: Gave 1 [Depot] to Parzival5077]
+[12:51:10] [Server thread/INFO]: [Parzival5077: Gave 1 [Mechanical Press] to Parzival5077]
