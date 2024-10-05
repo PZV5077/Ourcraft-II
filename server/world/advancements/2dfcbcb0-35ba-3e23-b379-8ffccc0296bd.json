@@ -151,6 +151,7 @@
     "criteria": {
       "minecraft:cherry_grove": "2024-09-30 11:21:51 +0000",
       "minecraft:river": "2024-10-01 14:44:38 +0000",
+      "minecraft:lukewarm_ocean": "2024-10-05 11:02:26 +0000",
       "minecraft:stony_shore": "2024-09-30 12:14:19 +0000"
     },
     "done": false
@@ -4877,6 +4878,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-10-05 11:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-10-05 11:03:02 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
     "criteria": {
       "has_log": "2024-10-05 10:46:28 +0000"
@@ -4910,6 +4923,18 @@
   "regions_unexplored:recipes/misc/purple_dye_from_purple_coneflower": {
     "criteria": {
       "has_purple_coneflower": "2024-10-05 10:46:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-10-05 11:03:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-10-05 11:03:02 +0000"
     },
     "done": true
   },
