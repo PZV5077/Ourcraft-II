@@ -1321,3 +1321,16 @@ EdenBiomeSource (7f888ef3)
 [08:19:00] [Server thread/INFO]: Parzival5077 was processed by Crushing Wheels
 [08:19:16] [Server thread/INFO]: Parzival5077 lost connection: Timed out
 [08:19:16] [Server thread/INFO]: Parzival5077 left the game
+[08:19:45] [Server thread/INFO]: Parzival5077[/127.0.0.1:60886] logged in with entity id 20538 at (12578.12400786575, 104.0, -288.6315233750746)
+[08:19:45] [Server thread/INFO]: Parzival5077 joined the game
+[08:19:46] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[08:19:46] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[08:19:46] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[08:19:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[08:19:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[08:19:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[08:19:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[08:19:46] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[08:20:13] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[08:24:28] [Server thread/INFO]: Parzival5077 was processed by Crushing Wheels
