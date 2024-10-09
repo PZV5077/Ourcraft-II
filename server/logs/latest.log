@@ -1903,3 +1903,71 @@ java.lang.NullPointerException: null
 [12:14:16] [Server thread/INFO]: Parzival5077 was slain by AwaKING using [The World]
 [12:18:37] [Server thread/INFO]: [Parzival5077: Teleported AwaKING to Parzival5077]
 [12:18:47] [Server thread/INFO]: [Parzival5077: Gave 42 [Gunpowder] to Parzival5077]
+[12:22:16] [Server thread/INFO]: Parzival5077 lost connection: Timed out
+[12:22:16] [Server thread/INFO]: Parzival5077 left the game
+[12:22:54] [Server thread/INFO]: Parzival5077[/127.0.0.1:34406] logged in with entity id 273947 at (12592.639264831709, 64.0, -357.0376922832537)
+[12:22:54] [Server thread/INFO]: Parzival5077 joined the game
+[12:22:55] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[12:22:55] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[12:22:55] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[12:22:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[12:22:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[12:22:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[12:22:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[12:22:55] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[12:23:24] [Server thread/INFO]: Mei4o fell from a high place
+[12:23:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[12:23:36] [Server thread/WARN]: Mei4o moved too quickly! 9.927380280636498,-2.024424088213692,-1.841828786554288
+[12:23:36] [Server thread/WARN]: jjjjjasper moved too quickly! 8.656734344682263,-1.0,5.130820742675496
+[12:24:53] [Server thread/INFO]: jjjjjasper was shot by Skeleton
+[12:25:44] [Server thread/INFO]: [Parzival5077: Teleported jjjjjasper to Parzival5077]
+[12:27:01] [Server thread/INFO]: Parzival5077 was shot by Skeleton
+[12:27:24] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 14038.000000, 72.000000, -251.000000]
+[12:27:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[12:27:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3301ms or 66 ticks behind
+[12:27:55] [Server thread/INFO]: Parzival5077 lost connection: Timed out
+[12:27:55] [Server thread/INFO]: Parzival5077 left the game
+[12:29:23] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:46324] logged in with entity id 334613 at (15463.275028676833, -9.0, -61.1956877003834)
+[12:29:23] [Server thread/INFO]: Littlebugs404_ joined the game
+[12:29:24] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[12:29:24] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[12:29:24] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[12:29:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[12:29:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[12:29:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[12:29:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[12:29:24] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[12:30:07] [Server thread/INFO]: Littlebugs404_ was blown up by Creeper
+[12:30:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[12:30:27] [Server thread/INFO]: jjjjjasper was shot by AwaKING
+[12:30:39] [Server thread/INFO]: [STDOUT]: Negative index in crash report handler (0/6)
+[12:30:39] [Server thread/ERROR]: Encountered an unexpected exception
+net.minecraft.class_148: Exception ticking world
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:901) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NullPointerException
+[12:30:39] [Server thread/ERROR]: This crash report has been saved to: /workspaces/Ourcraft-II/server/./crash-reports/crash-2024-10-09_12.30.39-server.txt
+[12:30:39] [Server thread/INFO]: Stopping server
+[12:30:39] [Server thread/INFO]: Saving players
+[12:30:39] [Server thread/INFO]: Mei4o lost connection: Server closed
+[12:30:39] [Server thread/INFO]: Mei4o left the game
+[12:30:39] [Server thread/INFO]: jjjjjasper lost connection: Server closed
+[12:30:39] [Server thread/INFO]: jjjjjasper left the game
+[12:30:39] [Server thread/INFO]: Saving worlds
+[12:30:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:30:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:30:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/edenring:edenring
+[12:30:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:30:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:30:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:30:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (edenring): All chunks are saved
+[12:30:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:30:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:30:55] [Server thread/INFO]: [EasyAuth]: Shutting down EasyAuth.
+[12:30:55] [Server thread/INFO]: [EasyAuth]: Database connection closed successfully
+[12:30:55] [Server thread/INFO]: Unloading server configs...
+[12:30:55] [Server thread/INFO]: Sending config unload event for refurbished_furniture.server.toml
