@@ -1867,3 +1867,28 @@ java.lang.NullPointerException: null
 [12:03:29] [Server thread/INFO]: Parzival5077 lost connection: Invalid player data
 [12:03:29] [Server thread/INFO]: Parzival5077 left the game
 [12:03:29] [Server thread/WARN]: handleDisconnection() called twice
+[12:04:14] [Server thread/INFO]: Parzival5077[/127.0.0.1:39856] logged in with entity id 98160 at (12580.081920410537, 104.0, -286.0169381753746)
+[12:04:14] [Server thread/INFO]: Parzival5077 joined the game
+[12:04:16] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[12:04:16] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[12:04:16] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[12:04:16] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[12:04:16] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[12:04:16] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[12:04:16] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[12:04:16] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[12:04:37] [Server thread/INFO]: jjjjjasper[/127.0.0.1:55654] logged in with entity id 98687 at (12578.5, 104.0, -287.5)
+[12:04:37] [Server thread/INFO]: jjjjjasper joined the game
+[12:04:38] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[12:04:38] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[12:04:38] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[12:04:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[12:04:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[12:04:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[12:04:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[12:04:38] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[12:05:24] [Server thread/INFO]: [Parzival5077: Gave 13 [Block of Iron] to Parzival5077]
+[12:05:54] [Server thread/INFO]: [Parzival5077: Gave 24 [Oak Log] to Parzival5077]
+[12:06:39] [Server thread/INFO]: [Parzival5077: Gave 64 [Gunpowder] to Parzival5077]
+[12:07:29] [Server thread/INFO]: [Parzival5077: Gave 1 [Iron Ammo Box] to Parzival5077]
+[12:07:40] [Server thread/INFO]: [Parzival5077: Gave 1 [Iron Ammo Box] to Parzival5077]
