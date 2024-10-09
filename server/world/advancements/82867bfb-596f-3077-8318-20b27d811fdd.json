@@ -87,12 +87,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-09-27 13:46:50 +0000",
+      "minecraft:blaze": "2024-10-05 14:33:33 +0000",
       "minecraft:skeleton": "2024-09-25 10:12:53 +0000",
       "minecraft:hoglin": "2024-10-01 14:17:59 +0000",
       "minecraft:spider": "2024-09-25 09:13:57 +0000",
       "minecraft:piglin_brute": "2024-10-05 14:24:30 +0000",
       "minecraft:creeper": "2024-09-25 10:24:38 +0000",
       "minecraft:zombified_piglin": "2024-09-26 04:49:56 +0000",
+      "minecraft:wither_skeleton": "2024-10-05 14:36:03 +0000",
       "minecraft:cave_spider": "2024-09-30 14:21:23 +0000",
       "minecraft:piglin": "2024-10-01 14:18:01 +0000",
       "minecraft:enderman": "2024-09-25 10:31:36 +0000",
@@ -3030,6 +3032,7 @@
       "scorching_caves": "2024-09-26 07:09:35 +0000",
       "rocky_meadow": "2024-09-25 10:16:14 +0000",
       "blackwood_taiga": "2024-09-25 10:56:09 +0000",
+      "mycotoxic_undergrowth": "2024-10-05 14:34:21 +0000",
       "highland_fields": "2024-09-25 13:53:00 +0000",
       "maple_forest": "2024-10-01 14:06:52 +0000",
       "magnolia_highlands": "2024-09-25 10:16:18 +0000",
@@ -4646,6 +4649,7 @@
   },
   "regions_unexplored:mycologist": {
     "criteria": {
+      "yellow_bioshroom": "2024-10-05 14:34:57 +0000",
       "pink_bioshroom": "2024-09-25 10:56:23 +0000"
     },
     "done": false
@@ -7852,6 +7856,7 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
+      "mycotoxic_undergrowth": "2024-10-05 14:34:21 +0000",
       "infernal_holt": "2024-10-01 14:17:21 +0000",
       "redstone_abyss": "2024-10-01 14:24:06 +0000"
     },
@@ -8079,9 +8084,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/tall_yellow_bioshroom": {
+    "criteria": {
+      "has_yellow_bioshroom": "2024-10-05 14:34:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-10-05 14:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-05 14:32:12 +0000"
     },
     "done": true
   },
@@ -8097,6 +8114,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_block": {
+    "criteria": {
+      "has_yellow_bioshroom": "2024-10-05 14:34:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2024-10-05 14:24:48 +0000"
@@ -8106,6 +8129,24 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-10-05 14:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-05 14:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-05 14:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-10-05 14:32:12 +0000"
     },
     "done": true
   },
@@ -8127,9 +8168,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-05 14:32:12 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
     "criteria": {
       "has_raw_redstone_block": "2024-10-05 14:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-05 14:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-10-05 14:32:54 +0000"
     },
     "done": true
   },
@@ -8139,15 +8198,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-05 14:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-10-05 14:32:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-10-05 14:27:25 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-05 14:32:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-10-05 14:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-05 14:32:12 +0000"
     },
     "done": true
   },
@@ -8184,6 +8267,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-10-05 14:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-05 14:32:12 +0000"
     },
     "done": true
   },
