@@ -1384,3 +1384,98 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [11:47:21] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
 [11:47:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
 [11:48:09] [Server thread/INFO]: AwaKING was impaled on a stalagmite
+[11:49:35] [Server thread/INFO]: [Mei4o: Triggered [svm.jj.menu]]
+[11:49:38] [Server thread/INFO]: [Mei4o: Triggered [svm.jj.menu] (set value to 357)]
+[11:49:46] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
+[11:49:48] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[11:49:58] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
+[11:50:04] [Server thread/INFO]: Mei4o was slain by AwaKING using [Killer Queen]
+[11:50:09] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[11:50:23] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[11:51:35] [Server thread/INFO]: Parzival5077 lost connection: Timed out
+[11:51:35] [Server thread/INFO]: Parzival5077 left the game
+[11:52:00] [Server thread/INFO]: AwaKING was blown up by Creeper
+[11:52:31] [Server thread/INFO]: Parzival5077[/127.0.0.1:59108] logged in with entity id 43338 at (12579.947972558995, 104.0, -297.1869452364197)
+[11:52:31] [Server thread/INFO]: Parzival5077 joined the game
+[11:52:33] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[11:52:33] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[11:52:33] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[11:52:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[11:52:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[11:52:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[11:52:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[11:52:33] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[11:53:01] [Server thread/INFO]: Parzival5077 lost connection: Timed out
+[11:53:01] [Server thread/INFO]: Parzival5077 left the game
+[11:53:38] [Server thread/INFO]: Parzival5077[/127.0.0.1:59688] logged in with entity id 46835 at (12579.947972558995, 104.0, -297.1869452364197)
+[11:53:38] [Server thread/INFO]: Parzival5077 joined the game
+[11:53:38] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
+[11:53:38] [Server thread/INFO]: Parzival5077 left the game
+[11:53:40] [Server thread/INFO]: Parzival5077[/127.0.0.1:59700] logged in with entity id 47154 at (12579.947972558995, 104.0, -297.1869452364197)
+[11:53:40] [Server thread/INFO]: Parzival5077 joined the game
+[11:53:42] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[11:53:42] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[11:53:42] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[11:53:42] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[11:53:42] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[11:53:42] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[11:53:42] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[11:53:42] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[11:53:43] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@52063d4b[id=82867bfb-596f-3077-8318-20b27d811fdd,name=AwaKING,properties={},legacy=false] (/127.0.0.1:38896): §cPlayer literal{AwaKING} is already online!
+[11:53:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@52063d4b[id=82867bfb-596f-3077-8318-20b27d811fdd,name=AwaKING,properties={},legacy=false] (/127.0.0.1:38896) lost connection: §cPlayer literal{AwaKING} is already online!
+[11:53:43] [Server thread/WARN]: handleDisconnection() called twice
+[11:53:46] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@11fd015c[id=82867bfb-596f-3077-8318-20b27d811fdd,name=AwaKING,properties={},legacy=false] (/127.0.0.1:38910): §cPlayer literal{AwaKING} is already online!
+[11:53:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@11fd015c[id=82867bfb-596f-3077-8318-20b27d811fdd,name=AwaKING,properties={},legacy=false] (/127.0.0.1:38910) lost connection: §cPlayer literal{AwaKING} is already online!
+[11:53:46] [Server thread/WARN]: handleDisconnection() called twice
+[11:53:47] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@17f68a6c[id=82867bfb-596f-3077-8318-20b27d811fdd,name=AwaKING,properties={},legacy=false] (/127.0.0.1:38920): §cPlayer literal{AwaKING} is already online!
+[11:53:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@17f68a6c[id=82867bfb-596f-3077-8318-20b27d811fdd,name=AwaKING,properties={},legacy=false] (/127.0.0.1:38920) lost connection: §cPlayer literal{AwaKING} is already online!
+[11:53:47] [Server thread/WARN]: handleDisconnection() called twice
+[11:53:52] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1458390[id=82867bfb-596f-3077-8318-20b27d811fdd,name=AwaKING,properties={},legacy=false] (/127.0.0.1:50906): §cPlayer literal{AwaKING} is already online!
+[11:53:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@1458390[id=82867bfb-596f-3077-8318-20b27d811fdd,name=AwaKING,properties={},legacy=false] (/127.0.0.1:50906) lost connection: §cPlayer literal{AwaKING} is already online!
+[11:53:52] [Server thread/WARN]: handleDisconnection() called twice
+[11:53:56] [Server thread/INFO]: AwaKING lost connection: Timed out
+[11:53:56] [Server thread/INFO]: AwaKING left the game
+[11:54:04] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[11:54:05] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[11:54:10] [Server thread/INFO]: Parzival5077 lost connection: Timed out
+[11:54:10] [Server thread/INFO]: Parzival5077 left the game
+[11:54:21] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[11:54:31] [Server thread/INFO]: AwaKING[/127.0.0.1:37586] logged in with entity id 48374 at (12182.699999988079, 84.0, -557.6249945040184)
+[11:54:31] [Server thread/INFO]: AwaKING joined the game
+[11:54:33] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[11:54:33] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[11:54:33] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[11:54:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[11:54:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[11:54:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[11:54:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[11:54:33] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[11:54:46] [Server thread/INFO]: Parzival5077[/127.0.0.1:53724] logged in with entity id 48576 at (12579.947972558995, 104.0, -297.1869452364197)
+[11:54:46] [Server thread/INFO]: Parzival5077 joined the game
+[11:54:48] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[11:54:48] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[11:54:48] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[11:54:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[11:54:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[11:54:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[11:54:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[11:54:48] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[11:55:16] [Server thread/INFO]: Parzival5077 lost connection: Timed out
+[11:55:16] [Server thread/INFO]: Parzival5077 left the game
+[11:55:51] [Server thread/INFO]: Parzival5077[/127.0.0.1:57488] logged in with entity id 58893 at (12579.947972558995, 104.0, -297.1869452364197)
+[11:55:51] [Server thread/INFO]: Parzival5077 joined the game
+[11:55:52] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[11:55:52] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[11:55:52] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[11:55:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[11:55:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[11:55:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[11:55:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[11:55:52] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[11:56:03] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[11:56:21] [Server thread/INFO]: [Parzival5077: Gave 64 [Gunpowder] to Parzival5077]
+[11:58:45] [Server thread/INFO]: Parzival5077 fell from a high place
