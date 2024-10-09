@@ -1334,3 +1334,5 @@ EdenBiomeSource (7f888ef3)
 [08:20:13] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
 [08:24:28] [Server thread/INFO]: Parzival5077 was processed by Crushing Wheels
+[08:24:54] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
+[08:24:54] [Server thread/INFO]: Parzival5077 left the game
