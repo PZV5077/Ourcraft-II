@@ -8306,18 +8306,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/stripped_pine_wood": {
-    "criteria": {
-      "has_log": "2024-10-09 12:05:59 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/pine_hanging_sign": {
-    "criteria": {
-      "has_stripped_pine_log": "2024-10-09 12:05:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2024-10-09 12:02:41 +0000"
@@ -8327,6 +8315,18 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2024-10-09 12:02:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stripped_pine_wood": {
+    "criteria": {
+      "has_log": "2024-10-09 12:05:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_hanging_sign": {
+    "criteria": {
+      "has_stripped_pine_log": "2024-10-09 12:05:59 +0000"
     },
     "done": true
   },
