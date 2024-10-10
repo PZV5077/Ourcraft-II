@@ -181,6 +181,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2024-10-10 11:22:05 +0000",
       "cooked_mutton": "2024-09-25 10:25:49 +0000",
       "cooked_beef": "2024-09-25 08:51:00 +0000",
       "baked_potato": "2024-09-27 07:07:28 +0000",
@@ -6863,6 +6864,30 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2024-10-10 10:33:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-10-10 11:22:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/golden_larch_shrub": {
+    "criteria": {
+      "has_golden_larch_sapling": "2024-10-10 11:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-10-10 11:22:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-10-10 11:22:01 +0000"
     },
     "done": true
   },

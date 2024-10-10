@@ -1893,3 +1893,18 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [11:13:01] [Server thread/WARN]: Boat (vehicle of Littlebugs404_) moved wrongly! 0.6468375338154146
 [11:13:01] [Server thread/WARN]: Boat (vehicle of Littlebugs404_) moved wrongly! 0.7212735478569812
 [11:14:09] [pool-6-thread-4/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=12827, y=74, z=-3275}
+[11:20:18] [Server thread/INFO]: Littlebugs404_ fell from a high place
+[11:24:05] [Server thread/INFO]: Littlebugs404_ lost connection: Disconnected
+[11:24:05] [Server thread/INFO]: Littlebugs404_ left the game
+[11:24:13] [Server thread/INFO]: CheessRevolution lost connection: Disconnected
+[11:24:13] [Server thread/INFO]: CheessRevolution left the game
+[11:27:59] [Server thread/INFO]: AwaKING[/127.0.0.1:57474] logged in with entity id 713748 at (11931.700673371495, 72.0, -581.5598156911446)
+[11:27:59] [Server thread/INFO]: AwaKING joined the game
+[11:28:01] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[11:28:01] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[11:28:01] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[11:28:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[11:28:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[11:28:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[11:28:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[11:28:01] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
