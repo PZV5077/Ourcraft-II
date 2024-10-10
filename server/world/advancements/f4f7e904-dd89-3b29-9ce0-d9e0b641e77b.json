@@ -6898,15 +6898,51 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2024-10-10 12:57:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2024-10-10 12:57:14 +0000"
+    },
+    "done": true
+  },
   "edenring:recipes/building_blocks/auritis_bookshelf": {
     "criteria": {
       "has_book": "2024-10-10 11:42:13 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_drawer": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-10-10 11:45:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2024-10-10 12:57:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_toilet": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2024-10-10 12:57:07 +0000"
     },
     "done": true
   },
@@ -6919,6 +6955,12 @@
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
     "criteria": {
       "has_sweet_berries": "2024-10-10 12:33:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_drawer": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
     },
     "done": true
   },
@@ -6940,9 +6982,51 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2024-10-10 12:58:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_sink": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-10-10 11:45:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_microwave": {
+    "criteria": {
+      "has_microwave": "2024-10-10 12:59:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
+    "criteria": {
+      "forge:dyes/white": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2024-10-10 12:58:24 +0000"
     },
     "done": true
   },
@@ -6952,9 +7036,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2024-10-10 12:57:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-10-10 11:45:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2024-10-10 12:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-10-10 12:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-10-10 12:55:57 +0000"
     },
     "done": true
   },
@@ -6964,9 +7072,51 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-10-10 12:55:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2024-10-10 12:57:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2024-10-10 12:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-10-10 12:55:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-10-10 11:45:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_cabinetry": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
     },
     "done": true
   },
@@ -6976,9 +7126,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_cabinetry": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-10-10 12:55:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2024-10-10 12:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2024-10-10 12:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
     },
     "done": true
   },
@@ -6988,9 +7180,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "edenring:recipes/misc/mycotic_lantern_white": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-10-10 11:45:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "edenring:recipes/misc/balloon_mushroom_sporocarp_white": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-10-10 12:57:07 +0000"
     },
     "done": true
   },
@@ -7000,9 +7252,99 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2024-10-10 12:58:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-10-10 12:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2024-10-10 12:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2024-10-10 12:57:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2024-10-10 12:53:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2024-10-10 12:57:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_cabinetry": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_cabinetry": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2024-10-10 12:58:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2024-10-10 12:57:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_bath": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
     },
     "done": true
   },
@@ -7012,9 +7354,51 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_microwave": {
+    "criteria": {
+      "has_light_microwave": "2024-10-10 12:59:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2024-10-10 12:57:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/plate": {
+    "criteria": {
+      "has_quartz_block": "2024-10-10 12:57:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_cabinetry": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2024-10-10 12:57:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2024-10-10 12:58:24 +0000"
+    },
+    "done": true
+  },
   "beautify:lamp_jar": {
     "criteria": {
       "requirement": "2024-10-10 12:53:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2024-10-10 12:57:14 +0000"
     },
     "done": true
   },
@@ -7030,6 +7414,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2024-10-10 12:58:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/dark_fridge": {
     "criteria": {
       "has_fridge": "2024-10-10 12:52:30 +0000"
@@ -7042,9 +7432,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2024-10-10 12:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-10-10 12:57:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2024-10-10 12:57:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-10-10 11:45:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_cabinetry": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2024-10-10 12:57:07 +0000"
     },
     "done": true
   },
@@ -7054,15 +7486,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-10-10 12:57:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-10-10 11:45:43 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2024-10-10 12:57:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-10-10 11:45:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2024-10-10 12:58:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2024-10-10 12:57:14 +0000"
     },
     "done": true
   },
@@ -7090,15 +7552,99 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-10-10 12:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-10-10 12:55:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2024-10-10 12:57:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_basin": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-10-10 12:57:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_cabinetry": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-10-10 12:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2024-10-10 12:58:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_fridge": {
     "criteria": {
       "has_light_fridge": "2024-10-10 12:52:30 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2024-10-10 12:57:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-10-10 11:45:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-10-10 12:55:57 +0000"
     },
     "done": true
   },
@@ -7114,15 +7660,51 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-10-10 11:45:43 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/white_toilet": {
+    "criteria": {
+      "has_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_drawer": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-10-10 11:45:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2024-10-10 12:58:24 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/proximity_fuze": {
+    "criteria": {
+      "has_quartz": "2024-10-10 12:55:43 +0000"
     },
     "done": true
   },
@@ -7138,15 +7720,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/frying/sweet_berry_jam": {
     "criteria": {
       "has_ingredient": "2024-10-10 12:33:11 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_drawer": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/light_blue_dye_from_felicia_daisy": {
     "criteria": {
       "has_felicia_daisy": "2024-10-10 11:49:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2024-10-10 12:57:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2024-10-10 12:58:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2024-10-10 12:58:24 +0000"
     },
     "done": true
   },
