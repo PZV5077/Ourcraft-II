@@ -1771,3 +1771,106 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [10:18:16] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
 [10:18:16] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
 [10:28:54] [Server thread/INFO]: Littlebugs404_ was blown up by Creeper
+[10:33:17] [Server thread/INFO]: Littlebugs404_ was slain by Dio Brando
+[10:34:00] [Server thread/WARN]: CheessRevolution was kicked for floating too long!
+[10:34:00] [Server thread/INFO]: CheessRevolution lost connection: Flying is not enabled on this server
+[10:34:00] [Server thread/INFO]: CheessRevolution left the game
+[10:34:05] [Server thread/INFO]: CheessRevolution[/127.0.0.1:32886] logged in with entity id 653421 at (14006.852255477319, 71.25220334025373, -272.9970487308463)
+[10:34:05] [Server thread/INFO]: CheessRevolution joined the game
+[10:34:05] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[10:34:05] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[10:34:05] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[10:34:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[10:34:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[10:34:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[10:34:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[10:34:05] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[10:34:28] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@57dd85db[id=f4f7e904-dd89-3b29-9ce0-d9e0b641e77b,name=CheessRevolution,properties={},legacy=false] (/127.0.0.1:41802): §cPlayer literal{CheessRevolution} is already online!
+[10:34:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@57dd85db[id=f4f7e904-dd89-3b29-9ce0-d9e0b641e77b,name=CheessRevolution,properties={},legacy=false] (/127.0.0.1:41802) lost connection: §cPlayer literal{CheessRevolution} is already online!
+[10:34:28] [Server thread/WARN]: handleDisconnection() called twice
+[10:34:35] [Server thread/INFO]: CheessRevolution lost connection: Timed out
+[10:34:35] [Server thread/INFO]: CheessRevolution left the game
+[10:34:52] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:34:53] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:34:53] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:34:53] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:34:57] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:34:57] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:35:31] [Server thread/INFO]: Littlebugs404_ lost connection: Timed out
+[10:35:31] [Server thread/INFO]: Littlebugs404_ left the game
+[10:35:51] [Server thread/INFO]: CheessRevolution[/127.0.0.1:39500] logged in with entity id 655294 at (14006.852255477319, 71.25220334025373, -272.9970487308463)
+[10:35:51] [Server thread/INFO]: CheessRevolution joined the game
+[10:35:51] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[10:35:51] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[10:35:51] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[10:35:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[10:35:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[10:35:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[10:35:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[10:35:51] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[10:36:14] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:36:15] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:36:15] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:36:16] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:36:17] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:36:24] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:54256] logged in with entity id 656127 at (13092.653624237812, 78.0, -203.6985507759193)
+[10:36:24] [Server thread/INFO]: Littlebugs404_ joined the game
+[10:36:28] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[10:36:28] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[10:36:28] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[10:36:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[10:36:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[10:36:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[10:36:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[10:36:28] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[10:37:04] [Server thread/INFO]: Littlebugs404_ lost connection: Disconnected
+[10:37:04] [Server thread/INFO]: Littlebugs404_ left the game
+[10:37:07] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:46792] logged in with entity id 656961 at (13082.532761926872, 62.07408481930914, -224.13950622482875)
+[10:37:07] [Server thread/INFO]: Littlebugs404_ joined the game
+[10:37:08] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[10:37:08] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[10:37:08] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[10:37:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[10:37:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[10:37:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[10:37:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[10:37:08] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[10:39:16] [Server thread/INFO]: Littlebugs404_ lost connection: Disconnected
+[10:39:16] [Server thread/INFO]: Littlebugs404_ left the game
+[10:39:18] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:34730] logged in with entity id 659512 at (12967.752307083822, 108.0, -294.9952220280755)
+[10:39:18] [Server thread/INFO]: Littlebugs404_ joined the game
+[10:39:19] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[10:39:19] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[10:39:19] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[10:39:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[10:39:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[10:39:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[10:39:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[10:39:19] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[10:39:32] [Server thread/INFO]: Littlebugs404_ lost connection: Disconnected
+[10:39:32] [Server thread/INFO]: Littlebugs404_ left the game
+[10:39:36] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:45146] logged in with entity id 659987 at (12967.752307083822, 108.0, -294.9952220280755)
+[10:39:36] [Server thread/INFO]: Littlebugs404_ joined the game
+[10:39:37] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[10:39:37] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[10:39:37] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[10:39:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[10:39:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[10:39:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[10:39:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[10:39:37] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[10:40:03] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:42:38] [Server thread/INFO]: Littlebugs404_ lost connection: Disconnected
+[10:42:38] [Server thread/INFO]: Littlebugs404_ left the game

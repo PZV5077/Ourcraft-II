@@ -6830,12 +6830,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/spruce_cabinet": {
-    "criteria": {
-      "has_spruce_trapdoor": "2024-10-10 10:19:04 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/fluid_tank": {
     "criteria": {
       "has_item": "2024-10-10 10:11:32 +0000"
@@ -6845,6 +6839,30 @@
   "create:recipes/misc/crafting/kinetics/item_vault": {
     "criteria": {
       "has_item": "2024-10-10 10:11:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2024-10-10 10:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-10-10 10:33:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-10-10 10:33:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-10-10 10:33:45 +0000"
     },
     "done": true
   },
