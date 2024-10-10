@@ -126,12 +126,14 @@
       "chalk_cliffs": "2024-10-02 07:20:46 +0000",
       "infernal_holt": "2024-10-10 07:35:25 +0000",
       "bamboo_forest": "2024-09-26 11:07:40 +0000",
+      "saguaro_desert": "2024-10-10 08:04:10 +0000",
       "temperate_grove": "2024-09-25 08:39:26 +0000",
       "cold_river": "2024-09-29 10:26:52 +0000",
       "pine_slopes": "2024-09-29 10:34:05 +0000",
       "grassland": "2024-09-25 10:19:58 +0000",
       "prairie": "2024-09-26 11:08:48 +0000",
       "redwoods": "2024-09-26 10:53:45 +0000",
+      "rainforest": "2024-10-10 08:02:31 +0000",
       "bioshroom_caves": "2024-09-26 10:55:40 +0000",
       "lupine_plains": "2024-09-26 06:51:50 +0000"
     },
@@ -160,12 +162,14 @@
       "boreal_forest": "2024-09-29 13:01:55 +0000",
       "chalk_cliffs": "2024-10-02 07:20:46 +0000",
       "bamboo_forest": "2024-09-26 11:07:40 +0000",
+      "saguaro_desert": "2024-10-10 08:04:10 +0000",
       "temperate_grove": "2024-09-25 08:39:26 +0000",
       "cold_river": "2024-09-29 10:26:52 +0000",
       "pine_slopes": "2024-09-29 10:34:05 +0000",
       "grassland": "2024-09-25 10:19:58 +0000",
       "prairie": "2024-09-26 11:08:48 +0000",
       "redwoods": "2024-09-26 10:53:45 +0000",
+      "rainforest": "2024-10-10 08:02:31 +0000",
       "lupine_plains": "2024-09-26 06:51:50 +0000"
     },
     "done": false
@@ -9816,6 +9820,18 @@
   "create:recipes/misc/smelting/scoria": {
     "criteria": {
       "has_item": "2024-10-10 07:34:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/brown_dye_from_dead_steppe_shrub": {
+    "criteria": {
+      "has_dead_steppe_shrub": "2024-10-10 08:02:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/palm_sapling_from_palm_shrub": {
+    "criteria": {
+      "has_palm_shrub": "2024-10-10 08:02:44 +0000"
     },
     "done": true
   },

@@ -7684,6 +7684,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:soul_sand_valley": "2024-10-01 14:19:39 +0000",
+      "minecraft:nether_wastes": "2024-10-10 07:54:20 +0000",
       "minecraft:warped_forest": "2024-09-30 15:19:04 +0000"
     },
     "done": false
@@ -8345,6 +8346,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-10-10 07:58:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-10-10 07:52:13 +0000"
@@ -8366,6 +8373,18 @@
   "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-10-10 07:52:13 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/star_platinum/beatdown": {
+    "criteria": {
+      "requirement": "2024-10-10 08:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-10-10 07:58:31 +0000"
     },
     "done": true
   },
@@ -8411,6 +8430,24 @@
     },
     "done": true
   },
+  "svm_jojo:skill_tree/star_platinum/root": {
+    "criteria": {
+      "requirement": "2024-10-10 08:02:07 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/star_platinum/star_finger": {
+    "criteria": {
+      "requirement": "2024-10-10 08:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-10-10 07:58:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-10-10 07:52:13 +0000"
@@ -8432,6 +8469,12 @@
   "create:recipes/building_blocks/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-10-10 07:52:13 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/hardened_nitro": {
+    "criteria": {
+      "has_blaze_powder": "2024-10-10 07:58:31 +0000"
     },
     "done": true
   },
@@ -8459,6 +8502,12 @@
     },
     "done": true
   },
+  "svm_jojo:skill_tree/star_platinum/grab": {
+    "criteria": {
+      "requirement": "2024-10-10 08:02:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-10-10 07:52:13 +0000"
@@ -8477,9 +8526,21 @@
     },
     "done": true
   },
+  "svm_jojo:skill_tree/star_platinum/time_stop": {
+    "criteria": {
+      "requirement": "2024-10-10 08:02:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-10-10 07:52:13 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/get_star_platinum": {
+    "criteria": {
+      "requirement": "2024-10-10 08:02:07 +0000"
     },
     "done": true
   },

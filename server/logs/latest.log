@@ -1369,3 +1369,48 @@ EdenBiomeSource (5e4b96ae)
 [07:51:47] [Server thread/INFO]: Locating element minecraft:fortress took 0 ms
 [07:51:51] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 768.500000, 55.000000, -415.500000]
 [07:52:25] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to AwaKING]
+[07:54:14] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 652.000000, 60.000000, -468.000000]
+[07:54:19] [Server thread/INFO]: [Parzival5077: Teleported AwaKING to Parzival5077]
+[07:55:06] [Server thread/INFO]: AwaKING tried to swim in lava
+[07:55:09] [Server thread/INFO]: [Parzival5077: Teleported AwaKING to Parzival5077]
+[07:55:19] [Server thread/INFO]: [Parzival5077: Teleported AwaKING to Parzival5077]
+[07:55:45] [Server thread/INFO]: Parzival5077 blew up
+[07:55:54] [Server thread/INFO]: AwaKING burned to death
+[07:55:57] [Server thread/INFO]: [Parzival5077: Teleported AwaKING to Parzival5077]
+[07:57:30] [Server thread/INFO]: Parzival5077 was slain by Wither Skeleton
+[07:58:25] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 664.000000, 54.000000, -523.000000]
+[07:58:29] [Server thread/INFO]: Parzival5077 suffocated in a wall
+[07:59:00] [Worker-Main-56/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[07:59:00] [Worker-Main-56/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[07:59:01] [Server thread/WARN]: Parzival5077 moved too quickly! 0.7057681625428813,0.7336320060424839,9.960750200901373
+[07:59:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3728ms or 74 ticks behind
+[08:01:26] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
+[08:01:29] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[08:01:29] [Server thread/INFO]: Mei4o fell from a high place
+[08:01:37] [Server thread/INFO]: Locating element minecraft:stronghold took 25 ms
+[08:01:39] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 14000.500000, 104.000000, -1375.500000]
+[08:01:50] [Server thread/INFO]: Locating element minecraft:stronghold took 278 ms
+[08:01:51] [Worker-Main-57/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[08:01:51] [Worker-Main-57/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[08:01:58] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 13789.000000, 64.000000, -1161.000000]
+[08:02:07] [Server thread/INFO]: AwaKING has made the advancement [I'll judge you with my stand!]
+[08:02:12] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[08:02:15] [Server thread/INFO]: Locating element minecraft:stronghold took 0 ms
+[08:02:21] [Server thread/INFO]: Parzival5077 was slain by Zombie
+[08:02:22] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 11955.000000, 72.000000, -582.000000]
+[08:02:26] [Server thread/INFO]: Locating element minecraft:stronghold took 0 ms
+[08:02:27] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[08:02:29] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 10768.500000, 72.000000, -1679.500000]
+[08:02:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2222ms or 44 ticks behind
+[08:02:35] [Server thread/INFO]: Named entity class_3989['Sheer Heart Attack'/173199, l='ServerLevel[world]', x=12052.11, y=-70.00, z=-599.52] died: Sheer Heart Attack was killed
+[08:02:38] [Server thread/INFO]: Mei4o was slain by Zombie
+[08:02:56] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[08:03:06] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[08:03:13] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 10768.500000, 41.000000, -1679.500000]
+[08:03:15] [Server thread/INFO]: Named entity class_3989['Sheer Heart Attack'/190267, l='ServerLevel[world]', x=12040.58, y=-70.00, z=-605.22] died: Sheer Heart Attack was killed
+[08:03:37] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 10765.000000, 62.000000, -1683.000000]
+[08:03:48] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[08:03:48] [Server thread/INFO]: Parzival5077 was doomed to fall
+[08:03:57] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 10202.000000, 64.000000, -3697.000000]
+[08:04:10] [Server thread/WARN]: Mei4o moved too quickly! -7.542724801782242,5.249187078744683,4.230402362497898
+[08:04:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12796ms or 255 ticks behind
