@@ -1542,3 +1542,59 @@ EdenBiomeSource (5e4b96ae)
 [08:35:04] [Server thread/INFO]: Mei4o lost connection: Disconnected
 [08:35:04] [Server thread/INFO]: Mei4o left the game
 [08:35:17] [Server thread/INFO]: Parzival5077 has made the advancement [The City at the End of the Game]
+[08:35:34] [Server thread/INFO]: Parzival5077 was doomed to fall by Shulker
+[08:36:01] [Server thread/INFO]: Parzival5077 was doomed to fall by Shulker
+[08:36:16] [Server thread/INFO]: Named entity class_3989['Sheer Heart Attack'/520399, l='ServerLevel[world]', x=-253.11, y=-70.00, z=1248.98] died: Sheer Heart Attack was killed
+[08:36:44] [Server thread/INFO]: Named entity class_3989['Sheer Heart Attack'/527142, l='ServerLevel[world]', x=-191.16, y=-70.00, z=1303.96] died: Sheer Heart Attack was killed
+[08:37:03] [Server thread/INFO]: Parzival5077 was slain by Shulker
+[08:37:07] [Server thread/INFO]: AwaKING fell out of the world
+[08:37:19] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[08:37:20] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 607)]
+[08:37:29] [Server thread/INFO]: [Parzival5077: Gave 12 [Copper Ingot] to Parzival5077]
+[08:37:32] [Server thread/INFO]: [Parzival5077: Gave 120 [Copper Ingot] to Parzival5077]
+[08:37:41] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
+[08:37:44] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[08:37:52] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[08:37:56] [Server thread/INFO]: [Parzival5077: Gave 1 [Block of Lapis Lazuli] to Parzival5077]
+[08:37:56] [Server thread/INFO]: [Parzival5077: Gave 1 [Block of Lapis Lazuli] to Parzival5077]
+[08:37:56] [Server thread/INFO]: [Parzival5077: Gave 1 [Block of Lapis Lazuli] to Parzival5077]
+[08:38:13] [Server thread/INFO]: [Parzival5077: Teleported AwaKING to Parzival5077]
+[08:38:14] [Server thread/INFO]: AwaKING has made the advancement [The City at the End of the Game]
+[08:39:39] [Server thread/INFO]: Parzival5077 was slain by Shulker
+[08:40:08] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[08:40:20] [Server thread/INFO]: Parzival5077 was doomed to fall by Shulker
+[08:40:38] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 61.000000, 62.000000, 1355.000000]
+[08:40:45] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 35.000000, 104.000000, 1365.000000]
+[08:41:07] [Server thread/INFO]: AwaKING has reached the goal [Sky's the Limit]
+[08:41:13] [Server thread/INFO]: AwaKING has made the advancement [Local Brewery]
+[08:41:27] [Server thread/INFO]: Parzival5077 was slain by Shulker
+[08:41:47] [Server thread/INFO]: Parzival5077 has made the advancement [Cover Me with Diamonds]
+[08:41:48] [Server thread/INFO]: Parzival5077 was slain by Shulker
+[08:42:24] [Server thread/INFO]: Parzival5077 was doomed to fall by Shulker
+[08:43:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=36, y=140, z=1420} class_2338{x=37, y=140, z=1420}
+[08:43:07] [Server thread/INFO]: Parzival5077 was slain by Shulker
+[08:43:29] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 37.000000, 168.000000, 1416.000000]
+[08:43:37] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 40.000000, 168.000000, 1417.000000]
+[08:43:47] [Server thread/INFO]: Parzival5077 was slain by Shulker
+[08:44:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/516055, l='ServerLevel[world]', x=12176.82, y=87.53, z=-723.70, removed=DISCARDED]
+[08:44:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/516053, l='ServerLevel[world]', x=12176.82, y=87.53, z=-723.70, removed=DISCARDED]
+[08:44:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/516054, l='ServerLevel[world]', x=12176.82, y=87.53, z=-723.70, removed=DISCARDED]
+[08:44:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/516052, l='ServerLevel[world]', x=12176.82, y=87.53, z=-723.70, removed=DISCARDED]
+[08:44:24] [Server thread/INFO]: Parzival5077 was doomed to fall by Shulker
+[08:44:30] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to -23.000000, 136.000000, 1379.000000]
+[08:45:00] [Server thread/INFO]: AwaKING fell from a high place
+[08:46:38] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 35.000000, 148.000000, 1324.000000]
+[08:47:10] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 67.000000, 136.000000, 1353.000000]
+[08:47:35] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to AwaKING]
+[08:48:14] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 21.000000, 128.000000, 1382.000000]
+[08:48:20] [Server thread/INFO]: AwaKING lost connection: Disconnected
+[08:48:20] [Server thread/INFO]: AwaKING left the game
+[08:48:34] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 170.000000, 58.000000, 1355.000000]
+[08:48:42] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 270.000000, 62.000000, 1293.000000]
+[08:48:50] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[08:48:54] [Server thread/INFO]: Littlebugs404_ lost connection: Disconnected
+[08:48:54] [Server thread/INFO]: Littlebugs404_ left the game
+[08:48:54] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 370.000000, 65.000000, 1367.000000]
+[08:49:00] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
+[08:49:00] [Server thread/INFO]: Parzival5077 left the game

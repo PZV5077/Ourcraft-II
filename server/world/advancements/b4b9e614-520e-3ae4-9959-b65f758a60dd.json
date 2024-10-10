@@ -5447,6 +5447,7 @@
       "minecraft:witch": "2024-09-30 12:32:30 +0000",
       "minecraft:wither_skeleton": "2024-09-30 09:25:18 +0000",
       "minecraft:ender_dragon": "2024-10-10 08:26:32 +0000",
+      "minecraft:shulker": "2024-10-10 08:35:50 +0000",
       "minecraft:piglin": "2024-09-30 09:28:33 +0000",
       "minecraft:enderman": "2024-09-30 09:34:21 +0000",
       "minecraft:silverfish": "2024-10-10 08:09:49 +0000",
@@ -9804,6 +9805,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-10-10 08:41:47 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/blackstone_tile": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-10-10 07:36:57 +0000"
@@ -9813,6 +9820,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-10-10 07:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2024-10-10 08:43:44 +0000"
     },
     "done": true
   },
@@ -9834,9 +9847,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2024-10-10 08:43:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-10-10 07:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-10-10 08:43:44 +0000"
     },
     "done": true
   },
@@ -9858,9 +9883,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-10-10 08:38:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2024-10-10 08:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-10-10 08:43:44 +0000"
     },
     "done": true
   },
@@ -9882,6 +9919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2024-10-10 08:43:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2024-10-10 08:30:31 +0000"
@@ -9894,15 +9937,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2024-10-10 08:46:50 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/palm_sapling_from_palm_shrub": {
     "criteria": {
       "has_palm_shrub": "2024-10-10 08:02:44 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-10-10 08:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-10-10 08:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-10-10 07:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-10-10 08:46:50 +0000"
     },
     "done": true
   },
@@ -9915,6 +9982,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-10-10 07:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-10-10 08:43:44 +0000"
     },
     "done": true
   },
