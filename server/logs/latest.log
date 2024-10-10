@@ -1920,3 +1920,14 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [11:32:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/516054, l='ServerLevel[world]', x=12176.82, y=87.53, z=-723.70, removed=DISCARDED]
 [11:32:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/516053, l='ServerLevel[world]', x=12176.82, y=87.53, z=-723.70, removed=DISCARDED]
 [11:32:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/516052, l='ServerLevel[world]', x=12176.82, y=87.53, z=-723.70, removed=DISCARDED]
+[11:36:43] [Server thread/INFO]: CheessRevolution[/127.0.0.1:43616] logged in with entity id 758336 at (14006.014427058592, 71.0, -254.60753977281541)
+[11:36:43] [Server thread/INFO]: CheessRevolution joined the game
+[11:36:44] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[11:36:44] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[11:36:44] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[11:36:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[11:36:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[11:36:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[11:36:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[11:36:44] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[11:37:12] [Server thread/WARN]: AwaKING moved too quickly! -0.9318730982868146,-11.186365177617212,1.7359322164555806
