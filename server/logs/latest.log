@@ -1349,3 +1349,23 @@ EdenBiomeSource (5e4b96ae)
 [07:45:20] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to AwaKING]
 [07:47:54] [Server thread/INFO]: Parzival5077 fell from a high place
 [07:47:57] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to AwaKING]
+[07:50:12] [Server thread/INFO]: Parzival5077 was doomed to fall by Hoglin
+[07:50:35] [Server thread/INFO]: Locating element minecraft:fortress took 1 ms
+[07:50:39] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 640.500000, 57.000000, -511.500000]
+[07:50:46] [Server thread/INFO]: Parzival5077 tried to swim in lava
+[07:50:53] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 659.000000, 23.000000, -534.000000]
+[07:50:55] [Server thread/INFO]: Parzival5077 tried to swim in lava
+[07:51:01] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 663.000000, 24.000000, -523.000000]
+[07:51:03] [Server thread/INFO]: Parzival5077 tried to swim in lava
+[07:51:12] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to AwaKING]
+[07:51:18] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 1423.000000, 55.000000, -702.000000]
+[07:51:23] [Server thread/WARN]: Parzival5077 moved too quickly! 0.0,-10.80652611000901,0.0
+[07:51:23] [Server thread/WARN]: AwaKING moved too quickly! -4.429634899960547,-4.766367993957523,-7.712837397349972
+[07:51:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5134ms or 102 ticks behind
+[07:51:27] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 1419.000000, 26.000000, -641.000000]
+[07:51:29] [Server thread/INFO]: Parzival5077 tried to swim in lava
+[07:51:37] [Server thread/INFO]: Parzival5077 tried to swim in lava
+[07:51:42] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to AwaKING]
+[07:51:47] [Server thread/INFO]: Locating element minecraft:fortress took 0 ms
+[07:51:51] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 768.500000, 55.000000, -415.500000]
+[07:52:25] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to AwaKING]
