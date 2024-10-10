@@ -1322,3 +1322,25 @@ EdenBiomeSource (5e4b96ae)
 [07:36:25] [Server thread/INFO]: Parzival5077 has made the advancement [Those Were the Days]
 [07:37:27] [Server thread/INFO]: Parzival5077 was slain by AwaKING using [The World]
 [07:38:08] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to AwaKING]
+[07:39:09] [Server thread/INFO]: Parzival5077 was slain by AwaKING using [The World]
+[07:39:18] [Server thread/INFO]: AwaKING was shot by Parzival5077
+[07:39:37] [Server thread/INFO]: [Parzival5077: Teleported AwaKING to Parzival5077]
+[07:39:40] [Server thread/INFO]: AwaKING burned to death
+[07:39:45] [Server thread/INFO]: Parzival5077 tried to swim in lava
+[07:39:49] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to AwaKING]
+[07:41:19] [Server thread/INFO]: Parzival5077 died because of AwaKING
+[07:41:46] [Server thread/INFO]: Mei4o[/127.0.0.1:44032] logged in with entity id 59963 at (12428.913001764538, 60.94598658906716, -462.26918719278365)
+[07:41:46] [Server thread/INFO]: Mei4o joined the game
+[07:41:48] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[07:41:48] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[07:41:48] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[07:41:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[07:41:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[07:41:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[07:41:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[07:41:48] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[07:42:06] [Server thread/INFO]: [Parzival5077: Gave 54 [Gunpowder] to Parzival5077]
+[07:42:08] [Server thread/INFO]: [Parzival5077: Gave 54 [Gunpowder] to Parzival5077]
+[07:42:25] [Server thread/INFO]: [Parzival5077: Gave 13 [Block of Copper] to Parzival5077]
+[07:42:53] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to Parzival5077]
+[07:43:03] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to AwaKING]
