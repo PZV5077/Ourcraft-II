@@ -1598,3 +1598,13 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [08:48:54] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 370.000000, 65.000000, 1367.000000]
 [08:49:00] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
 [08:49:00] [Server thread/INFO]: Parzival5077 left the game
+[09:25:16] [Server thread/INFO]: CheessRevolution[/127.0.0.1:38616] logged in with entity id 591488 at (15565.069851192591, 73.0, -356.47697535327694)
+[09:25:16] [Server thread/INFO]: CheessRevolution joined the game
+[09:25:19] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[09:25:19] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[09:25:19] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[09:25:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[09:25:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[09:25:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[09:25:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[09:25:19] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
