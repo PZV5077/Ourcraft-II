@@ -5431,6 +5431,7 @@
     "criteria": {
       "minecraft:blaze": "2024-09-30 09:25:10 +0000",
       "minecraft:skeleton": "2024-09-26 07:12:22 +0000",
+      "minecraft:ghast": "2024-10-10 07:48:37 +0000",
       "minecraft:hoglin": "2024-09-30 09:26:50 +0000",
       "minecraft:spider": "2024-09-26 06:50:20 +0000",
       "minecraft:creeper": "2024-09-29 13:16:18 +0000",
@@ -9827,6 +9828,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-10-10 07:36:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/bone_meal_from_overgrown_bone_block": {
+    "criteria": {
+      "has_overgrown_bone_block": "2024-10-10 07:47:15 +0000"
     },
     "done": true
   },

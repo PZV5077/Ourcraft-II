@@ -89,6 +89,7 @@
       "minecraft:pillager": "2024-09-27 13:46:50 +0000",
       "minecraft:blaze": "2024-10-05 14:33:33 +0000",
       "minecraft:skeleton": "2024-09-25 10:12:53 +0000",
+      "minecraft:ghast": "2024-10-10 07:46:36 +0000",
       "minecraft:hoglin": "2024-10-01 14:17:59 +0000",
       "minecraft:spider": "2024-09-25 09:13:57 +0000",
       "minecraft:piglin_brute": "2024-10-05 14:24:30 +0000",
@@ -3039,6 +3040,7 @@
       "mountains": "2024-09-25 10:53:41 +0000",
       "sparse_redwoods": "2024-09-26 07:50:10 +0000",
       "deciduous_forest": "2024-09-25 10:10:41 +0000",
+      "glistering_meadow": "2024-10-10 07:46:10 +0000",
       "chalk_cliffs": "2024-09-25 10:19:15 +0000",
       "infernal_holt": "2024-10-01 14:17:21 +0000",
       "bamboo_forest": "2024-09-25 10:12:39 +0000",
@@ -7858,7 +7860,8 @@
     "criteria": {
       "mycotoxic_undergrowth": "2024-10-05 14:34:21 +0000",
       "infernal_holt": "2024-10-01 14:17:21 +0000",
-      "redstone_abyss": "2024-10-01 14:24:06 +0000"
+      "redstone_abyss": "2024-10-01 14:24:06 +0000",
+      "glistering_meadow": "2024-10-10 07:46:10 +0000"
     },
     "done": false
   },
@@ -8327,6 +8330,30 @@
   "regions_unexplored:recipes/decorations/pine_hanging_sign": {
     "criteria": {
       "has_stripped_pine_log": "2024-10-09 12:05:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-10-10 07:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-10-10 07:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-10-10 07:44:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-10-10 07:44:20 +0000"
     },
     "done": true
   },
