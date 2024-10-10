@@ -7012,6 +7012,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_stove": {
+    "criteria": {
+      "has_light_stove": "2024-10-10 13:00:51 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/dark_microwave": {
     "criteria": {
       "has_microwave": "2024-10-10 12:59:11 +0000"
@@ -7573,6 +7579,12 @@
   "refurbished_furniture:recipes/decorations/white_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_stove": {
+    "criteria": {
+      "has_stove": "2024-10-10 13:00:51 +0000"
     },
     "done": true
   },
