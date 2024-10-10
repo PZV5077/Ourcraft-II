@@ -1908,3 +1908,15 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [11:28:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [11:28:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
 [11:28:01] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[11:29:06] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[11:29:08] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[11:29:41] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
+[11:29:44] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[11:29:46] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[11:30:50] [Server thread/INFO]: AwaKING was doomed to fall by Skeleton
+[11:32:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/516055, l='ServerLevel[world]', x=12176.82, y=87.53, z=-723.70, removed=DISCARDED]
+[11:32:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/516054, l='ServerLevel[world]', x=12176.82, y=87.53, z=-723.70, removed=DISCARDED]
+[11:32:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/516053, l='ServerLevel[world]', x=12176.82, y=87.53, z=-723.70, removed=DISCARDED]
+[11:32:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/516052, l='ServerLevel[world]', x=12176.82, y=87.53, z=-723.70, removed=DISCARDED]
