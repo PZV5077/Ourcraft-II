@@ -1932,3 +1932,25 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [11:36:44] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
 [11:37:12] [Server thread/WARN]: AwaKING moved too quickly! -0.9318730982868146,-11.186365177617212,1.7359322164555806
 [11:40:40] [Server thread/INFO]: Named entity class_3989['Sheer Heart Attack'/774341, l='ServerLevel[world]', x=12563.77, y=-70.00, z=-308.57] died: Sheer Heart Attack was killed
+[11:46:15] [Server thread/INFO]: Villager class_1646['Farmer'/818655, l='ServerLevel[world]', x=12550.71, y=74.00, z=37.49] died, message: 'Farmer was slain by AwaKING using [Killer Queen]'
+[11:47:02] [Server thread/INFO]: AwaKING was blown up by Creeper
+[11:48:24] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
+[11:49:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/516055, l='ServerLevel[world]', x=12176.82, y=87.53, z=-723.70, removed=DISCARDED]
+[11:49:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/516053, l='ServerLevel[world]', x=12176.82, y=87.53, z=-723.70, removed=DISCARDED]
+[11:49:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/516054, l='ServerLevel[world]', x=12176.82, y=87.53, z=-723.70, removed=DISCARDED]
+[11:49:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/516052, l='ServerLevel[world]', x=12176.82, y=87.53, z=-723.70, removed=DISCARDED]
+[11:49:21] [Server thread/INFO]: CheessRevolution has made the advancement [Left hanging]
+[11:52:16] [Server thread/INFO]: Named entity class_3989['Sheer Heart Attack'/875436, l='ServerLevel[world]', x=12244.64, y=-70.00, z=-839.91] died: Sheer Heart Attack was killed
+[11:53:38] [Server thread/INFO]: hhhh_w[/127.0.0.1:48698] logged in with entity id 882709 at (14014.973471063784, 70.0, -277.47540393343843)
+[11:53:38] [Server thread/INFO]: hhhh_w joined the game
+[11:53:42] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[11:53:42] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[11:53:42] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[11:53:42] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[11:53:42] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[11:53:42] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[11:53:42] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[11:53:42] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[11:53:45] [Server thread/INFO]: [Not Secure] <AwaKING> wzh
+[11:53:48] [Server thread/INFO]: [Not Secure] <AwaKING> jerry
+[11:53:51] [Server thread/INFO]: [Not Secure] <AwaKING> come here
