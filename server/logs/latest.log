@@ -1961,3 +1961,15 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [11:55:40] [Server thread/INFO]: [Not Secure] <hhhh_w> tp
 [11:56:09] [Server thread/INFO]: [Not Secure] <hhhh_w> where is fucking eric
 [11:56:49] [Server thread/INFO]: AwaKING was blown up by Creeper
+[12:02:12] [Server thread/INFO]: AwaKING was slain by Enderman
+[12:03:01] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3b2dbc89[id=82867bfb-596f-3077-8318-20b27d811fdd,name=AwaKING,properties={},legacy=false] (/127.0.0.1:55692): §cPlayer literal{AwaKING} is already online!
+[12:03:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@3b2dbc89[id=82867bfb-596f-3077-8318-20b27d811fdd,name=AwaKING,properties={},legacy=false] (/127.0.0.1:55692) lost connection: §cPlayer literal{AwaKING} is already online!
+[12:03:01] [Server thread/WARN]: handleDisconnection() called twice
+[12:03:10] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4c363b82[id=82867bfb-596f-3077-8318-20b27d811fdd,name=AwaKING,properties={},legacy=false] (/127.0.0.1:55702): §cPlayer literal{AwaKING} is already online!
+[12:03:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@4c363b82[id=82867bfb-596f-3077-8318-20b27d811fdd,name=AwaKING,properties={},legacy=false] (/127.0.0.1:55702) lost connection: §cPlayer literal{AwaKING} is already online!
+[12:03:10] [Server thread/WARN]: handleDisconnection() called twice
+[12:03:17] [Server thread/INFO]: AwaKING lost connection: Timed out
+[12:03:17] [Server thread/INFO]: AwaKING left the game
+[12:04:31] [Server thread/INFO]: [Not Secure] <hhhh_w> just one shot
+[12:04:36] [Server thread/INFO]: CheessRevolution was shot by hhhh_w
+[12:04:38] [Server thread/INFO]: [Not Secure] <hhhh_w> wow
