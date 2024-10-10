@@ -1478,3 +1478,48 @@ EdenBiomeSource (5e4b96ae)
 [08:19:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
 [08:19:27] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
 [08:19:48] [Server thread/INFO]: [Parzival5077: Set own game mode to Creative Mode]
+[08:21:34] [Server thread/INFO]: Mei4o has made the advancement [The End?]
+[08:21:46] [Server thread/INFO]: [Parzival5077: Set own game mode to Survival Mode]
+[08:21:57] [Server thread/INFO]: AwaKING[/127.0.0.1:54256] logged in with entity id 373477 at (11910.928402789035, 72.0, -590.1761286945932)
+[08:21:57] [Server thread/INFO]: AwaKING joined the game
+[08:21:59] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[08:21:59] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[08:21:59] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[08:21:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[08:21:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[08:21:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[08:21:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[08:21:59] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[08:22:34] [Server thread/INFO]: Mei4o was slain by Dio Brando
+[08:22:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[08:22:47] [Server thread/INFO]: Parzival5077 was slain by Enderman
+[08:22:55] [Server thread/INFO]: Parzival5077 was slain by Enderman
+[08:22:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2461ms or 49 ticks behind
+[08:23:58] [Server thread/WARN]: UUID of added entity already exists: class_8122['Item Display'/404972, l='ServerLevel[world]', x=58.67, y=61.00, z=23.46]
+[08:23:58] [Server thread/WARN]: UUID of added entity already exists: class_1531['Armor Stand'/404974, l='ServerLevel[world]', x=58.67, y=61.00, z=23.46]
+[08:24:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5129ms or 102 ticks behind
+[08:24:29] [Server thread/INFO]: Named entity class_3989['Sheer Heart Attack'/415443, l='ServerLevel[world]', x=-0.93, y=61.00, z=2.98] died: Sheer Heart Attack was killed
+[08:24:32] [Server thread/INFO]: Named entity class_3989['Sheer Heart Attack'/416971, l='ServerLevel[world]', x=-10.89, y=62.77, z=2.58] died: Sheer Heart Attack was killed
+[08:24:39] [Server thread/INFO]: Mei4o was slain by Enderman
+[08:24:39] [Server thread/INFO]: Named entity class_3989['Sheer Heart Attack'/417710, l='ServerLevel[world]', x=-23.49, y=59.00, z=-8.33] died: Sheer Heart Attack was killed
+[08:24:53] [Server thread/INFO]: AwaKING was slain by Enderman
+[08:24:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[08:25:13] [Server thread/INFO]: Parzival5077 was killed by Ender Dragon using magic
+[08:25:57] [Server thread/INFO]: Mei4o was killed by Ender Dragon using magic
+[08:26:02] [Server thread/INFO]: AwaKING was slain by Enderman
+[08:26:32] [Server thread/INFO]: Parzival5077 has made the advancement [Free the End]
+[08:26:36] [Server thread/INFO]: Parzival5077 was killed by Ender Dragon using magic
+[08:26:44] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
+[08:26:47] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[08:26:49] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 607)]
+[08:27:04] [Server thread/INFO]: Parzival5077 was slain by Enderman
+[08:27:18] [Server thread/INFO]: AwaKING has reached the goal [The Next Generation]
+[08:27:42] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 141.000000, 57.000000, -10.000000]
+[08:27:45] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
+[08:27:58] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 55.000000, 57.000000, 85.000000]
+[08:28:31] [Server thread/INFO]: Mei4o fell from a high place
+[08:28:54] [Server thread/INFO]: AwaKING has made the advancement [Remote Getaway]
+[08:28:54] [Server thread/WARN]: Mei4o moved too quickly! 0.0,-11.798174230684271,0.0
+[08:29:05] [Server thread/INFO]: Parzival5077 has made the advancement [Remote Getaway]
+[08:29:18] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 284.000000, 58.000000, 1103.000000]
+[08:29:59] [Server thread/INFO]: Mei4o tried to swim in lava
