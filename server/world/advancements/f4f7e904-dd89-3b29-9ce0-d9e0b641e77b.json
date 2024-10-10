@@ -7492,6 +7492,12 @@
     },
     "done": true
   },
+  "beautify:frames": {
+    "criteria": {
+      "requirement": "2024-10-10 13:34:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-10-10 12:57:07 +0000"
