@@ -1444,3 +1444,37 @@ EdenBiomeSource (5e4b96ae)
 [08:13:56] [Server thread/INFO]: Parzival5077 was killed by Ender Dragon using magic
 [08:14:11] [Server thread/INFO]: Parzival5077 was killed by Ender Dragon using magic
 [08:14:23] [Server thread/INFO]: AwaKING was slain by Enderman
+[08:14:50] [Server thread/INFO]: AwaKING was killed by Ender Dragon using magic
+[08:15:02] [Server thread/INFO]: Parzival5077 was slain by Enderman
+[08:15:33] [Server thread/WARN]: UUID of added entity already exists: class_1510['Ender Dragon'/341323, l='ServerLevel[world]', x=12107.51, y=77.00, z=-727.08]
+[08:15:33] [Server thread/WARN]: UUID of added entity already exists: class_1510['Ender Dragon'/341341, l='ServerLevel[world]', x=12107.51, y=77.00, z=-727.08]
+[08:15:33] [Server thread/WARN]: UUID of added entity already exists: class_1510['Ender Dragon'/341359, l='ServerLevel[world]', x=12107.51, y=77.00, z=-727.08]
+[08:15:33] [Server thread/WARN]: UUID of added entity already exists: class_1510['Ender Dragon'/341377, l='ServerLevel[world]', x=12107.51, y=77.00, z=-727.08]
+[08:15:33] [Server thread/WARN]: UUID of added entity already exists: class_1510['Ender Dragon'/341395, l='ServerLevel[world]', x=12107.51, y=77.00, z=-727.08]
+[08:15:33] [Server thread/WARN]: UUID of added entity already exists: class_1510['Ender Dragon'/341413, l='ServerLevel[world]', x=12107.51, y=77.00, z=-727.08]
+[08:15:33] [Server thread/WARN]: UUID of added entity already exists: class_1510['Ender Dragon'/341431, l='ServerLevel[world]', x=12107.51, y=77.00, z=-727.08]
+[08:15:33] [Server thread/WARN]: UUID of added entity already exists: class_1510['Ender Dragon'/341449, l='ServerLevel[world]', x=12107.51, y=77.00, z=-727.08]
+[08:15:34] [Server thread/WARN]: UUID of added entity already exists: class_8122['Item Display'/341459, l='ServerLevel[world]', x=12107.51, y=77.00, z=-727.08]
+[08:15:34] [Server thread/WARN]: UUID of added entity already exists: class_8122['Item Display'/341461, l='ServerLevel[world]', x=12107.51, y=77.00, z=-727.08]
+[08:15:34] [Server thread/WARN]: UUID of added entity already exists: class_1531['Armor Stand'/341463, l='ServerLevel[world]', x=12107.51, y=77.00, z=-727.08]
+[08:15:34] [Server thread/WARN]: UUID of added entity already exists: class_1531['Armor Stand'/341465, l='ServerLevel[world]', x=12107.51, y=77.00, z=-727.08]
+[08:15:34] [Server thread/WARN]: UUID of added entity already exists: class_6335['Marker'/341467, l='ServerLevel[world]', x=12107.51, y=77.00, z=-727.08]
+[08:15:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2815ms or 56 ticks behind
+[08:15:45] [Server thread/INFO]: Parzival5077 was slain by Enderman
+[08:16:21] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to AwaKING]
+[08:17:11] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to AwaKING]
+[08:17:15] [Server thread/INFO]: %1$s was slain by %2$s
+[08:17:18] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to AwaKING]
+[08:18:16] [Server thread/INFO]: AwaKING lost connection: Disconnected
+[08:18:16] [Server thread/INFO]: AwaKING left the game
+[08:19:25] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:36254] logged in with entity id 364873 at (14004.53889107222, 71.16610926093821, -263.2745840111879)
+[08:19:25] [Server thread/INFO]: Littlebugs404_ joined the game
+[08:19:27] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[08:19:27] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[08:19:27] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[08:19:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[08:19:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[08:19:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[08:19:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[08:19:27] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[08:19:48] [Server thread/INFO]: [Parzival5077: Set own game mode to Creative Mode]

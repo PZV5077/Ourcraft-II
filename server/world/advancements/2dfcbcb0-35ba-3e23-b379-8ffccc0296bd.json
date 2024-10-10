@@ -21,6 +21,7 @@
     "criteria": {
       "silver_birch_forest": "2024-09-30 12:05:32 +0000",
       "pine_taiga": "2024-09-30 12:24:59 +0000",
+      "scorching_caves": "2024-10-10 08:15:46 +0000",
       "highland_fields": "2024-09-30 11:20:35 +0000",
       "maple_forest": "2024-09-30 12:10:34 +0000",
       "magnolia_highlands": "2024-09-30 11:23:43 +0000",
@@ -5157,6 +5158,12 @@
       "has_planks": "2024-10-10 08:10:38 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "scorching_caves": "2024-10-10 08:15:46 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
