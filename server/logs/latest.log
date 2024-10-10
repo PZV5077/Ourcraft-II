@@ -1523,3 +1523,22 @@ EdenBiomeSource (5e4b96ae)
 [08:29:05] [Server thread/INFO]: Parzival5077 has made the advancement [Remote Getaway]
 [08:29:18] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 284.000000, 58.000000, 1103.000000]
 [08:29:59] [Server thread/INFO]: Mei4o tried to swim in lava
+[08:30:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[08:30:20] [Server thread/INFO]: Mei4o burned to death
+[08:30:26] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to AwaKING]
+[08:30:33] [Server thread/INFO]: Parzival5077 was slain by AwaKING using [Killer Queen]
+[08:30:40] [Server thread/INFO]: Mei4o has made the advancement [Hot Stuff]
+[08:31:05] [Server thread/INFO]: Parzival5077 was slain by Enderman
+[08:31:37] [Server thread/INFO]: AwaKING was slain by Enderman
+[08:31:47] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
+[08:31:50] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[08:31:52] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 606)]
+[08:32:36] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to -10.000000, 58.000000, 1059.000000]
+[08:33:18] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to -221.000000, 57.000000, 1130.000000]
+[08:33:22] [Server thread/INFO]: AwaKING was slain by Enderman
+[08:34:15] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to -189.000000, 61.000000, 1333.000000]
+[08:34:32] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to -56.000000, 61.000000, 1335.000000]
+[08:34:58] [Server thread/INFO]: Named entity class_3989['Sheer Heart Attack'/514557, l='ServerLevel[world]', x=-138.91, y=-70.00, z=1069.03] died: Sheer Heart Attack was killed
+[08:35:04] [Server thread/INFO]: Mei4o lost connection: Disconnected
+[08:35:04] [Server thread/INFO]: Mei4o left the game
+[08:35:17] [Server thread/INFO]: Parzival5077 has made the advancement [The City at the End of the Game]

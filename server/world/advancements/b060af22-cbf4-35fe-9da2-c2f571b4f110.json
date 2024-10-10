@@ -7596,5 +7596,23 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooked_chicken_cuts_from_smoking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2024-10-10 08:33:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_chicken_cuts": {
+    "criteria": {
+      "cooked_chicken_cuts": "2024-10-10 08:33:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_chicken_cuts_from_campfire_cooking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2024-10-10 08:33:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
