@@ -1931,3 +1931,4 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [11:36:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
 [11:36:44] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
 [11:37:12] [Server thread/WARN]: AwaKING moved too quickly! -0.9318730982868146,-11.186365177617212,1.7359322164555806
+[11:40:40] [Server thread/INFO]: Named entity class_3989['Sheer Heart Attack'/774341, l='ServerLevel[world]', x=12563.77, y=-70.00, z=-308.57] died: Sheer Heart Attack was killed
