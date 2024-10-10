@@ -968,6 +968,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2024-09-25 09:31:43 +0000",
+      "redstone_abyss": "2024-10-10 13:40:51 +0000",
       "pine_taiga": "2024-09-25 10:12:18 +0000",
       "muddy_river": "2024-09-26 05:25:03 +0000",
       "autumnal_maple_forest": "2024-09-26 07:26:40 +0000",
@@ -6940,6 +6941,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_range_hood": {
+    "criteria": {
+      "has_light_range_hood": "2024-10-10 13:36:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_quartz_block": "2024-10-10 12:57:07 +0000"
@@ -6961,6 +6968,12 @@
   "refurbished_furniture:recipes/misc/constructing/white_kitchen_drawer": {
     "criteria": {
       "has_white_dye": "2024-10-10 12:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/packed_ice": {
+    "criteria": {
+      "has_ingredient": "2024-10-10 13:37:24 +0000"
     },
     "done": true
   },
@@ -7011,6 +7024,12 @@
       "has_glass_pane": "2024-10-10 11:45:43 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "redstone_abyss": "2024-10-10 13:40:51 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/dark_stove": {
     "criteria": {
@@ -7390,6 +7409,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/dark_range_hood": {
+    "criteria": {
+      "has_range_hood": "2024-10-10 13:36:19 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_kitchen_drawer": {
     "criteria": {
       "has_wooden_kitchen_drawers": "2024-10-10 12:58:24 +0000"
@@ -7399,6 +7424,12 @@
   "beautify:lamp_jar": {
     "criteria": {
       "requirement": "2024-10-10 12:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-10-10 13:40:50 +0000"
     },
     "done": true
   },
@@ -7489,6 +7520,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2024-10-10 12:45:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2024-10-10 13:37:24 +0000"
     },
     "done": true
   },
@@ -7633,6 +7670,12 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_drawer": {
     "criteria": {
       "has_wooden_kitchen_drawers": "2024-10-10 12:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-10-10 13:40:50 +0000"
     },
     "done": true
   },
