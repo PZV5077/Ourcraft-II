@@ -7000,9 +7000,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-10-10 12:53:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2024-10-10 12:00:58 +0000"
+    },
+    "done": true
+  },
+  "beautify:lamp_jar": {
+    "criteria": {
+      "requirement": "2024-10-10 12:53:23 +0000"
     },
     "done": true
   },
@@ -7015,6 +7027,18 @@
   "beautify:progression/hanging_pot": {
     "criteria": {
       "obtain": "2024-10-10 11:49:21 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_fridge": {
+    "criteria": {
+      "has_fridge": "2024-10-10 12:52:30 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/tracer_tip": {
+    "criteria": {
+      "has_glowstone": "2024-10-10 12:53:23 +0000"
     },
     "done": true
   },
@@ -7066,6 +7090,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_fridge": {
+    "criteria": {
+      "has_light_fridge": "2024-10-10 12:52:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-10-10 11:45:43 +0000"
@@ -7093,6 +7123,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-10-10 11:45:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-10-10 12:53:23 +0000"
     },
     "done": true
   },
