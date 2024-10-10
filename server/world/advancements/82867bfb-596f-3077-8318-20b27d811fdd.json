@@ -23,6 +23,7 @@
       "minecraft:birch_forest": "2024-09-25 09:13:12 +0000",
       "minecraft:bamboo_jungle": "2024-09-26 07:50:26 +0000",
       "minecraft:savanna_plateau": "2024-09-25 09:24:08 +0000",
+      "minecraft:beach": "2024-10-10 08:10:44 +0000",
       "minecraft:sparse_jungle": "2024-09-26 07:49:31 +0000",
       "minecraft:river": "2024-09-25 09:13:37 +0000",
       "minecraft:lukewarm_ocean": "2024-09-26 07:54:20 +0000",
@@ -8340,9 +8341,33 @@
     },
     "done": true
   },
+  "svm_jojo:skill_tree/whitesnake/melt_your_heart": {
+    "criteria": {
+      "requirement": "2024-10-10 08:04:39 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/weather_report/cloud_shoot": {
+    "criteria": {
+      "requirement": "2024-10-10 08:04:23 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/whitesnake/pilot": {
+    "criteria": {
+      "requirement": "2024-10-10 08:04:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-10-10 07:52:13 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/weather_report/wind_flight": {
+    "criteria": {
+      "requirement": "2024-10-10 08:04:23 +0000"
     },
     "done": true
   },
@@ -8352,9 +8377,21 @@
     },
     "done": true
   },
+  "svm_jojo:skill_tree/whitesnake/disc_punch": {
+    "criteria": {
+      "requirement": "2024-10-10 08:04:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-10-10 07:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-10-10 08:10:33 +0000"
     },
     "done": true
   },
@@ -8373,6 +8410,12 @@
   "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-10-10 07:52:13 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/kills/killer_queen/50": {
+    "criteria": {
+      "requirement": "2024-10-10 08:12:58 +0000"
     },
     "done": true
   },
@@ -8400,6 +8443,12 @@
     },
     "done": true
   },
+  "svm_jojo:skill_tree/weather_report/wind_shoot": {
+    "criteria": {
+      "requirement": "2024-10-10 08:04:23 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_from_blasting_redstone_bulb": {
     "criteria": {
       "has_redstone_bulb": "2024-10-10 07:52:14 +0000"
@@ -8424,6 +8473,12 @@
     },
     "done": true
   },
+  "svm_jojo:storyline/get_weather_report": {
+    "criteria": {
+      "requirement": "2024-10-10 08:04:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-10-10 07:52:13 +0000"
@@ -8442,9 +8497,21 @@
     },
     "done": true
   },
+  "svm_jojo:skill_tree/whitesnake/chop": {
+    "criteria": {
+      "requirement": "2024-10-10 08:04:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2024-10-10 07:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-10-10 08:10:44 +0000"
     },
     "done": true
   },
@@ -8466,6 +8533,18 @@
     },
     "done": true
   },
+  "svm_jojo:storyline/get_whitesnake": {
+    "criteria": {
+      "requirement": "2024-10-10 08:04:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-10-10 08:10:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-10-10 07:52:13 +0000"
@@ -8478,9 +8557,21 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-10-10 08:11:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-10-10 07:52:13 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/weather_report/rain": {
+    "criteria": {
+      "requirement": "2024-10-10 08:04:23 +0000"
     },
     "done": true
   },
@@ -8520,6 +8611,12 @@
     },
     "done": true
   },
+  "svm_jojo:skill_tree/whitesnake/root": {
+    "criteria": {
+      "requirement": "2024-10-10 08:04:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-10-10 07:52:13 +0000"
@@ -8544,15 +8641,45 @@
     },
     "done": true
   },
+  "svm_jojo:skill_tree/weather_report/root": {
+    "criteria": {
+      "requirement": "2024-10-10 08:04:22 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/whitesnake/disguise": {
+    "criteria": {
+      "requirement": "2024-10-10 08:04:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-10-10 08:11:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2024-10-10 07:44:20 +0000"
     },
     "done": true
   },
+  "svm_jojo:skill_tree/weather_report/wind_barrage": {
+    "criteria": {
+      "requirement": "2024-10-10 08:04:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2024-10-10 07:44:20 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/weather_report/frog_rain": {
+    "criteria": {
+      "requirement": "2024-10-10 08:04:23 +0000"
     },
     "done": true
   },

@@ -1414,3 +1414,33 @@ EdenBiomeSource (5e4b96ae)
 [08:03:57] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 10202.000000, 64.000000, -3697.000000]
 [08:04:10] [Server thread/WARN]: Mei4o moved too quickly! -7.542724801782242,5.249187078744683,4.230402362497898
 [08:04:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12796ms or 255 ticks behind
+[08:04:22] [Server thread/INFO]: AwaKING has made the advancement [Do I miss something?]
+[08:04:29] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[08:04:36] [Server thread/INFO]: Locating element minecraft:stronghold took 203 ms
+[08:04:38] [Server thread/INFO]: AwaKING has made the advancement [Once a life is lost, you cannot bring it back]
+[08:05:13] [Server thread/INFO]: Locating element minecraft:stronghold took 0 ms
+[08:05:17] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 10768.500000, 73.000000, -1679.500000]
+[08:05:25] [Server thread/INFO]: Parzival5077 fell from a high place
+[08:05:52] [Server thread/INFO]: [Parzival5077: Gave 1 [Diamond Pickaxe] to Parzival5077]
+[08:06:21] [Server thread/INFO]: Parzival5077 has made the advancement [Eye Spy]
+[08:07:17] [Server thread/INFO]: [Parzival5077: Gave 64 [Torch] to Parzival5077]
+[08:07:29] [Server thread/INFO]: [Parzival5077: Gave 64 [Torch] to Parzival5077]
+[08:08:15] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 10751.000000, 27.000000, -1704.000000]
+[08:08:25] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 10751.000000, 27.000000, -1663.000000]
+[08:10:19] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[08:10:36] [Server thread/INFO]: [Parzival5077: Gave 12 [Eye of Ender] to Parzival5077]
+[08:10:43] [Server thread/INFO]: [Parzival5077: Teleported AwaKING to Parzival5077]
+[08:10:44] [Server thread/INFO]: AwaKING has made the advancement [Eye Spy]
+[08:10:46] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
+[08:11:25] [Server thread/INFO]: Parzival5077 was slain by AwaKING using [Killer Queen]
+[08:11:43] [Server thread/INFO]: AwaKING has made the advancement [The End?]
+[08:11:45] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[08:11:45] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[08:11:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2441ms or 48 ticks behind
+[08:11:47] [Server thread/INFO]: Parzival5077 has made the advancement [The End?]
+[08:12:51] [Server thread/INFO]: Parzival5077 was slain by Enderman
+[08:13:15] [Server thread/INFO]: AwaKING was slain by Enderman
+[08:13:50] [Server thread/INFO]: Parzival5077 was killed by Ender Dragon using magic
+[08:13:56] [Server thread/INFO]: Parzival5077 was killed by Ender Dragon using magic
+[08:14:11] [Server thread/INFO]: Parzival5077 was killed by Ender Dragon using magic
+[08:14:23] [Server thread/INFO]: AwaKING was slain by Enderman
