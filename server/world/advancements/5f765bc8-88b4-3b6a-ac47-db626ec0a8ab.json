@@ -8736,6 +8736,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/larch_shrub": {
+    "criteria": {
+      "has_larch_sapling": "2024-10-10 12:05:12 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2024-10-10 11:54:27 +0000"
