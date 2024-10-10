@@ -1770,3 +1770,4 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [10:18:16] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [10:18:16] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
 [10:18:16] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[10:28:54] [Server thread/INFO]: Littlebugs404_ was blown up by Creeper
