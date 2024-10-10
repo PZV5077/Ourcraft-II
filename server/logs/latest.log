@@ -1874,3 +1874,14 @@ io.netty.handler.timeout.ReadTimeoutException: null
 io.netty.handler.timeout.ReadTimeoutException: null
 [10:42:38] [Server thread/INFO]: Littlebugs404_ lost connection: Disconnected
 [10:42:38] [Server thread/INFO]: Littlebugs404_ left the game
+[10:43:25] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:54560] logged in with entity id 664638 at (12556.76297934987, 100.7531999805212, -255.87176555455915)
+[10:43:25] [Server thread/INFO]: Littlebugs404_ joined the game
+[10:43:26] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[10:43:26] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[10:43:26] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[10:43:26] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[10:43:26] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[10:43:26] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[10:43:26] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[10:43:26] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[10:46:58] [Server thread/INFO]: [Not Secure] <Littlebugs404_> zzz
