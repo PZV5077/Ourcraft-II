@@ -1699,3 +1699,30 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [09:46:39] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
 [09:46:47] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[09:47:07] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[09:48:37] [pool-6-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos class_2338{x=11317, y=67, z=-1451}
+[09:55:36] [pool-6-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=11301, y=69, z=-1765}
+[09:58:13] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@22840c15[id=f4f7e904-dd89-3b29-9ce0-d9e0b641e77b,name=CheessRevolution,properties={},legacy=false] (/127.0.0.1:51188): §cPlayer literal{CheessRevolution} is already online!
+[09:58:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@22840c15[id=f4f7e904-dd89-3b29-9ce0-d9e0b641e77b,name=CheessRevolution,properties={},legacy=false] (/127.0.0.1:51188) lost connection: §cPlayer literal{CheessRevolution} is already online!
+[09:58:13] [Server thread/WARN]: handleDisconnection() called twice
+[09:58:18] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@16dc60f8[id=f4f7e904-dd89-3b29-9ce0-d9e0b641e77b,name=CheessRevolution,properties={},legacy=false] (/127.0.0.1:51216): §cPlayer literal{CheessRevolution} is already online!
+[09:58:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@16dc60f8[id=f4f7e904-dd89-3b29-9ce0-d9e0b641e77b,name=CheessRevolution,properties={},legacy=false] (/127.0.0.1:51216) lost connection: §cPlayer literal{CheessRevolution} is already online!
+[09:58:18] [Server thread/WARN]: handleDisconnection() called twice
+[09:58:22] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6cd72769[id=f4f7e904-dd89-3b29-9ce0-d9e0b641e77b,name=CheessRevolution,properties={},legacy=false] (/127.0.0.1:42498): §cPlayer literal{CheessRevolution} is already online!
+[09:58:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@6cd72769[id=f4f7e904-dd89-3b29-9ce0-d9e0b641e77b,name=CheessRevolution,properties={},legacy=false] (/127.0.0.1:42498) lost connection: §cPlayer literal{CheessRevolution} is already online!
+[09:58:22] [Server thread/WARN]: handleDisconnection() called twice
+[09:58:25] [Server thread/INFO]: CheessRevolution lost connection: Timed out
+[09:58:25] [Server thread/INFO]: CheessRevolution left the game
+[09:58:28] [Server thread/INFO]: CheessRevolution[/127.0.0.1:42528] logged in with entity id 628460 at (14015.521825994876, 71.0, -280.32004678674144)
+[09:58:28] [Server thread/INFO]: CheessRevolution joined the game
+[09:58:28] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[09:58:28] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[09:58:28] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[09:58:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[09:58:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[09:58:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[09:58:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[09:58:28] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[10:04:03] [Server thread/INFO]: Littlebugs404_ lost connection: Disconnected
+[10:04:03] [Server thread/INFO]: Littlebugs404_ left the game

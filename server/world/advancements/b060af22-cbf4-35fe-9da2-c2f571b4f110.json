@@ -38,6 +38,7 @@
       "minecraft:lush_caves": "2024-09-27 12:34:14 +0000",
       "minecraft:deep_cold_ocean": "2024-09-25 10:40:40 +0000",
       "minecraft:frozen_ocean": "2024-09-26 06:44:13 +0000",
+      "minecraft:desert": "2024-10-10 09:49:01 +0000",
       "minecraft:deep_frozen_ocean": "2024-09-29 14:00:25 +0000",
       "minecraft:ocean": "2024-09-25 10:09:09 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-09-27 12:31:33 +0000",
@@ -69,6 +70,7 @@
       "outback": "2024-10-10 08:48:46 +0000",
       "sparse_redwoods": "2024-09-25 10:14:26 +0000",
       "mountains": "2024-10-10 08:42:50 +0000",
+      "deciduous_forest": "2024-10-10 09:57:50 +0000",
       "boreal_forest": "2024-09-25 10:39:16 +0000",
       "chalk_cliffs": "2024-10-10 08:45:23 +0000",
       "cold_boreal_taiga": "2024-09-29 14:02:34 +0000",
@@ -76,6 +78,7 @@
       "temperate_grove": "2024-09-25 08:43:21 +0000",
       "cold_river": "2024-09-26 07:52:48 +0000",
       "pine_slopes": "2024-10-10 08:42:40 +0000",
+      "baobab_savanna": "2024-10-10 09:54:43 +0000",
       "grassland": "2024-10-10 08:44:49 +0000",
       "gravel_beach": "2024-09-26 06:44:43 +0000",
       "redwoods": "2024-09-25 10:12:38 +0000",
@@ -101,6 +104,7 @@
       "outback": "2024-10-10 08:48:46 +0000",
       "sparse_redwoods": "2024-09-25 10:14:26 +0000",
       "mountains": "2024-10-10 08:42:50 +0000",
+      "deciduous_forest": "2024-10-10 09:57:50 +0000",
       "boreal_forest": "2024-09-25 10:39:16 +0000",
       "chalk_cliffs": "2024-10-10 08:45:23 +0000",
       "cold_boreal_taiga": "2024-09-29 14:02:34 +0000",
@@ -108,6 +112,7 @@
       "temperate_grove": "2024-09-25 08:43:21 +0000",
       "cold_river": "2024-09-26 07:52:48 +0000",
       "pine_slopes": "2024-10-10 08:42:40 +0000",
+      "baobab_savanna": "2024-10-10 09:54:43 +0000",
       "grassland": "2024-10-10 08:44:49 +0000",
       "gravel_beach": "2024-09-26 06:44:43 +0000",
       "redwoods": "2024-09-25 10:12:38 +0000",
@@ -7629,6 +7634,240 @@
   "farmersdelight:recipes/farmersdelight/cooked_chicken_cuts_from_campfire_cooking": {
     "criteria": {
       "cooked_chicken_cuts": "2024-10-10 08:33:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2024-10-10 09:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-10-10 09:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-10-10 09:55:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_crate": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-10-10 09:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-10-10 09:53:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_planks": "2024-10-10 09:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-10-10 09:55:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-10-10 09:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-10-10 09:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-10-10 09:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-10-10 09:55:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_cutting_board": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-10-10 09:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-10-10 09:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-10-10 09:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_mail_box": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-10-10 09:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-10-10 09:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-10-10 09:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-10-10 09:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-10-10 09:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-10-10 09:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-10-10 09:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-10-10 09:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-10-10 09:55:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-10-10 09:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-10-10 09:51:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2024-10-10 09:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-10-10 09:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-10-10 09:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-10-10 09:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-10-10 09:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-10-10 09:55:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-10-10 09:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-10-10 09:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-10-10 09:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-10-10 09:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-10-10 09:55:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-10-10 09:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-10-10 09:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-10-10 09:55:53 +0000"
     },
     "done": true
   },
