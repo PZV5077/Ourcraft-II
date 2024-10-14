@@ -5219,7 +5219,8 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
-      "larch_log": "2024-09-25 10:50:55 +0000"
+      "larch_log": "2024-09-25 10:50:55 +0000",
+      "bamboo_log": "2024-10-14 09:52:11 +0000"
     },
     "done": false
   },
@@ -7838,6 +7839,30 @@
       "redstone_abyss": "2024-10-10 13:40:51 +0000"
     },
     "done": false
+  },
+  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
+    "criteria": {
+      "has_hyssop": "2024-10-14 09:51:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2024-10-14 09:52:11 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/climbing_rope_topmount": {
+    "criteria": {
+      "has_lead": "2024-10-14 09:48:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
+    "criteria": {
+      "has_fireweed": "2024-10-14 09:50:38 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
