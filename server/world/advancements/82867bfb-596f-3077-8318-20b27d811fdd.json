@@ -8994,6 +8994,12 @@
     },
     "done": false
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2024-10-14 07:09:02 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
     "criteria": {
       "has_end_stone_bricks": "2024-10-14 06:39:23 +0000"

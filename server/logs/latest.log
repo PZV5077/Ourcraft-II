@@ -1710,3 +1710,31 @@ EdenBiomeSource (446847aa)
 [07:07:12] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
 [07:07:17] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
 [07:09:15] [Server thread/INFO]: Parzival5077 fell from a high place
+[07:09:58] [Server thread/INFO]: hhhh_w lost connection: Disconnected
+[07:09:58] [Server thread/INFO]: hhhh_w left the game
+[07:10:22] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 12595.000000, 95.000000, -309.000000]
+[07:10:46] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to AwaKING]
+[07:11:00] [Server thread/INFO]: Parzival5077 has made the advancement [Stand Mastery I]
+[07:11:00] [Server thread/INFO]: Parzival5077 has made the advancement [Stand Mastery II]
+[07:11:29] [Server thread/INFO]: hhhh_w[/127.0.0.1:39418] logged in with entity id 285939 at (-663.8377432877093, 61.41999998688698, 2661.719299381725)
+[07:11:29] [Server thread/INFO]: hhhh_w joined the game
+[07:11:33] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[07:11:33] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[07:11:33] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[07:11:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[07:11:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[07:11:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[07:11:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[07:11:33] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[07:12:10] [Server thread/INFO]: AwaKING was doomed to fall by Parzival5077 using [Weather Report]
+[07:12:13] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[07:12:26] [Server thread/INFO]: Parzival5077 was slain by AwaKING using [Killer Queen]
+[07:12:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[07:12:46] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
+[07:12:48] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[07:12:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2322ms or 46 ticks behind
+[07:13:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3987ms or 79 ticks behind
+[07:13:42] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu]]
+[07:13:46] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 357)]
+[07:14:06] [Server thread/INFO]: [Parzival5077: Gave 64 [Gunpowder] to Parzival5077]
+[07:14:33] [Server thread/INFO]: [Parzival5077: Gave 41 [Block of Iron] to Parzival5077]
