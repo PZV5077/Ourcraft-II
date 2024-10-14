@@ -1717,3 +1717,52 @@ EdenBiomeSource (6ce741e4)
 [12:20:19] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
 [12:20:31] [Server thread/INFO]: [Not Secure] <AwaKING> no
 [12:20:35] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 11960.000000, 72.000000, -587.000000]
+[12:25:20] [Server thread/INFO]: AwaKING was shot by Parzival5077
+[12:25:36] [Server thread/INFO]: AwaKING was shot by Parzival5077
+[12:25:45] [Server thread/INFO]: AwaKING was shot by Parzival5077
+[12:26:18] [Server thread/INFO]: Parzival5077 was slain by AwaKING using [The World]
+[12:26:55] [Server thread/INFO]: Parzival5077 lost connection: Timed out
+[12:26:55] [Server thread/INFO]: Parzival5077 left the game
+[12:27:16] [Server thread/INFO]: Parzival5077[/127.0.0.1:48030] logged in with entity id 132177 at (11964.0, 71.0, -574.0)
+[12:27:16] [Server thread/INFO]: Parzival5077 joined the game
+[12:27:16] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[12:27:16] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[12:27:16] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[12:27:16] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[12:27:16] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[12:27:16] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[12:27:16] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[12:27:16] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[12:27:34] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[12:27:45] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[12:27:46] [Server thread/INFO]: Parzival5077 lost connection: Timed out
+[12:27:46] [Server thread/INFO]: Parzival5077 left the game
+[12:27:51] [Server thread/INFO]: AwaKING has made the advancement [In order to grow, we must defeat the mistakes of our past]
+[12:27:56] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[12:28:04] [Server thread/INFO]: Parzival5077[/127.0.0.1:42944] logged in with entity id 150832 at (11961.573735655067, 72.0, -587.9311783321141)
+[12:28:04] [Server thread/INFO]: Parzival5077 joined the game
+[12:28:04] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[12:28:04] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[12:28:04] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[12:28:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[12:28:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[12:28:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[12:28:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[12:28:04] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[12:28:25] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[12:28:34] [Server thread/INFO]: Parzival5077 lost connection: Timed out
+[12:28:34] [Server thread/INFO]: Parzival5077 left the game
+[12:28:37] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[12:28:54] [Server thread/INFO]: Parzival5077[/127.0.0.1:41854] logged in with entity id 155361 at (11961.573735655067, 72.0, -587.9311783321141)
+[12:28:54] [Server thread/INFO]: Parzival5077 joined the game
+[12:28:54] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[12:28:54] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[12:28:54] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[12:28:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[12:28:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[12:28:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[12:28:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[12:28:54] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[12:29:17] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[12:29:41] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[12:29:55] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
