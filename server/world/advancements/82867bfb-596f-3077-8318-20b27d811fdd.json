@@ -22,6 +22,7 @@
       "minecraft:cherry_grove": "2024-10-01 14:06:06 +0000",
       "minecraft:birch_forest": "2024-09-25 09:13:12 +0000",
       "minecraft:bamboo_jungle": "2024-09-26 07:50:26 +0000",
+      "minecraft:wooded_badlands": "2024-10-14 12:08:30 +0000",
       "minecraft:savanna_plateau": "2024-09-25 09:24:08 +0000",
       "minecraft:beach": "2024-10-10 08:10:44 +0000",
       "minecraft:sparse_jungle": "2024-09-26 07:49:31 +0000",
@@ -3040,6 +3041,7 @@
       "ancient_delta": "2024-09-26 05:00:18 +0000",
       "willow_forest": "2024-10-14 07:27:18 +0000",
       "frozen_tundra": "2024-10-01 14:08:26 +0000",
+      "redstone_caves": "2024-10-14 12:11:53 +0000",
       "grassy_beach": "2024-09-25 11:15:28 +0000",
       "scorching_caves": "2024-09-26 07:09:35 +0000",
       "rocky_meadow": "2024-09-25 10:16:14 +0000",
@@ -3050,6 +3052,8 @@
       "frozen_pine_taiga": "2024-10-14 07:30:26 +0000",
       "tropical_river": "2024-10-14 06:53:35 +0000",
       "magnolia_highlands": "2024-09-25 10:16:18 +0000",
+      "eucalyptus_forest": "2024-10-14 12:09:08 +0000",
+      "outback": "2024-10-14 12:08:50 +0000",
       "mountains": "2024-09-25 10:53:41 +0000",
       "sparse_redwoods": "2024-09-26 07:50:10 +0000",
       "deciduous_forest": "2024-09-25 10:10:41 +0000",
@@ -3091,6 +3095,8 @@
       "frozen_pine_taiga": "2024-10-14 07:30:26 +0000",
       "tropical_river": "2024-10-14 06:53:35 +0000",
       "magnolia_highlands": "2024-09-25 10:16:18 +0000",
+      "eucalyptus_forest": "2024-10-14 12:09:08 +0000",
+      "outback": "2024-10-14 12:08:50 +0000",
       "mountains": "2024-09-25 10:53:41 +0000",
       "sparse_redwoods": "2024-09-26 07:50:10 +0000",
       "deciduous_forest": "2024-09-25 10:10:41 +0000",
@@ -4429,6 +4435,7 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "magnolia_log": "2024-09-26 06:41:59 +0000",
+      "eucalyptus_log": "2024-10-14 12:09:13 +0000",
       "pine_log": "2024-09-25 10:52:53 +0000",
       "maple_log": "2024-09-26 06:23:57 +0000",
       "bamboo_log": "2024-09-25 10:14:43 +0000"
@@ -5914,6 +5921,7 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
+      "redstone_caves": "2024-10-14 12:11:53 +0000",
       "scorching_caves": "2024-09-26 07:09:35 +0000",
       "ancient_delta": "2024-09-26 05:00:18 +0000"
     },
@@ -9228,6 +9236,162 @@
   "supplementaries:recipes/pedestal": {
     "criteria": {
       "has_stone_brick_slab": "2024-10-14 11:54:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_pressure_plate": {
+    "criteria": {
+      "has_eucalyptus_planks": "2024-10-14 12:15:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-10-14 12:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-10-14 12:12:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_button": {
+    "criteria": {
+      "has_eucalyptus_planks": "2024-10-14 12:15:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/eucalyptus_sign": {
+    "criteria": {
+      "has_eucalyptus_planks": "2024-10-14 12:15:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/eucalyptus_branch_from_eucalyptus_log": {
+    "criteria": {
+      "has_log": "2024-10-14 12:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-10-14 12:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-10-14 12:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-10-14 12:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-10-14 12:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-10-14 12:12:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_planks": {
+    "criteria": {
+      "has_logs": "2024-10-14 12:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-10-14 12:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-10-14 12:12:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-10-14 12:12:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_trapdoor": {
+    "criteria": {
+      "has_eucalyptus_planks": "2024-10-14 12:15:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/eucalyptus_fence": {
+    "criteria": {
+      "has_eucalyptus_planks": "2024-10-14 12:15:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_fence_gate": {
+    "criteria": {
+      "has_eucalyptus_planks": "2024-10-14 12:15:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-10-14 12:12:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_eucalyptus": {
+    "criteria": {
+      "has_planks": "2024-10-14 12:15:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_wood": {
+    "criteria": {
+      "has_log": "2024-10-14 12:09:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_slab": {
+    "criteria": {
+      "has_eucalyptus_planks": "2024-10-14 12:15:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2024-10-14 12:12:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-10-14 12:12:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_door": {
+    "criteria": {
+      "has_eucalyptus_planks": "2024-10-14 12:15:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_stairs": {
+    "criteria": {
+      "has_eucalyptus_planks": "2024-10-14 12:15:34 +0000"
     },
     "done": true
   },
