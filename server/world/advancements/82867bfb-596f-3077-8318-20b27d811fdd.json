@@ -3023,6 +3023,7 @@
       "cooked_cod": "2024-10-14 11:10:17 +0000",
       "mutton": "2024-09-26 05:10:02 +0000",
       "bread": "2024-09-25 10:57:08 +0000",
+      "golden_apple": "2024-10-14 12:34:47 +0000",
       "rotten_flesh": "2024-09-30 11:14:20 +0000",
       "melon_slice": "2024-09-26 07:49:45 +0000",
       "golden_carrot": "2024-10-05 14:26:53 +0000",
@@ -9314,6 +9315,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-10-14 12:12:10 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/erase_time_stop": {
+    "criteria": {
+      "requirement": "2024-10-14 12:35:10 +0000"
     },
     "done": true
   },

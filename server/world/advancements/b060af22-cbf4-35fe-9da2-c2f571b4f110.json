@@ -8136,6 +8136,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-10-14 09:46:05 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/climbing_rope_topmount": {
+    "criteria": {
+      "has_lead": "2024-10-14 09:46:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-10-14 09:54:35 +0000"
@@ -8154,21 +8166,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/rope": {
-    "criteria": {
-      "has_straw": "2024-10-14 09:57:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-10-14 09:54:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2024-10-14 09:46:05 +0000"
     },
     "done": true
   },
@@ -8184,12 +8184,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/rice": {
-    "criteria": {
-      "has_rice_panicle": "2024-10-14 09:57:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-10-14 09:54:35 +0000"
@@ -8202,30 +8196,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/organic_compost_from_tree_bark": {
-    "criteria": {
-      "has_straw": "2024-10-14 09:57:48 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/climbing_rope_topmount": {
-    "criteria": {
-      "has_lead": "2024-10-14 09:46:37 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/canvas": {
-    "criteria": {
-      "has_straw": "2024-10-14 09:57:48 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/straw_bale": {
-    "criteria": {
-      "has_straw": "2024-10-14 09:57:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-10-14 09:54:35 +0000"
@@ -8235,12 +8205,6 @@
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-10-14 09:54:35 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/rice_bale": {
-    "criteria": {
-      "has_rice_panicle": "2024-10-14 09:57:21 +0000"
     },
     "done": true
   },
@@ -8262,18 +8226,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
-    "criteria": {
-      "has_straw": "2024-10-14 09:57:48 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/harvest_straw": {
-    "criteria": {
-      "harvest_straw": "2024-10-14 09:57:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-10-14 09:54:35 +0000"
@@ -8289,6 +8241,54 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-10-14 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rice": {
+    "criteria": {
+      "has_rice_panicle": "2024-10-14 09:57:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2024-10-14 09:57:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rope": {
+    "criteria": {
+      "has_straw": "2024-10-14 09:57:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_straw": "2024-10-14 09:57:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/canvas": {
+    "criteria": {
+      "has_straw": "2024-10-14 09:57:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/straw_bale": {
+    "criteria": {
+      "has_straw": "2024-10-14 09:57:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+    "criteria": {
+      "has_straw": "2024-10-14 09:57:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2024-10-14 09:57:48 +0000"
     },
     "done": true
   },
