@@ -5436,6 +5436,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2024-09-30 09:25:10 +0000",
+      "minecraft:pillager": "2024-10-14 07:09:48 +0000",
       "minecraft:skeleton": "2024-09-26 07:12:22 +0000",
       "minecraft:ghast": "2024-10-10 07:48:37 +0000",
       "minecraft:hoglin": "2024-09-30 09:26:50 +0000",
@@ -10021,6 +10022,24 @@
     },
     "done": true
   },
+  "svm_jojo:skill_tree/weather_report/wind_flight": {
+    "criteria": {
+      "requirement": "2024-10-14 07:11:00 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/stand_mastery_2": {
+    "criteria": {
+      "requirement": "2024-10-14 07:11:00 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/stand_mastery_1": {
+    "criteria": {
+      "requirement": "2024-10-14 07:11:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2024-10-14 06:54:00 +0000"
@@ -10054,6 +10073,12 @@
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2024-10-14 06:39:15 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/weather_report/wind_barrage": {
+    "criteria": {
+      "requirement": "2024-10-14 07:11:00 +0000"
     },
     "done": true
   },
