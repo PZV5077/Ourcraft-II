@@ -9044,6 +9044,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-10-14 13:01:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2024-10-14 12:59:22 +0000"
@@ -9059,6 +9065,12 @@
   "beautify:progression/light": {
     "criteria": {
       "obtain": "2024-10-14 12:55:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-10-14 13:01:13 +0000"
     },
     "done": true
   },
