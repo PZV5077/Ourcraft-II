@@ -3055,6 +3055,7 @@
       "deciduous_forest": "2024-09-25 10:10:41 +0000",
       "boreal_forest": "2024-10-14 07:27:40 +0000",
       "glistering_meadow": "2024-10-10 07:46:10 +0000",
+      "blackstone_basin": "2024-10-14 11:55:38 +0000",
       "chalk_cliffs": "2024-09-25 10:19:15 +0000",
       "infernal_holt": "2024-10-01 14:17:21 +0000",
       "bamboo_forest": "2024-09-25 10:12:39 +0000",
@@ -7891,11 +7892,12 @@
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "mycotoxic_undergrowth": "2024-10-05 14:34:21 +0000",
+      "blackstone_basin": "2024-10-14 11:55:38 +0000",
       "infernal_holt": "2024-10-01 14:17:21 +0000",
       "redstone_abyss": "2024-10-01 14:24:06 +0000",
       "glistering_meadow": "2024-10-10 07:46:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "meadow:recipes/warped_bed": {
     "criteria": {
@@ -9073,21 +9075,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/dark_oak_cabinet": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2024-10-14 11:04:53 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_cutting_board": {
     "criteria": {
       "has_jungle_planks": "2024-10-14 11:04:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_core": "2024-10-14 11:08:30 +0000"
     },
     "done": true
   },
@@ -9112,12 +9102,6 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_desk": {
     "criteria": {
       "has_jungle_planks": "2024-10-14 11:04:35 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:adventure/way_sign": {
-    "criteria": {
-      "bastion": "2024-10-14 11:09:34 +0000"
     },
     "done": true
   },
@@ -9220,6 +9204,30 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_storage_cabinet": {
     "criteria": {
       "has_jungle_planks": "2024-10-14 11:04:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2024-10-14 11:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2024-10-14 11:08:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-10-14 11:09:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_brick_slab": "2024-10-14 11:54:58 +0000"
     },
     "done": true
   },
