@@ -8952,15 +8952,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+  "regions_unexplored:recipes/misc/purple_dye_from_purple_coneflower": {
     "criteria": {
-      "has_golden_chestplate": "2024-10-14 07:27:37 +0000"
+      "has_purple_coneflower": "2024-10-14 07:25:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye": {
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
-      "has_ink_sac": "2024-10-14 07:36:38 +0000"
+      "has_golden_chestplate": "2024-10-14 07:27:37 +0000"
     },
     "done": true
   },
@@ -8970,9 +8970,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/misc/purple_dye_from_purple_coneflower": {
+  "minecraft:recipes/misc/black_dye": {
     "criteria": {
-      "has_purple_coneflower": "2024-10-14 07:25:24 +0000"
+      "has_ink_sac": "2024-10-14 07:36:38 +0000"
     },
     "done": true
   },

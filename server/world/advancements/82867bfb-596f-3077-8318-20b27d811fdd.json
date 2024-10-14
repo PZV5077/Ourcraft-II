@@ -30,8 +30,11 @@
       "minecraft:stony_shore": "2024-09-26 08:02:35 +0000",
       "minecraft:snowy_plains": "2024-10-01 05:48:37 +0000",
       "minecraft:dripstone_caves": "2024-09-25 09:16:58 +0000",
+      "minecraft:snowy_taiga": "2024-10-14 10:00:54 +0000",
       "minecraft:grove": "2024-09-26 05:09:28 +0000",
       "minecraft:forest": "2024-09-25 09:13:24 +0000",
+      "minecraft:frozen_ocean": "2024-10-14 10:03:09 +0000",
+      "minecraft:deep_frozen_ocean": "2024-10-14 10:03:29 +0000",
       "minecraft:ocean": "2024-09-25 11:17:24 +0000",
       "minecraft:jungle": "2024-09-26 07:35:30 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-09-26 07:54:32 +0000",
@@ -3025,6 +3028,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2024-09-26 05:22:37 +0000",
+      "cold_deciduous_forest": "2024-10-14 09:58:50 +0000",
       "redstone_abyss": "2024-10-01 14:24:06 +0000",
       "pine_taiga": "2024-09-25 10:52:36 +0000",
       "autumnal_maple_forest": "2024-10-01 14:08:24 +0000",
@@ -3058,6 +3062,7 @@
       "grassland": "2024-09-25 09:22:42 +0000",
       "prairie": "2024-09-25 09:22:43 +0000",
       "redwoods": "2024-09-26 04:54:10 +0000",
+      "icy_heights": "2024-10-14 09:58:08 +0000",
       "lupine_plains": "2024-09-26 05:24:39 +0000"
     },
     "done": false
@@ -3065,6 +3070,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "shrubland": "2024-09-26 05:22:37 +0000",
+      "cold_deciduous_forest": "2024-10-14 09:58:50 +0000",
       "pine_taiga": "2024-09-25 10:52:36 +0000",
       "autumnal_maple_forest": "2024-10-01 14:08:24 +0000",
       "muddy_river": "2024-10-01 14:07:40 +0000",
@@ -3092,6 +3098,7 @@
       "grassland": "2024-09-25 09:22:42 +0000",
       "prairie": "2024-09-25 09:22:43 +0000",
       "redwoods": "2024-09-26 04:54:10 +0000",
+      "icy_heights": "2024-10-14 09:58:08 +0000",
       "lupine_plains": "2024-09-26 05:24:39 +0000"
     },
     "done": false

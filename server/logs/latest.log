@@ -1961,3 +1961,45 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [09:58:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [09:58:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
 [09:58:40] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[09:59:10] [Server thread/INFO]: Parzival5077 lost connection: Timed out
+[09:59:10] [Server thread/INFO]: Parzival5077 left the game
+[10:02:39] [Server thread/INFO]: Parzival5077[/127.0.0.1:37634] logged in with entity id 711254 at (12573.5, 104.0, -292.5)
+[10:02:39] [Server thread/INFO]: Parzival5077 joined the game
+[10:02:40] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[10:02:40] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[10:02:40] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[10:02:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[10:02:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[10:02:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[10:02:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[10:02:40] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[10:03:28] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 11814.500000, 73.000000, 1166.500000]
+[10:04:03] [Server thread/INFO]: AwaKING lost connection: Disconnected
+[10:04:03] [Server thread/INFO]: AwaKING left the game
+[10:05:33] [Server thread/INFO]: Parzival5077 was blown up by Parzival5077
+[10:06:00] [Server thread/INFO]: Named entity class_1590['Dio Brando'/719498, l='ServerLevel[world]', x=11787.57, y=85.00, z=1128.58] died: Dio Brando was blown up by Parzival5077
+[10:06:51] [Server thread/INFO]: hhhh_w[/127.0.0.1:48212] logged in with entity id 720200 at (12036.598618584765, 82.0, -292.30000001192093)
+[10:06:51] [Server thread/INFO]: hhhh_w joined the game
+[10:06:53] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[10:06:53] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[10:06:53] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[10:06:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[10:06:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[10:06:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[10:06:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[10:06:53] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[10:07:04] [Server thread/INFO]: hhhh_w lost connection: Disconnected
+[10:07:04] [Server thread/INFO]: hhhh_w left the game
+[10:07:16] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:08:42] [Server thread/INFO]: ryanxd7635authur[/127.0.0.1:51176] logged in with entity id 721868 at (15754.5, 113.0, 917.5)
+[10:08:42] [Server thread/INFO]: ryanxd7635authur joined the game
+[10:08:43] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[10:08:43] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[10:08:43] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[10:08:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[10:08:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[10:08:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[10:08:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[10:08:43] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[10:08:54] [Server thread/INFO]: Parzival5077 was doomed to fall
