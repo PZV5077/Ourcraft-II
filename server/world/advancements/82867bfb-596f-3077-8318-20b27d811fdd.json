@@ -32,11 +32,14 @@
       "minecraft:dripstone_caves": "2024-09-25 09:16:58 +0000",
       "minecraft:snowy_taiga": "2024-10-14 10:00:54 +0000",
       "minecraft:grove": "2024-09-26 05:09:28 +0000",
+      "minecraft:cold_ocean": "2024-10-14 11:05:09 +0000",
       "minecraft:forest": "2024-09-25 09:13:24 +0000",
+      "minecraft:deep_cold_ocean": "2024-10-14 11:06:47 +0000",
       "minecraft:frozen_ocean": "2024-10-14 10:03:09 +0000",
       "minecraft:deep_frozen_ocean": "2024-10-14 10:03:29 +0000",
       "minecraft:ocean": "2024-09-25 11:17:24 +0000",
       "minecraft:jungle": "2024-09-26 07:35:30 +0000",
+      "minecraft:snowy_beach": "2024-10-14 11:03:16 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-09-26 07:54:32 +0000",
       "minecraft:old_growth_birch_forest": "2024-09-26 05:24:47 +0000",
       "minecraft:deep_dark": "2024-09-30 11:56:06 +0000",
@@ -3016,6 +3019,7 @@
       "porkchop": "2024-09-30 09:52:33 +0000",
       "apple": "2024-09-25 10:52:13 +0000",
       "potato": "2024-09-26 04:38:42 +0000",
+      "cooked_cod": "2024-10-14 11:10:17 +0000",
       "mutton": "2024-09-26 05:10:02 +0000",
       "bread": "2024-09-25 10:57:08 +0000",
       "rotten_flesh": "2024-09-30 11:14:20 +0000",
@@ -3061,8 +3065,10 @@
       "pine_slopes": "2024-09-25 10:53:15 +0000",
       "grassland": "2024-09-25 09:22:42 +0000",
       "prairie": "2024-09-25 09:22:43 +0000",
+      "gravel_beach": "2024-10-14 11:07:48 +0000",
       "redwoods": "2024-09-26 04:54:10 +0000",
       "icy_heights": "2024-10-14 09:58:08 +0000",
+      "hyacinth_deeps": "2024-10-14 10:53:21 +0000",
       "lupine_plains": "2024-09-26 05:24:39 +0000"
     },
     "done": false
@@ -3097,8 +3103,10 @@
       "pine_slopes": "2024-09-25 10:53:15 +0000",
       "grassland": "2024-09-25 09:22:42 +0000",
       "prairie": "2024-09-25 09:22:43 +0000",
+      "gravel_beach": "2024-10-14 11:07:48 +0000",
       "redwoods": "2024-09-26 04:54:10 +0000",
       "icy_heights": "2024-10-14 09:58:08 +0000",
+      "hyacinth_deeps": "2024-10-14 10:53:21 +0000",
       "lupine_plains": "2024-09-26 05:24:39 +0000"
     },
     "done": false
@@ -9062,6 +9070,156 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2024-10-14 07:33:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2024-10-14 11:04:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_cutting_board": {
+    "criteria": {
+      "has_jungle_planks": "2024-10-14 11:04:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2024-10-14 11:08:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_jungle_planks": "2024-10-14 11:04:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2024-10-14 11:04:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_cabinetry": {
+    "criteria": {
+      "has_jungle_planks": "2024-10-14 11:04:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_desk": {
+    "criteria": {
+      "has_jungle_planks": "2024-10-14 11:04:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-10-14 11:09:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_crate": {
+    "criteria": {
+      "has_jungle_planks": "2024-10-14 11:04:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_jungle": {
+    "criteria": {
+      "has_the_recipe": "2024-10-14 11:04:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-10-14 11:04:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2024-10-14 11:04:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2024-10-14 11:04:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-10-14 11:04:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_table": {
+    "criteria": {
+      "has_jungle_planks": "2024-10-14 11:04:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2024-10-14 11:04:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2024-10-14 11:04:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_jungle": {
+    "criteria": {
+      "has_planks": "2024-10-14 11:04:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2024-10-14 11:04:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2024-10-14 11:04:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-10-14 11:04:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_drawer": {
+    "criteria": {
+      "has_jungle_planks": "2024-10-14 11:04:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_mail_box": {
+    "criteria": {
+      "has_jungle_planks": "2024-10-14 11:04:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-10-14 11:04:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_jungle_planks": "2024-10-14 11:04:35 +0000"
     },
     "done": true
   },

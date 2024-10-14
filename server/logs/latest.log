@@ -2096,3 +2096,38 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [10:50:00] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
 [10:50:00] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
 [10:50:13] [Server thread/INFO]: [Not Secure] <hhhh_w> where is Little Eric
+[10:55:17] [Server thread/INFO]: ryanxd7635authur has completed the challenge [Mhhh... looks tasty!]
+[10:58:15] [Server thread/INFO]: AwaKING drowned
+[10:58:26] [Server thread/INFO]: Named entity class_1590['Diavolo'/852757, l='ServerLevel[world]', x=11965.02, y=45.59, z=1745.55] died: Diavolo was slain by AwaKING using [The World]
+[10:59:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8774ms or 175 ticks behind
+[11:03:23] [Worker-Main-115/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[11:03:23] [Worker-Main-115/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[11:04:19] [Server thread/INFO]: ryanxd7635authur has made the advancement [Suit Up]
+[11:05:51] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
+[11:05:53] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[11:06:04] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[11:08:45] [pool-6-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=12299, y=73, z=2779}
+[11:08:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2584ms or 51 ticks behind
+[11:08:47] [Server thread/WARN]: Boat (vehicle of ryanxd7635authur) moved too quickly! 8.939767528201628,0.0,4.493291793293338
+[11:08:47] [Server thread/WARN]: Boat (vehicle of ryanxd7635authur) moved too quickly! 9.150650812345702,0.0,4.79218418556917
+[11:08:47] [Server thread/WARN]: Boat (vehicle of ryanxd7635authur) moved too quickly! 9.344740285619991,0.0,5.1009557143981965
+[11:08:47] [Server thread/WARN]: Boat (vehicle of ryanxd7635authur) moved too quickly! 9.522393984874725,0.0,5.41873914666877
+[11:08:47] [Server thread/WARN]: Boat (vehicle of ryanxd7635authur) moved too quickly! 9.68406497185424,0.0,5.744704314481396
+[11:08:47] [Server thread/WARN]: Boat (vehicle of ryanxd7635authur) moved too quickly! 9.830278285198801,0.0,6.078066597776541
+[11:08:47] [Server thread/WARN]: Boat (vehicle of ryanxd7635authur) moved too quickly! 9.96162099346111,0.0,6.418091865314437
+[11:08:47] [Server thread/WARN]: Boat (vehicle of ryanxd7635authur) moved too quickly! 10.078709768135013,0.0,6.764098924801374
+[11:08:47] [Server thread/WARN]: Boat (vehicle of ryanxd7635authur) moved too quickly! 10.181491395733246,0.0,7.115420794513284
+[11:09:34] [Server thread/INFO]: AwaKING has made the advancement [This Must be a Sign!]
+[11:10:33] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[11:12:50] [Server thread/INFO]: Named entity class_3989['Sheer Heart Attack'/935481, l='ServerLevel[world]', x=12620.43, y=-70.00, z=2751.48] died: Sheer Heart Attack was killed
+[11:13:45] [pool-6-thread-4/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos class_2338{x=12901, y=72, z=2795}
+[11:13:52] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[11:13:58] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[11:15:57] [Server thread/INFO]: ryanxd7635authur lost connection: Disconnected
+[11:15:57] [Server thread/INFO]: ryanxd7635authur left the game
+[11:19:19] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[11:19:28] [Server thread/INFO]: Named entity class_3989['Sheer Heart Attack'/1022343, l='ServerLevel[world]', x=12811.01, y=-70.00, z=2844.26] died: Sheer Heart Attack was killed
+[11:19:47] [Server thread/INFO]: Named entity class_1590['Dio Brando'/961579, l='ServerLevel[world]', x=12809.30, y=65.00, z=2852.44] died: Dio Brando was slain by AwaKING using [Killer Queen]
+[11:19:54] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[11:20:20] [Server thread/INFO]: AwaKING lost connection: Disconnected
+[11:20:20] [Server thread/INFO]: AwaKING left the game
