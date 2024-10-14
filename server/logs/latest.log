@@ -2003,3 +2003,55 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [10:08:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
 [10:08:43] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
 [10:08:54] [Server thread/INFO]: Parzival5077 was doomed to fall
+[10:09:39] [Server thread/INFO]: Parzival5077 was slain by Zombie
+[10:09:42] [Server thread/INFO]: ryanxd7635authur lost connection: §cTime for authentication has expired.
+[10:09:42] [Server thread/INFO]: ryanxd7635authur left the game
+[10:09:58] [Server thread/INFO]: ryanxd7635authur[/127.0.0.1:45622] logged in with entity id 724269 at (15754.5, 113.0, 917.5)
+[10:09:58] [Server thread/INFO]: ryanxd7635authur joined the game
+[10:09:59] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[10:09:59] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[10:09:59] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[10:09:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[10:09:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[10:09:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[10:09:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[10:09:59] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[10:10:15] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:10:26] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:10:58] [Server thread/INFO]: ryanxd7635authur lost connection: §cTime for authentication has expired.
+[10:10:58] [Server thread/INFO]: ryanxd7635authur left the game
+[10:11:06] [Server thread/INFO]: ryanxd7635authur[/127.0.0.1:41616] logged in with entity id 725111 at (15754.5, 113.0, 917.5)
+[10:11:06] [Server thread/INFO]: ryanxd7635authur joined the game
+[10:11:06] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[10:11:06] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[10:11:06] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[10:11:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[10:11:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[10:11:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[10:11:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[10:11:06] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[10:12:50] [Server thread/INFO]: ryanxd7635authur has made the advancement [Sweet Dreams]
+[10:13:42] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
+[10:13:42] [Server thread/INFO]: Parzival5077 left the game
+[10:13:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=15731, y=105, z=930}
+[10:13:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=15731, y=106, z=930}
+[10:13:47] [Server thread/INFO]: hhhh_w[/127.0.0.1:52996] logged in with entity id 727048 at (12036.5, 82.0, -292.5)
+[10:13:47] [Server thread/INFO]: hhhh_w joined the game
+[10:13:48] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[10:13:48] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[10:13:48] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[10:13:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[10:13:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[10:13:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[10:13:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[10:13:48] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[10:14:08] [Server thread/INFO]: [Not Secure] <hhhh_w> ^
+[10:14:10] [Server thread/INFO]: [Not Secure] <hhhh_w> 6
+[10:16:02] [Server thread/INFO]: hhhh_w fell from a high place
+[10:20:36] [Server thread/INFO]: Villager class_1646['Villager'/7, l='ServerLevel[world]', x=15795.30, y=117.00, z=935.70] died, message: 'Villager was slain by ryanxd7635authur'
+[10:21:21] [Server thread/INFO]: ryanxd7635authur has made the advancement [Stone Age]
+[10:21:51] [Server thread/INFO]: ryanxd7635authur has made the advancement [Getting an Upgrade]
+[10:22:35] [Server thread/INFO]: ryanxd7635authur has made the advancement [Wicked!]
+[10:26:04] [Server thread/INFO]: ryanxd7635authur was slain by Iron Golem
