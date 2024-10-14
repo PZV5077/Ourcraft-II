@@ -8978,9 +8978,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-10-14 10:25:15 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/safe": {
     "criteria": {
       "minecraft:shulker_boxes": "2024-10-14 10:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-10-14 10:25:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-10-14 10:25:15 +0000"
     },
     "done": true
   },

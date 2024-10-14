@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "bclib:recipes/decorations/tag_shulker_box": {
+    "criteria": {
+      "has_tag_c_chest": "2024-10-14 10:29:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
     "criteria": {
       "has_planks": "2024-10-14 10:14:59 +0000"
@@ -1349,6 +1355,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-10-14 10:25:15 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
     "criteria": {
       "has_planks": "2024-10-14 10:14:59 +0000"
@@ -1747,6 +1759,12 @@
     },
     "done": true
   },
+  "bclib:recipes/redstone/tag_hopper": {
+    "criteria": {
+      "has_tag_c_chest": "2024-10-14 10:29:00 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_cherry": {
     "criteria": {
       "has_the_recipe": "2024-10-14 10:20:53 +0000"
@@ -1806,6 +1824,12 @@
       "has_cherry_planks": "2024-10-14 10:20:53 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "mutton": "2024-10-14 10:25:15 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
