@@ -2056,3 +2056,43 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [10:22:35] [Server thread/INFO]: ryanxd7635authur has made the advancement [Wicked!]
 [10:26:04] [Server thread/INFO]: ryanxd7635authur was slain by Iron Golem
 [10:30:15] [Server thread/INFO]: ryanxd7635authur has made the advancement [Acquire Hardware]
+[10:35:28] [Server thread/INFO]: ryanxd7635authur hit the ground too hard
+[10:37:29] [Server thread/INFO]: Villager class_1646['Villager'/1, l='ServerLevel[world]', x=15715.31, y=92.00, z=913.31] died, message: 'Villager was slain by Zombie'
+[10:38:01] [Server thread/INFO]: hhhh_w fell from a high place
+[10:40:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=15713, y=57, z=899} class_2338{x=15739, y=46, z=903}
+[10:40:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=15713, y=57, z=899} class_2338{x=15739, y=46, z=904}
+[10:40:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=15713, y=57, z=899} class_2338{x=15739, y=46, z=904}
+[10:40:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=15713, y=57, z=899} class_2338{x=15739, y=47, z=906}
+[10:40:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=15713, y=57, z=899} class_2338{x=15739, y=46, z=904}
+[10:40:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=15713, y=57, z=899} class_2338{x=15740, y=47, z=904}
+[10:41:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=15713, y=57, z=899} class_2338{x=15739, y=46, z=905}
+[10:41:12] [Server thread/INFO]: ryanxd7635authur lost connection: Disconnected
+[10:41:12] [Server thread/INFO]: ryanxd7635authur left the game
+[10:41:16] [Server thread/INFO]: ryanxd7635authur[/127.0.0.1:34384] logged in with entity id 756689 at (15729.29193373091, 41.0, 908.9031111338649)
+[10:41:16] [Server thread/INFO]: ryanxd7635authur joined the game
+[10:41:18] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[10:41:18] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[10:41:18] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[10:41:18] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[10:41:18] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[10:41:18] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[10:41:18] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[10:41:18] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[10:41:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=15740, y=47, z=904}
+[10:41:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=15739, y=46, z=904}
+[10:41:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=15733, y=32, z=907}
+[10:41:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=15732, y=29, z=910}
+[10:41:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=15732, y=29, z=909}
+[10:42:04] [Server thread/INFO]: ryanxd7635authur fell from a high place
+[10:45:18] [Server thread/INFO]: hhhh_w was shot by Skeleton
+[10:49:58] [Server thread/INFO]: AwaKING[/127.0.0.1:33598] logged in with entity id 766975 at (11736.578101100175, 62.42497543104467, 1366.3758075992084)
+[10:49:58] [Server thread/INFO]: AwaKING joined the game
+[10:50:00] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[10:50:00] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[10:50:00] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[10:50:00] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[10:50:00] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[10:50:00] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[10:50:00] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[10:50:00] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[10:50:13] [Server thread/INFO]: [Not Secure] <hhhh_w> where is Little Eric

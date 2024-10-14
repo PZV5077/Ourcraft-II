@@ -8984,6 +8984,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-10-14 10:43:29 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/safe": {
     "criteria": {
       "minecraft:shulker_boxes": "2024-10-14 10:16:42 +0000"
