@@ -2050,7 +2050,8 @@
       "cooked_beef": "2024-09-26 03:50:09 +0000",
       "bread": "2024-09-26 05:05:51 +0000",
       "rotten_flesh": "2024-09-26 03:59:21 +0000",
-      "dried_kelp": "2024-10-03 16:11:34 +0000"
+      "dried_kelp": "2024-10-03 16:11:34 +0000",
+      "salmon": "2024-10-14 07:29:51 +0000"
     },
     "done": false
   },
@@ -8944,6 +8945,24 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-10-14 07:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-10-14 07:27:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-10-14 07:27:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/purple_dye_from_purple_coneflower": {
+    "criteria": {
+      "has_purple_coneflower": "2024-10-14 07:25:24 +0000"
     },
     "done": true
   },
