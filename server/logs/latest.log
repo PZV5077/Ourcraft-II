@@ -1864,3 +1864,25 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [07:42:44] [Server thread/INFO]: Mei4o was slain by Zombie
 [07:46:23] [Server thread/INFO]: Mei4o lost connection: Disconnected
 [07:46:23] [Server thread/INFO]: Mei4o left the game
+[08:11:38] [Server thread/INFO]: hhhh_w lost connection: Timed out
+[08:11:38] [Server thread/INFO]: hhhh_w left the game
+[08:15:27] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:49768] logged in with entity id 627790 at (13300.890179756376, 35.0, -4074.286847585475)
+[08:15:27] [Server thread/INFO]: Littlebugs404_ joined the game
+[08:15:28] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[08:15:28] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[08:15:28] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[08:15:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[08:15:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[08:15:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[08:15:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[08:15:28] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[08:16:01] [Server thread/INFO]: CheessRevolution[/127.0.0.1:33518] logged in with entity id 628426 at (14018.278169793015, 71.0, -276.830311828166)
+[08:16:01] [Server thread/INFO]: CheessRevolution joined the game
+[08:16:04] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[08:16:04] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[08:16:04] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[08:16:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[08:16:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[08:16:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[08:16:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[08:16:04] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)

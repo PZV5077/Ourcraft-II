@@ -7876,12 +7876,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/pine_planks": {
-    "criteria": {
-      "has_logs": "2024-10-10 11:16:42 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-10-10 10:59:41 +0000"
@@ -7891,12 +7885,6 @@
   "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-10-10 10:59:41 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/pine_fence_gate": {
-    "criteria": {
-      "has_pine_planks": "2024-10-10 11:23:37 +0000"
     },
     "done": true
   },
@@ -7948,12 +7936,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/pine_trapdoor": {
-    "criteria": {
-      "has_pine_planks": "2024-10-10 11:23:37 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-10-10 10:59:41 +0000"
@@ -7978,12 +7960,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/pine_fence": {
-    "criteria": {
-      "has_pine_planks": "2024-10-10 11:23:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2024-10-10 10:59:41 +0000"
@@ -7993,12 +7969,6 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-10-10 10:59:41 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/pine_pressure_plate": {
-    "criteria": {
-      "has_pine_planks": "2024-10-10 11:23:37 +0000"
     },
     "done": true
   },
@@ -8020,12 +7990,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/regions_unexplored/sign_post_pine": {
-    "criteria": {
-      "has_planks": "2024-10-10 11:23:37 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-10-10 10:59:41 +0000"
@@ -8044,27 +8008,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
-    "criteria": {
-      "has_log": "2024-10-10 11:16:42 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/pine_stairs": {
-    "criteria": {
-      "has_pine_planks": "2024-10-10 11:23:37 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-10-10 10:59:41 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/pine_sign": {
-    "criteria": {
-      "has_pine_planks": "2024-10-10 11:23:37 +0000"
     },
     "done": true
   },
@@ -8077,24 +8023,6 @@
   "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-10-10 10:59:41 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/pine_button": {
-    "criteria": {
-      "has_pine_planks": "2024-10-10 11:23:37 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/pine_door": {
-    "criteria": {
-      "has_pine_planks": "2024-10-10 11:23:37 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/pine_slab": {
-    "criteria": {
-      "has_pine_planks": "2024-10-10 11:23:37 +0000"
     },
     "done": true
   },
@@ -8128,9 +8056,81 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2024-10-10 11:16:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
+    "criteria": {
+      "has_log": "2024-10-10 11:16:42 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/pine_wood": {
     "criteria": {
       "has_log": "2024-10-10 11:16:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_fence_gate": {
+    "criteria": {
+      "has_pine_planks": "2024-10-10 11:23:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_trapdoor": {
+    "criteria": {
+      "has_pine_planks": "2024-10-10 11:23:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_fence": {
+    "criteria": {
+      "has_pine_planks": "2024-10-10 11:23:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_pressure_plate": {
+    "criteria": {
+      "has_pine_planks": "2024-10-10 11:23:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_pine": {
+    "criteria": {
+      "has_planks": "2024-10-10 11:23:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_stairs": {
+    "criteria": {
+      "has_pine_planks": "2024-10-10 11:23:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_sign": {
+    "criteria": {
+      "has_pine_planks": "2024-10-10 11:23:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_button": {
+    "criteria": {
+      "has_pine_planks": "2024-10-10 11:23:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_door": {
+    "criteria": {
+      "has_pine_planks": "2024-10-10 11:23:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_slab": {
+    "criteria": {
+      "has_pine_planks": "2024-10-10 11:23:37 +0000"
     },
     "done": true
   },
