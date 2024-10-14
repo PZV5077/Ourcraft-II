@@ -1862,3 +1862,5 @@ EdenBiomeSource (446847aa)
 [07:36:20] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
 [07:42:44] [Server thread/INFO]: Mei4o was slain by Zombie
+[07:46:23] [Server thread/INFO]: Mei4o lost connection: Disconnected
+[07:46:23] [Server thread/INFO]: Mei4o left the game
