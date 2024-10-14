@@ -8786,6 +8786,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/honey_glazed_ham_block": {
+    "criteria": {
+      "has_smoked_ham": "2024-10-10 11:36:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "smoked_ham": "2024-10-10 11:36:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2024-10-10 11:42:47 +0000"
@@ -8795,12 +8807,6 @@
   "regions_unexplored:recipes/building_blocks/prismoss": {
     "criteria": {
       "has_stone": "2024-10-10 11:42:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/honey_glazed_ham_block": {
-    "criteria": {
-      "has_smoked_ham": "2024-10-10 11:36:49 +0000"
     },
     "done": true
   },
@@ -8822,12 +8828,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/misc/light_gray_dye_from_tassel": {
-    "criteria": {
-      "has_tassel": "2024-10-10 11:53:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-10-10 11:42:47 +0000"
@@ -8846,69 +8846,15 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/chalk_pillar": {
-    "criteria": {
-      "has_chalk": "2024-10-10 11:51:41 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/polished_chalk": {
-    "criteria": {
-      "has_chalk": "2024-10-10 11:51:41 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_ham": {
-    "criteria": {
-      "smoked_ham": "2024-10-10 11:36:49 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/chalk_bricks_from_chalk_stonecutting": {
-    "criteria": {
-      "has_chalk": "2024-10-10 11:51:41 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
     "criteria": {
       "has_stone": "2024-10-10 11:42:47 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/chalk_stairs": {
-    "criteria": {
-      "has_chalk": "2024-10-10 11:51:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-10-10 11:42:47 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/chalk_pillar_from_chalk_stonecutting": {
-    "criteria": {
-      "has_chalk": "2024-10-10 11:51:41 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/chalk_slab_from_chalk_stonecutting": {
-    "criteria": {
-      "has_chalk": "2024-10-10 11:51:41 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/chalk_stairs_from_chalk_stonecutting": {
-    "criteria": {
-      "has_chalk": "2024-10-10 11:51:41 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/chalk_grass_block": {
-    "criteria": {
-      "has_chalk": "2024-10-10 11:51:41 +0000"
     },
     "done": true
   },
@@ -8942,21 +8888,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/polished_chalk_from_chalk_stonecutting": {
-    "criteria": {
-      "has_chalk": "2024-10-10 11:51:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-10-10 11:42:47 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/chalk_slab": {
-    "criteria": {
-      "has_chalk": "2024-10-10 11:51:41 +0000"
     },
     "done": true
   },
@@ -8969,6 +8903,78 @@
   "regions_unexplored:recipes/building_blocks/mossy_stone": {
     "criteria": {
       "has_stone": "2024-10-10 11:42:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_pillar": {
+    "criteria": {
+      "has_chalk": "2024-10-10 11:51:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/polished_chalk": {
+    "criteria": {
+      "has_chalk": "2024-10-10 11:51:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_bricks_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2024-10-10 11:51:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_stairs": {
+    "criteria": {
+      "has_chalk": "2024-10-10 11:51:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_pillar_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2024-10-10 11:51:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_slab_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2024-10-10 11:51:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_stairs_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2024-10-10 11:51:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_grass_block": {
+    "criteria": {
+      "has_chalk": "2024-10-10 11:51:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/polished_chalk_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2024-10-10 11:51:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_slab": {
+    "criteria": {
+      "has_chalk": "2024-10-10 11:51:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_tassel": {
+    "criteria": {
+      "has_tassel": "2024-10-10 11:53:54 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/kills/killer_queen/100": {
+    "criteria": {
+      "requirement": "2024-10-14 06:29:25 +0000"
     },
     "done": true
   },

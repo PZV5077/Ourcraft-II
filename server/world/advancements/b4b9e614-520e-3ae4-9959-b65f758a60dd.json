@@ -9781,33 +9781,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2024-10-10 07:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-10-10 07:36:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-10-10 07:36:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2024-10-10 08:30:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2024-10-10 08:10:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-10-10 07:36:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2024-10-10 08:41:47 +0000"
     },
     "done": true
   },
@@ -9823,51 +9817,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_pillar": {
-    "criteria": {
-      "has_purpur_block": "2024-10-10 08:43:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2024-10-10 08:29:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/enter_end_gateway": {
-    "criteria": {
-      "entered_end_gateway": "2024-10-10 08:29:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2024-10-10 08:30:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_stairs": {
-    "criteria": {
-      "has_purpur_block": "2024-10-10 08:43:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-10-10 07:36:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
-    "criteria": {
-      "has_purpur_block": "2024-10-10 08:43:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold": "2024-10-10 08:06:21 +0000"
     },
     "done": true
   },
@@ -9877,87 +9829,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2024-10-10 08:10:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/shulker_box": {
-    "criteria": {
-      "has_shulker_shell": "2024-10-10 08:38:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2024-10-10 08:11:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
-    "criteria": {
-      "has_purpur_block": "2024-10-10 08:43:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/kill_dragon": {
-    "criteria": {
-      "killed_dragon": "2024-10-10 08:26:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-10-10 07:36:57 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/scoria": {
-    "criteria": {
-      "has_item": "2024-10-10 07:34:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_slab": {
-    "criteria": {
-      "has_purpur_block": "2024-10-10 08:43:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2024-10-10 08:30:31 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/brown_dye_from_dead_steppe_shrub": {
-    "criteria": {
-      "has_dead_steppe_shrub": "2024-10-10 08:02:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
-    "criteria": {
-      "has_spire_armor_trim_smithing_template": "2024-10-10 08:46:50 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/palm_sapling_from_palm_shrub": {
-    "criteria": {
-      "has_palm_shrub": "2024-10-10 08:02:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_block": "2024-10-10 08:37:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2024-10-10 08:35:17 +0000"
     },
     "done": true
   },
@@ -9967,9 +9841,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
     "criteria": {
-      "has_smithing_trim_template": "2024-10-10 08:46:50 +0000"
+      "has_polished_blackstone_bricks": "2024-10-10 07:36:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/bone_meal_from_overgrown_bone_block": {
+    "criteria": {
+      "has_overgrown_bone_block": "2024-10-10 07:47:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/brown_dye_from_dead_steppe_shrub": {
+    "criteria": {
+      "has_dead_steppe_shrub": "2024-10-10 08:02:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/palm_sapling_from_palm_shrub": {
+    "criteria": {
+      "has_palm_shrub": "2024-10-10 08:02:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-10-10 08:06:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-10-10 08:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-10-10 08:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-10-10 08:11:47 +0000"
     },
     "done": true
   },
@@ -9979,21 +9895,39 @@
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
+  "minecraft:end/kill_dragon": {
     "criteria": {
-      "bastion": "2024-10-10 07:36:25 +0000"
+      "killed_dragon": "2024-10-10 08:26:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+  "minecraft:end/enter_end_gateway": {
     "criteria": {
-      "has_purpur_block": "2024-10-10 08:43:44 +0000"
+      "entered_end_gateway": "2024-10-10 08:29:05 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/misc/bone_meal_from_overgrown_bone_block": {
+  "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
-      "has_overgrown_bone_block": "2024-10-10 07:47:15 +0000"
+      "has_chorus_fruit": "2024-10-10 08:29:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-10-10 08:30:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-10-10 08:30:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-10-10 08:30:31 +0000"
     },
     "done": true
   },
@@ -10009,9 +9943,75 @@
     },
     "done": true
   },
-  "supplementaries:recipes/stonecutting/blackstone_tile": {
+  "minecraft:end/find_end_city": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2024-10-10 07:36:57 +0000"
+      "in_city": "2024-10-10 08:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-10-10 08:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-10-10 08:38:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-10-10 08:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2024-10-10 08:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2024-10-10 08:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-10-10 08:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-10-10 08:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2024-10-10 08:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-10-10 08:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2024-10-10 08:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-10-10 08:46:50 +0000"
     },
     "done": true
   },
