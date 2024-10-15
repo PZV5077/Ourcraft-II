@@ -1625,3 +1625,38 @@ EdenBiomeSource (a0a182f)
 [07:46:42] [Server thread/INFO]: [Parzival5077: Set own game mode to Creative Mode]
 [07:50:55] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
 [07:50:55] [Server thread/INFO]: Parzival5077 left the game
+[07:57:32] [Server thread/INFO]: CheessRevolution[/127.0.0.1:39262] logged in with entity id 6292 at (14039.180664288788, 71.0, -212.80900879905985)
+[07:57:32] [Server thread/INFO]: CheessRevolution joined the game
+[07:57:34] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[07:57:34] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[07:57:34] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[07:57:34] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[07:57:34] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[07:57:34] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[07:57:34] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[07:57:34] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[07:58:26] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:54824] logged in with entity id 7487 at (14017.44492025567, 71.0, -276.6338944077549)
+[07:58:26] [Server thread/INFO]: Littlebugs404_ joined the game
+[07:58:30] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[07:58:30] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[07:58:30] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[07:58:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[07:58:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[07:58:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[07:58:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[07:58:30] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[07:59:06] [Server thread/INFO]: Littlebugs404_ was slain by CheessRevolution
+[07:59:10] [Server thread/INFO]: Littlebugs404_ lost connection: Disconnected
+[07:59:10] [Server thread/INFO]: Littlebugs404_ left the game
+[07:59:13] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:42624] logged in with entity id 7890 at (14054.366464959394, 64.0, -189.07702932079567)
+[07:59:13] [Server thread/INFO]: Littlebugs404_ joined the game
+[07:59:14] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[07:59:14] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[07:59:14] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[07:59:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[07:59:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[07:59:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[07:59:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[07:59:14] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[07:59:41] [Server thread/INFO]: CheessRevolution was shot by Littlebugs404_
+[08:00:07] [Server thread/INFO]: CheessRevolution was shot by Littlebugs404_
