@@ -7894,6 +7894,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-10-15 08:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-10-15 08:23:24 +0000"
+    },
+    "done": true
+  },
   "meadow:main/cheese_collector": {
     "criteria": {
       "meadow:goat_cheese_block": "2024-10-15 08:21:18 +0000"
