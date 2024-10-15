@@ -8503,6 +8503,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-10-15 11:57:15 +0000",
       "minecraft:nether_wastes": "2024-10-15 11:23:28 +0000",
       "minecraft:soul_sand_valley": "2024-10-15 11:28:13 +0000"
     },

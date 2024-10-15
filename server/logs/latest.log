@@ -2294,3 +2294,5 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [11:27:31] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
 [11:31:34] [Server thread/INFO]: CheessRevolution was doomed to fall
+[11:59:10] [Server thread/INFO]: CheessRevolution tried to swim in lava
+[12:00:04] [Server thread/INFO]: CheessRevolution burned to death
