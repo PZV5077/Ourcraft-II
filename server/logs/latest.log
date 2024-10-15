@@ -2282,3 +2282,14 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [11:17:42] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 11965.000000, 72.000000, -585.000000]
 [11:17:46] [Server thread/INFO]: [Parzival5077: Teleported Mei4o to Parzival5077]
 [11:19:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[11:21:22] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
+[11:21:22] [Server thread/INFO]: Parzival5077 left the game
+[11:21:57] [Server thread/INFO]: Mei4o lost connection: Disconnected
+[11:21:57] [Server thread/INFO]: Mei4o left the game
+[11:22:08] [Server thread/INFO]: CheessRevolution fell from a high place
+[11:22:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
+[11:24:08] [Server thread/INFO]: CheessRevolution tried to swim in lava
+[11:25:35] [Server thread/INFO]: CheessRevolution has made the advancement [Those Were the Days]
+[11:26:07] [Server thread/INFO]: CheessRevolution fell from a high place
+[11:27:31] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null

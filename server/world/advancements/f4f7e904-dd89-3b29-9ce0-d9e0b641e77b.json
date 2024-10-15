@@ -51,6 +51,7 @@
       "minecraft:skeleton": "2024-09-26 07:05:35 +0000",
       "minecraft:spider": "2024-09-26 08:06:06 +0000",
       "minecraft:creeper": "2024-09-26 07:51:21 +0000",
+      "minecraft:piglin": "2024-10-15 11:26:44 +0000",
       "minecraft:enderman": "2024-10-15 09:26:32 +0000",
       "minecraft:zombie": "2024-09-25 08:05:20 +0000"
     },
@@ -982,6 +983,8 @@
       "maple_forest": "2024-09-26 05:21:55 +0000",
       "magnolia_highlands": "2024-09-27 12:03:48 +0000",
       "boreal_forest": "2024-09-25 10:39:15 +0000",
+      "glistering_meadow": "2024-10-15 11:21:56 +0000",
+      "blackstone_basin": "2024-10-15 11:23:15 +0000",
       "bamboo_forest": "2024-10-14 08:22:57 +0000",
       "cold_boreal_taiga": "2024-09-26 07:49:42 +0000",
       "temperate_grove": "2024-09-25 08:43:52 +0000",
@@ -7837,7 +7840,9 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
-      "redstone_abyss": "2024-10-10 13:40:51 +0000"
+      "blackstone_basin": "2024-10-15 11:23:15 +0000",
+      "redstone_abyss": "2024-10-10 13:40:51 +0000",
+      "glistering_meadow": "2024-10-15 11:21:56 +0000"
     },
     "done": false
   },
@@ -8484,9 +8489,21 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-10-15 11:23:28 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
     "criteria": {
       "has_polished_rose_quartz": "2024-10-15 10:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-10-15 11:17:21 +0000"
     },
     "done": true
   },
@@ -8541,6 +8558,12 @@
   "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
     "criteria": {
       "has_polished_rose_quartz": "2024-10-15 10:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-10-15 11:25:35 +0000"
     },
     "done": true
   },
