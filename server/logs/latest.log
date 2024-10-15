@@ -1839,3 +1839,48 @@ io.netty.handler.timeout.ReadTimeoutException: null
 io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
 [09:32:27] [Server thread/INFO]: Littlebugs404_ lost connection: Disconnected
 [09:32:27] [Server thread/INFO]: Littlebugs404_ left the game
+[09:32:45] [Server thread/INFO]: Parzival5077[/127.0.0.1:46612] logged in with entity id 77545 at (12525.5, 75.0, -321.5)
+[09:32:45] [Server thread/INFO]: Parzival5077 joined the game
+[09:32:46] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[09:32:46] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[09:32:46] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[09:32:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[09:32:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[09:32:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[09:32:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[09:32:46] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[09:33:20] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 12484.000000, 69.000000, -355.000000]
+[09:33:31] [Server thread/INFO]: [Parzival5077: Set own game mode to Creative Mode]
+[09:34:34] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 12487.000000, 69.000000, -355.000000]
+[09:36:17] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:43576] logged in with entity id 79860 at (13795.193748821319, 64.0, 296.79209072978784)
+[09:36:17] [Server thread/INFO]: Littlebugs404_ joined the game
+[09:36:20] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[09:36:20] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[09:36:20] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[09:36:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[09:36:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[09:36:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[09:36:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[09:36:20] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[09:36:47] [Server thread/INFO]: Littlebugs404_ lost connection: Timed out
+[09:36:47] [Server thread/INFO]: Littlebugs404_ left the game
+[09:36:57] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:58722] logged in with entity id 80612 at (13795.193748821319, 64.0, 296.79209072978784)
+[09:36:57] [Server thread/INFO]: Littlebugs404_ joined the game
+[09:37:00] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[09:37:00] [Server thread/INFO]: Littlebugs404_ lost connection: Disconnected
+[09:37:00] [Server thread/INFO]: Littlebugs404_ left the game
+[09:37:09] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:43398] logged in with entity id 81225 at (13795.193748821319, 64.0, 296.79209072978784)
+[09:37:09] [Server thread/INFO]: Littlebugs404_ joined the game
+[09:37:11] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[09:37:11] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[09:37:11] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[09:37:11] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[09:37:11] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[09:37:11] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[09:37:11] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[09:37:11] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[09:37:27] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[09:37:39] [Server thread/INFO]: Littlebugs404_ lost connection: Timed out
+[09:37:39] [Server thread/INFO]: Littlebugs404_ left the game
