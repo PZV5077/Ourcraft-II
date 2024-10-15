@@ -7888,5 +7888,17 @@
     },
     "done": true
   },
+  "meadow:main/get_cheese": {
+    "criteria": {
+      "goat_cheese_block": "2024-10-15 08:21:18 +0000"
+    },
+    "done": false
+  },
+  "meadow:main/cheese_collector": {
+    "criteria": {
+      "meadow:goat_cheese_block": "2024-10-15 08:21:18 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
