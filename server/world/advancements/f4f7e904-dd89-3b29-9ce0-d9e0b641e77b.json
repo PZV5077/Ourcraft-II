@@ -8484,5 +8484,17 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-10-15 10:49:24 +0000"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2024-10-15 10:51:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

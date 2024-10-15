@@ -6206,5 +6206,11 @@
     },
     "done": true
   },
+  "svm_jojo:storyline/stand_mastery_2": {
+    "criteria": {
+      "requirement": "2024-10-15 10:51:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -2193,3 +2193,26 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [10:48:56] [Server thread/INFO]: AwaKING was shot by Mei4o
 [10:49:09] [Server thread/INFO]: Parzival5077 was shot by Mei4o
 [10:49:15] [Server thread/INFO]: [Parzival5077: Teleported Mei4o to Parzival5077]
+[10:50:31] [Server thread/INFO]: Mei4o lost connection: Timed out
+[10:50:31] [Server thread/INFO]: Mei4o left the game
+[10:50:41] [Server thread/INFO]: Mei4o[/127.0.0.1:49792] logged in with entity id 253006 at (12554.025714076186, 94.0, -302.17746564465176)
+[10:50:41] [Server thread/INFO]: Mei4o joined the game
+[10:50:42] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[10:50:42] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[10:50:42] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[10:50:42] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[10:50:42] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[10:50:42] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[10:50:42] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[10:50:42] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[10:51:16] [Server thread/INFO]: [Parzival5077: Teleported Mei4o to Parzival5077]
+[10:51:33] [Server thread/INFO]: AwaKING was shot by Mei4o
+[10:51:35] [Server thread/INFO]: Mei4o has made the advancement [Stand Mastery II]
+[10:51:48] [Server thread/INFO]: AwaKING was shot by Mei4o
+[10:52:16] [Server thread/INFO]: AwaKING was shot by Mei4o
+[10:53:02] [Server thread/INFO]: AwaKING was shot by Mei4o
+[10:53:17] [Server thread/INFO]: Mei4o was shot by AwaKING
+[10:53:21] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:53:36] [Server thread/INFO]: AwaKING was shot by Parzival5077
+[10:54:21] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
+[10:54:21] [Server thread/INFO]: Parzival5077 left the game
