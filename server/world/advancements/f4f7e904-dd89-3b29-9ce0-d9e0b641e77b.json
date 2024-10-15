@@ -51,6 +51,7 @@
       "minecraft:skeleton": "2024-09-26 07:05:35 +0000",
       "minecraft:spider": "2024-09-26 08:06:06 +0000",
       "minecraft:creeper": "2024-09-26 07:51:21 +0000",
+      "minecraft:enderman": "2024-10-15 09:26:32 +0000",
       "minecraft:zombie": "2024-09-25 08:05:20 +0000"
     },
     "done": false
@@ -8438,6 +8439,18 @@
   "create:recipes/misc/crafting/kinetics/sail_framefrom_conversion": {
     "criteria": {
       "has_item": "2024-10-15 08:50:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-10-15 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-10-15 09:24:11 +0000"
     },
     "done": true
   },
