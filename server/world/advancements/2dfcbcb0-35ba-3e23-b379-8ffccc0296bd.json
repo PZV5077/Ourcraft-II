@@ -2546,6 +2546,7 @@
       "minecraft:skeleton": "2024-09-30 12:29:26 +0000",
       "minecraft:spider": "2024-09-30 12:30:20 +0000",
       "minecraft:creeper": "2024-09-30 12:30:24 +0000",
+      "minecraft:zombified_piglin": "2024-10-15 11:06:04 +0000",
       "minecraft:enderman": "2024-09-30 12:31:40 +0000",
       "minecraft:stray": "2024-10-14 07:20:10 +0000",
       "minecraft:zombie": "2024-09-30 12:11:53 +0000",
@@ -5313,6 +5314,7 @@
   },
   "meadow:main/wool_collector": {
     "criteria": {
+      "meadow:inky_wool": "2024-10-15 11:02:30 +0000",
       "meadow:patched_wool": "2024-10-14 07:15:28 +0000",
       "meadow:warped_wool": "2024-10-10 08:05:06 +0000"
     },
@@ -6206,6 +6208,18 @@
     },
     "done": true
   },
+  "svm_jojo:storyline/kills/killer_queen/100": {
+    "criteria": {
+      "requirement": "2024-10-15 11:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-10-15 11:06:10 +0000"
+    },
+    "done": true
+  },
   "svm_jojo:storyline/stand_mastery_2": {
     "criteria": {
       "requirement": "2024-10-15 10:51:35 +0000"
@@ -6227,6 +6241,12 @@
   "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2024-10-15 10:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-10-15 11:06:10 +0000"
     },
     "done": true
   },
