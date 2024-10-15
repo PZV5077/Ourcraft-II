@@ -2144,3 +2144,52 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [10:39:17] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
 [10:39:37] [Server thread/INFO]: AwaKING lost connection: Timed out
 [10:39:37] [Server thread/INFO]: AwaKING left the game
+[10:39:48] [Server thread/INFO]: AwaKING[/127.0.0.1:38940] logged in with entity id 202335 at (11952.52954904699, 72.0, -596.5152815257717)
+[10:39:48] [Server thread/INFO]: AwaKING joined the game
+[10:39:48] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[10:39:48] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[10:39:48] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[10:39:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[10:39:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[10:39:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[10:39:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[10:39:48] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[10:40:50] [Server thread/INFO]: [Parzival5077: Teleported Mei4o to Parzival5077]
+[10:41:22] [Server thread/INFO]: [Parzival5077: Teleported AwaKING to Parzival5077]
+[10:42:30] [Server thread/INFO]: AwaKING was shot by Mei4o
+[10:42:41] [Server thread/INFO]: CheessRevolution drowned
+[10:42:48] [Server thread/INFO]: AwaKING was shot by Mei4o
+[10:43:05] [Server thread/INFO]: Mei4o was shot by AwaKING
+[10:43:24] [Server thread/INFO]: AwaKING was shot by Mei4o
+[10:43:58] [Server thread/INFO]: Mei4o was shot by AwaKING
+[10:44:48] [Server thread/INFO]: Mei4o was shot by AwaKING
+[10:44:57] [Server thread/INFO]: [Parzival5077: Set own game mode to Survival Mode]
+[10:45:06] [Server thread/INFO]: AwaKING was shot by Mei4o
+[10:45:24] [Server thread/INFO]: AwaKING was shot by Parzival5077
+[10:45:37] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
+[10:45:40] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[10:45:41] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 606)]
+[10:45:42] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[10:46:11] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:46:19] [Server thread/INFO]: AwaKING was shot by Parzival5077
+[10:46:42] [Server thread/INFO]: AwaKING was killed
+[10:46:42] [Server thread/INFO]: [Parzival5077: Killed AwaKING]
+[10:47:03] [Server thread/INFO]: AwaKING was shot by Parzival5077
+[10:47:24] [Server thread/INFO]: AwaKING was shot by Parzival5077
+[10:47:40] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:47:44] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:47:49] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:47:53] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:47:56] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:48:00] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:48:04] [Server thread/INFO]: AwaKING was shot by Mei4o
+[10:48:16] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:48:22] [Server thread/INFO]: Mei4o was shot by AwaKING
+[10:48:30] [Server thread/INFO]: Mei4o was shot by AwaKING
+[10:48:32] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:48:38] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:48:39] [Server thread/INFO]: Mei4o was shot by AwaKING
+[10:48:45] [Server thread/INFO]: AwaKING was shot by Parzival5077
+[10:48:56] [Server thread/INFO]: AwaKING was shot by Mei4o
+[10:49:09] [Server thread/INFO]: Parzival5077 was shot by Mei4o
+[10:49:15] [Server thread/INFO]: [Parzival5077: Teleported Mei4o to Parzival5077]
