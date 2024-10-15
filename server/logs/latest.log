@@ -2124,3 +2124,23 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [10:33:29] [Server thread/INFO]: Parzival5077 was shot by AwaKING
 [10:33:50] [Server thread/INFO]: AwaKING was shot by Parzival5077
 [10:34:07] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:34:48] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:35:35] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:36:27] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:37:01] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:37:37] [Server thread/INFO]: Parzival5077 was slain by AwaKING
+[10:37:55] [Server thread/INFO]: AwaKING hit the ground too hard
+[10:38:32] [Server thread/INFO]: [Parzival5077: Set own game mode to Creative Mode]
+[10:38:41] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to AwaKING]
+[10:39:15] [Server thread/INFO]: Mei4o[/127.0.0.1:57786] logged in with entity id 201395 at (12004.070698070751, 71.0, -600.5177567882968)
+[10:39:15] [Server thread/INFO]: Mei4o joined the game
+[10:39:17] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[10:39:17] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[10:39:17] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[10:39:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[10:39:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[10:39:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[10:39:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[10:39:17] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[10:39:37] [Server thread/INFO]: AwaKING lost connection: Timed out
+[10:39:37] [Server thread/INFO]: AwaKING left the game
