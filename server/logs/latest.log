@@ -1884,3 +1884,67 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 io.netty.handler.timeout.ReadTimeoutException: null
 [09:37:39] [Server thread/INFO]: Littlebugs404_ lost connection: Timed out
 [09:37:39] [Server thread/INFO]: Littlebugs404_ left the game
+[09:37:54] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:49098] logged in with entity id 81768 at (13795.193748821319, 64.0, 296.79209072978784)
+[09:37:54] [Server thread/INFO]: Littlebugs404_ joined the game
+[09:37:57] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[09:37:57] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[09:37:57] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[09:37:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[09:37:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[09:37:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[09:37:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[09:37:57] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[09:38:11] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[09:38:11] [Server thread/INFO]: Littlebugs404_ lost connection: Disconnected
+[09:38:11] [Server thread/INFO]: Littlebugs404_ left the game
+[09:40:57] [Server thread/INFO]: CheessRevolution[/127.0.0.1:53008] logged in with entity id 83663 at (13792.2963165869, 71.0, 256.5255974342176)
+[09:40:57] [Server thread/INFO]: CheessRevolution joined the game
+[09:40:58] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[09:40:58] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[09:40:58] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[09:40:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[09:40:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[09:40:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[09:40:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[09:40:58] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[09:41:20] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[09:41:23] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[09:41:26] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[09:42:27] [Server thread/INFO]: CheessRevolution lost connection: Timed out
+[09:42:27] [Server thread/INFO]: CheessRevolution left the game
+[09:42:54] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[09:43:24] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[09:45:43] [Server thread/INFO]: [Parzival5077: Set own game mode to Survival Mode]
+[09:47:09] [Server thread/INFO]: [Parzival5077: Set own game mode to Creative Mode]
+[09:48:51] [Server thread/INFO]: CheessRevolution[/127.0.0.1:33262] logged in with entity id 88491 at (13792.68673195311, 63.0, 254.69999998807907)
+[09:48:51] [Server thread/INFO]: CheessRevolution joined the game
+[09:48:52] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 12533.000000, 72.000000, -334.000000]
+[09:48:52] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[09:48:52] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[09:48:52] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[09:48:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[09:48:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[09:48:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[09:48:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[09:48:52] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[09:50:14] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 12529.000000, 71.000000, -335.000000]
+[09:51:21] [Server thread/INFO]: AwaKING[/127.0.0.1:60396] logged in with entity id 91257 at (11984.770015028067, 71.0, -576.1936356841875)
+[09:51:21] [Server thread/INFO]: AwaKING joined the game
+[09:51:23] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[09:51:23] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[09:51:23] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[09:51:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[09:51:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[09:51:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[09:51:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[09:51:23] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[09:54:57] [Server thread/INFO]: CheessRevolution drowned
+[09:55:21] [Server thread/INFO]: CheessRevolution has made the advancement [Lit!]
+[09:57:19] [Server thread/INFO]: [Parzival5077: Teleported AwaKING to Parzival5077]
+[09:57:56] [Server thread/INFO]: AwaKING was shot by Parzival5077

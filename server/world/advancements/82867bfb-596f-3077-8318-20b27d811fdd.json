@@ -9240,9 +9240,21 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/eucalyptus_pressure_plate": {
+  "regions_unexplored:recipes/decorations/eucalyptus_branch_from_eucalyptus_log": {
     "criteria": {
-      "has_eucalyptus_planks": "2024-10-14 12:15:34 +0000"
+      "has_log": "2024-10-14 12:09:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_planks": {
+    "criteria": {
+      "has_logs": "2024-10-14 12:09:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_wood": {
+    "criteria": {
+      "has_log": "2024-10-14 12:09:13 +0000"
     },
     "done": true
   },
@@ -9258,39 +9270,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/eucalyptus_button": {
-    "criteria": {
-      "has_eucalyptus_planks": "2024-10-14 12:15:34 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/eucalyptus_sign": {
-    "criteria": {
-      "has_eucalyptus_planks": "2024-10-14 12:15:34 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/eucalyptus_branch_from_eucalyptus_log": {
-    "criteria": {
-      "has_log": "2024-10-14 12:09:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2024-10-14 12:12:10 +0000"
-    },
-    "done": true
-  },
-  "svm_jojo:storyline/get_king_crimson": {
-    "criteria": {
-      "requirement": "2024-10-14 12:27:51 +0000"
-    },
-    "done": true
-  },
-  "svm_jojo:skill_tree/king_crimson/epitaph": {
-    "criteria": {
-      "requirement": "2024-10-14 12:27:51 +0000"
     },
     "done": true
   },
@@ -9318,25 +9300,25 @@
     },
     "done": true
   },
-  "svm_jojo:storyline/erase_time_stop": {
-    "criteria": {
-      "requirement": "2024-10-14 12:35:10 +0000"
-    },
-    "done": true
-  },
-  "svm_jojo:skill_tree/king_crimson/time_erase": {
-    "criteria": {
-      "requirement": "2024-10-14 12:27:51 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/eucalyptus_planks": {
-    "criteria": {
-      "has_logs": "2024-10-14 12:09:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-10-14 12:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-10-14 12:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-10-14 12:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2024-10-14 12:12:10 +0000"
     },
@@ -9348,9 +9330,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_sandstone": {
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
     "criteria": {
-      "has_sandstone": "2024-10-14 12:12:10 +0000"
+      "has_dune_armor_trim_smithing_template": "2024-10-14 12:12:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_pressure_plate": {
+    "criteria": {
+      "has_eucalyptus_planks": "2024-10-14 12:15:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_button": {
+    "criteria": {
+      "has_eucalyptus_planks": "2024-10-14 12:15:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/eucalyptus_sign": {
+    "criteria": {
+      "has_eucalyptus_planks": "2024-10-14 12:15:34 +0000"
     },
     "done": true
   },
@@ -9372,27 +9372,9 @@
     },
     "done": true
   },
-  "svm_jojo:skill_tree/king_crimson/root": {
-    "criteria": {
-      "requirement": "2024-10-14 12:27:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-10-14 12:12:10 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/decorations/regions_unexplored/sign_post_eucalyptus": {
     "criteria": {
       "has_planks": "2024-10-14 12:15:34 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/eucalyptus_wood": {
-    "criteria": {
-      "has_log": "2024-10-14 12:09:13 +0000"
     },
     "done": true
   },
@@ -9402,9 +9384,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+  "regions_unexplored:recipes/redstone/eucalyptus_door": {
     "criteria": {
-      "has_dune_armor_trim_smithing_template": "2024-10-14 12:12:44 +0000"
+      "has_eucalyptus_planks": "2024-10-14 12:15:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_stairs": {
+    "criteria": {
+      "has_eucalyptus_planks": "2024-10-14 12:15:34 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/get_king_crimson": {
+    "criteria": {
+      "requirement": "2024-10-14 12:27:51 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/king_crimson/epitaph": {
+    "criteria": {
+      "requirement": "2024-10-14 12:27:51 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/king_crimson/time_erase": {
+    "criteria": {
+      "requirement": "2024-10-14 12:27:51 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/king_crimson/root": {
+    "criteria": {
+      "requirement": "2024-10-14 12:27:51 +0000"
     },
     "done": true
   },
@@ -9420,21 +9432,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall": {
+  "svm_jojo:storyline/erase_time_stop": {
     "criteria": {
-      "has_sandstone": "2024-10-14 12:12:10 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/eucalyptus_door": {
-    "criteria": {
-      "has_eucalyptus_planks": "2024-10-14 12:15:34 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/eucalyptus_stairs": {
-    "criteria": {
-      "has_eucalyptus_planks": "2024-10-14 12:15:34 +0000"
+      "requirement": "2024-10-14 12:35:10 +0000"
     },
     "done": true
   },
