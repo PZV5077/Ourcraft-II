@@ -1716,3 +1716,15 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [08:12:15] [Server thread/INFO]: CheessRevolution has made the advancement [Best Friends Forever]
 [08:14:14] [Server thread/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
 [08:14:14] [Server thread/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[08:18:35] [Server thread/INFO]: CheessRevolution lost connection: Disconnected
+[08:18:35] [Server thread/INFO]: CheessRevolution left the game
+[08:19:36] [Server thread/INFO]: CheessRevolution[/127.0.0.1:48872] logged in with entity id 23737 at (12575.885404657054, 104.0, -286.8448318356501)
+[08:19:36] [Server thread/INFO]: CheessRevolution joined the game
+[08:19:39] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[08:19:39] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[08:19:39] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[08:19:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[08:19:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[08:19:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[08:19:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[08:19:39] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
