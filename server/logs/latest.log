@@ -1948,3 +1948,47 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [09:55:21] [Server thread/INFO]: CheessRevolution has made the advancement [Lit!]
 [09:57:19] [Server thread/INFO]: [Parzival5077: Teleported AwaKING to Parzival5077]
 [09:57:56] [Server thread/INFO]: AwaKING was shot by Parzival5077
+[09:58:23] [Server thread/INFO]: [Parzival5077: Set own game mode to Survival Mode]
+[09:59:07] [Server thread/INFO]: CheessRevolution lost connection: Timed out
+[09:59:07] [Server thread/INFO]: CheessRevolution left the game
+[09:59:17] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[09:59:31] [Server thread/INFO]: AwaKING was shot by Parzival5077
+[09:59:32] [Server thread/INFO]: CheessRevolution[/127.0.0.1:44242] logged in with entity id 126548 at (13796.699999988079, 64.0, 259.06422801835225)
+[09:59:32] [Server thread/INFO]: CheessRevolution joined the game
+[09:59:32] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[09:59:32] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[09:59:32] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[09:59:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[09:59:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[09:59:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[09:59:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[09:59:32] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[09:59:41] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[09:59:52] [Server thread/INFO]: AwaKING was shot by Parzival5077
+[10:00:08] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:00:17] [Server thread/INFO]: CheessRevolution lost connection: Disconnected
+[10:00:17] [Server thread/INFO]: CheessRevolution left the game
+[10:00:27] [Server thread/INFO]: CheessRevolution[/127.0.0.1:46712] logged in with entity id 129814 at (13799.007438347215, 64.0, 264.3452915258322)
+[10:00:27] [Server thread/INFO]: CheessRevolution joined the game
+[10:00:28] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[10:00:28] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[10:00:28] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[10:00:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[10:00:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[10:00:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[10:00:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[10:00:28] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[10:00:32] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:00:49] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:00:50] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:00:51] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:00:52] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:01:03] [Server thread/INFO]: CheessRevolution lost connection: Disconnected
+[10:01:03] [Server thread/INFO]: CheessRevolution left the game
+[10:01:24] [Server thread/INFO]: AwaKING fell from a high place
+[10:02:53] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:03:03] [Server thread/INFO]: Parzival5077 lost connection: Timed out
+[10:03:03] [Server thread/INFO]: Parzival5077 left the game
