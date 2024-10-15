@@ -2019,3 +2019,43 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [10:08:14] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
 [10:08:31] [Server thread/INFO]: AwaKING lost connection: Disconnected
 [10:08:31] [Server thread/INFO]: AwaKING left the game
+[10:09:01] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:10:04] [Server thread/INFO]: AwaKING[/127.0.0.1:55798] logged in with entity id 142063 at (11939.76281628035, 72.0, -567.6384517517704)
+[10:10:04] [Server thread/INFO]: AwaKING joined the game
+[10:10:05] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[10:10:05] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[10:10:05] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[10:10:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[10:10:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[10:10:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[10:10:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[10:10:05] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[10:10:11] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 12530.000000, 75.000000, -305.000000]
+[10:10:19] [Server thread/INFO]: [Parzival5077: Teleported AwaKING to Parzival5077]
+[10:10:23] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 12523.000000, 74.000000, -333.000000]
+[10:10:29] [Server thread/INFO]: [Parzival5077: Set own game mode to Survival Mode]
+[10:10:59] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:11:17] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:11:42] [Server thread/INFO]: AwaKING was shot by Parzival5077
+[10:11:58] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:12:06] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:12:14] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:12:26] [Server thread/INFO]: AwaKING was shot by Parzival5077
+[10:12:45] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:12:58] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:13:27] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:14:44] [Server thread/INFO]: AwaKING was shot by Parzival5077
+[10:14:58] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:15:11] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:15:25] [Server thread/INFO]: AwaKING was shot by Parzival5077
+[10:15:53] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:16:04] [Server thread/INFO]: AwaKING was shot by Parzival5077
+[10:16:16] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 12460.000000, 64.000000, -401.000000]
+[10:16:24] [Server thread/INFO]: [Parzival5077: Set own game mode to Creative Mode]
+[10:17:24] [Server thread/INFO]: [Parzival5077: Set own game mode to Survival Mode]
+[10:17:43] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:18:02] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:18:14] [Server thread/INFO]: Parzival5077 was shot by AwaKING
+[10:18:30] [Server thread/INFO]: AwaKING was shot by Parzival5077
+[10:18:31] [Server thread/INFO]: CheessRevolution drowned

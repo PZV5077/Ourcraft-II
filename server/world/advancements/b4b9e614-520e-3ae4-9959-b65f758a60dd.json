@@ -8512,7 +8512,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chorus_fruit": "2024-10-10 08:29:45 +0000",
-      "potato": "2024-10-02 08:25:53 +0000"
+      "potato": "2024-10-02 08:25:53 +0000",
+      "rotten_flesh": "2024-10-15 10:10:51 +0000"
     },
     "done": false
   },
