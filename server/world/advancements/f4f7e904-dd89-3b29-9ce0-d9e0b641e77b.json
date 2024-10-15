@@ -8122,6 +8122,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/sail_framefrom_conversion": {
+    "criteria": {
+      "has_item": "2024-10-15 08:50:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/sticker": {
     "criteria": {
       "has_item": "2024-10-15 08:39:39 +0000"
@@ -8257,6 +8263,13 @@
   "create:recipes/misc/crafting/kinetics/white_sail": {
     "criteria": {
       "has_item": "2024-10-15 08:39:39 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-10-15 08:48:04 +0000",
+      "1": "2024-10-15 08:46:57 +0000"
     },
     "done": true
   },
