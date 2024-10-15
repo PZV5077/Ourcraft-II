@@ -6433,7 +6433,8 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
-      "mixed_salad": "2024-09-26 10:31:13 +0000"
+      "mixed_salad": "2024-09-26 10:31:13 +0000",
+      "steak_and_potatoes": "2024-10-15 08:11:14 +0000"
     },
     "done": false
   },
@@ -8289,6 +8290,12 @@
   "farmersdelight:main/harvest_straw": {
     "criteria": {
       "harvest_straw": "2024-10-14 09:57:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2024-10-15 08:11:14 +0000"
     },
     "done": true
   },

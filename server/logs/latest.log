@@ -1713,3 +1713,6 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [08:04:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [08:04:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
 [08:04:27] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[08:12:15] [Server thread/INFO]: CheessRevolution has made the advancement [Best Friends Forever]
+[08:14:14] [Server thread/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[08:14:14] [Server thread/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
