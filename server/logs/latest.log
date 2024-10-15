@@ -1992,3 +1992,30 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [10:02:53] [Server thread/INFO]: Parzival5077 was shot by AwaKING
 [10:03:03] [Server thread/INFO]: Parzival5077 lost connection: Timed out
 [10:03:03] [Server thread/INFO]: Parzival5077 left the game
+[10:03:49] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@57ca21e[id=<null>,name=Parzival5077,properties={},legacy=false] (/127.0.0.1:37238): Took too long to log in
+[10:03:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@57ca21e[id=<null>,name=Parzival5077,properties={},legacy=false] (/127.0.0.1:37238) lost connection: Took too long to log in
+[10:03:49] [Server thread/WARN]: handleDisconnection() called twice
+[10:04:05] [Server thread/INFO]: Parzival5077[/127.0.0.1:43932] logged in with entity id 135812 at (12487.781475756496, 69.0, -341.25244915474406)
+[10:04:05] [Server thread/INFO]: Parzival5077 joined the game
+[10:04:05] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[10:04:05] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[10:04:05] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[10:04:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[10:04:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[10:04:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[10:04:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[10:04:05] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[10:06:00] [Server thread/INFO]: [Parzival5077: Teleported AwaKING to Parzival5077]
+[10:06:48] [Server thread/INFO]: [Parzival5077: Set own game mode to Creative Mode]
+[10:08:12] [Server thread/INFO]: CheessRevolution[/127.0.0.1:42748] logged in with entity id 139549 at (13799.007438347215, 64.0, 264.3452915258322)
+[10:08:12] [Server thread/INFO]: CheessRevolution joined the game
+[10:08:14] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[10:08:14] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[10:08:14] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[10:08:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[10:08:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[10:08:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[10:08:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[10:08:14] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft-II/server/bclib-sync (allowDelete=true)
+[10:08:31] [Server thread/INFO]: AwaKING lost connection: Disconnected
+[10:08:31] [Server thread/INFO]: AwaKING left the game
