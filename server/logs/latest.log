@@ -2293,3 +2293,4 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [11:26:07] [Server thread/INFO]: CheessRevolution fell from a high place
 [11:27:31] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[11:31:34] [Server thread/INFO]: CheessRevolution was doomed to fall
