@@ -8354,6 +8354,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-10-15 08:39:06 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
     "criteria": {
       "has_log": "2024-10-15 08:13:16 +0000"
@@ -8372,6 +8378,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2024-10-15 08:39:06 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/maple_trapdoor": {
     "criteria": {
       "has_maple_planks": "2024-10-15 08:13:53 +0000"
@@ -8381,6 +8393,12 @@
   "regions_unexplored:recipes/decorations/maple_sign": {
     "criteria": {
       "has_maple_planks": "2024-10-15 08:13:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-10-15 08:39:06 +0000"
     },
     "done": true
   },
@@ -8435,6 +8453,12 @@
   "supplementaries:recipes/decorations/regions_unexplored/sign_post_maple": {
     "criteria": {
       "has_planks": "2024-10-15 08:13:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-10-15 08:39:06 +0000"
     },
     "done": true
   },
