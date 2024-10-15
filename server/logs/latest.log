@@ -1734,3 +1734,5 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [08:42:39] [Server thread/INFO]: Littlebugs404_ left the game
 [08:43:37] [Server thread/INFO]: CheessRevolution has made the advancement [The Andesite Age]
 [08:45:28] [Server thread/INFO]: CheessRevolution has made the advancement [Bonk!]
+[08:56:05] [Server thread/INFO]: CheessRevolution lost connection: Disconnected
+[08:56:05] [Server thread/INFO]: CheessRevolution left the game
